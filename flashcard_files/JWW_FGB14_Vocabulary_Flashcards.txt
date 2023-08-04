@@ -1,0 +1,23 @@
+tags:JWW_FGB14_Vocabulary
+What is the best translation of ἄγριος ᾱ ον?	wild.
+What is the best translation of ἄξιος ᾱ ον?	worthy becoming right.
+What is the best translation of ἄπορος ον?	without resources impassable impracticable.
+What is the best translation of Ἀρταξέρξης ου ὁ?	Artaxerxes II.
+What is the best translation of ἐπιτήδειος ᾱ ον?	suitable fit deserving; τὰ ἐπιτήδεια provisions supplies.
+What is the best translation of ὄνος ου ὁ?	ass.
+What is the best translation of ὄρθιος ᾱ ον?	steep.
+What is the best translation of παίω παίσω ἔπαισα πέπαικα?	strike hit beat.
+What is the best translation of πάνυ?	adv. very altogether wholly.
+What is the best translation of πιστός ή όν?	faithful trustworthy.
+What is the best translation of φίλιος ᾱ ον?	friendly.
+What is the Greek word for wild?	ἄγριος ᾱ ον
+What is the Greek word for worthy becoming right?	ἄξιος ᾱ ον
+What is the Greek word for without resources impassable impracticable?	ἄπορος ον
+What is the Greek word for Artaxerxes II?	Ἀρταξέρξης ου ὁ
+What is the Greek word for suitable fit deserving; τὰ ἐπιτήδεια provisions supplies?	ἐπιτήδειος ᾱ ον
+What is the Greek word for ass?	ὄνος ου ὁ
+What is the Greek word for steep?	ὄρθιος ᾱ ον
+What is the Greek word for strike hit beat?	παίω παίσω ἔπαισα πέπαικα
+What is the Greek word for adv. very altogether wholly?	πάνυ
+What is the Greek word for faithful trustworthy?	πιστός ή όν
+What is the Greek word for friendly?	φίλιος ᾱ ον

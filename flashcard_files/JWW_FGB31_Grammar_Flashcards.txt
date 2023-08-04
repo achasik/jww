@@ -1,0 +1,145 @@
+tags:JWW_FGB31_Grammar
+What is the First Person Singular form of the Present Active Indicative Of λύω?	λύω
+What is the Second Person Singular form of the Present Active Indicative Of λύω?	λύεις
+What is the Third Person Singular form of the Present Active Indicative Of λύω?	λύει
+What is the Second Person Dual form of the Present Active Indicative Of λύω?	λύετον
+What is the Third Person Dual form of the Present Active Indicative Of λύω?	λύετον
+What is the First Person Plural form of the Present Active Indicative Of λύω?	λύομεν
+What is the Second Person Plural form of the Present Active Indicative Of λύω?	λύετε
+What is the Third Person Plural form of the Present Active Indicative Of λύω?	λύουσι
+What is the First Person Singular form of the Present Middle and Passive Indicative Of λύω?	λύο-μαι
+What is the Second Person Singular form of the Present Middle and Passive Indicative Of λύω?	λύει
+What is the Third Person Singular form of the Present Middle and Passive Indicative Of λύω?	λύε-ται
+What is the Second Person Dual form of the Present Middle and Passive Indicative Of λύω?	λύε-σθον
+What is the Third Person Dual form of the Present Middle and Passive Indicative Of λύω?	λύε-σθον
+What is the First Person Plural form of the Present Middle and Passive Indicative Of λύω?	λῡό-μεθα
+What is the Second Person Plural form of the Present Middle and Passive Indicative Of λύω?	λύε-σθε
+What is the Third Person Plural form of the Present Middle and Passive Indicative Of λύω?	λύο-νται
+What is the First Person Singular form of the Imperfect Active Indicative Of λύω?	ἔλῡον
+What is the Second Person Singular form of the Imperfect Active Indicative Of λύω?	ἔλῡες
+What is the Third Person Singular form of the Imperfect Active Indicative Of λύω?	ἔλῡε
+What is the Second Person Dual form of the Imperfect Active Indicative Of λύω?	ἐλύετον
+What is the Third Person Dual form of the Imperfect Active Indicative Of λύω?	ἐλῡέτην
+What is the First Person Plural form of the Imperfect Active Indicative Of λύω?	ἐλύομεν
+What is the Second Person Plural form of the Imperfect Active Indicative Of λύω?	ἐλύετε
+What is the Third Person Plural form of the Imperfect Active Indicative Of λύω?	ἔλῡον
+What is the First Person Singular form of the Imperfect Middle and Passive Indicative Of λύω?	ἐ-λῡό-μην
+What is the Second Person Singular form of the Imperfect Middle and Passive Indicative Of λύω?	ἐ-λύου
+What is the Third Person Singular form of the Imperfect Middle and Passive Indicative Of λύω?	ἐ-λύε-το
+What is the Second Person Dual form of the Imperfect Middle and Passive Indicative Of λύω?	ἐ-λύε-σθον
+What is the Third Person Dual form of the Imperfect Middle and Passive Indicative Of λύω?	ἐ-λῡέ-σθην
+What is the First Person Plural form of the Imperfect Middle and Passive Indicative Of λύω?	ἐ-λῡό-μεθα
+What is the Second Person Plural form of the Imperfect Middle and Passive Indicative Of λύω?	ἐ-λύε-σθε
+What is the Third Person Plural form of the Imperfect Middle and Passive Indicative Of λύω?	ἐ-λύο-ντο
+What is the First Person Singular form of the Future Active Indicative of λύω?	λύσω
+What is the Second Person Singular form of the Future Active Indicative of λύω?	λύσεις
+What is the Third Person Singular form of the Future Active Indicative of λύω?	λύσει
+What is the Second Person Dual form of the Future Active Indicative of λύω?	λύσετον
+What is the Third Person Dual form of the Future Active Indicative of λύω?	λύσετον
+What is the First Person Plural form of the Future Active Indicative of λύω?	λύσομεν
+What is the Second Person Plural form of the Future Active Indicative of λύω?	λύσετε
+What is the Third Person Plural form of the Future Active Indicative of λύω?	λύσουσι
+What is the First Person Singular form of the Future Middle Indicative of λύω?	λύσο-μαι
+What is the Second Person Singular form of the Future Middle Indicative of λύω?	λύσει
+What is the Third Person Singular form of the Future Middle Indicative of λύω?	λύσε-ται
+What is the Second Person Dual form of the Future Middle Indicative of λύω?	λύσε-σθον
+What is the Third Person Dual form of the Future Middle Indicative of λύω?	λύσε-σθον
+What is the First Person Plural form of the Future Middle Indicative of λύω?	λῡσό-μεθα
+What is the Second Person Plural form of the Future Middle Indicative of λύω?	λύσε-σθε
+What is the Third Person Plural form of the Future Middle Indicative of λύω?	λύσο-νται
+What is the First Person Singular form of the Future Passive Indicative Passive of λύω?	λυθήσο-μαι
+What is the Second Person Singular form of the Future Passive Indicative Passive of λύω?	λυθήσει
+What is the Third Person Singular form of the Future Passive Indicative Passive of λύω?	λυθήσε-ται
+What is the Second Person Dual form of the Future Passive Indicative Passive of λύω?	λυθήσε-σθον
+What is the Third Person Dual form of the Future Passive Indicative Passive of λύω?	λυθήσε-σθον
+What is the First Person Plural form of the Future Passive Indicative Passive of λύω?	λυθησό-μεθα
+What is the Second Person Plural form of the Future Passive Indicative Passive of λύω?	λυθήσε-σθε
+What is the Third Person Plural form of the Future Passive Indicative Passive of λύω?	λυθήσον-ται
+What is the First Person Singular form of the First Aorist Active Indicative of λύω?	ἕλῡσα
+What is the Second Person Singular form of the First Aorist Active Indicative of λύω?	ἔλῡσας
+What is the Third Person Singular form of the First Aorist Active Indicative of λύω?	ἔλῡσε
+What is the Second Person Dual form of the First Aorist Active Indicative of λύω?	ἐλύσατον
+What is the Third Person Dual form of the First Aorist Active Indicative of λύω?	ἐλῡσάτην
+What is the First Person Plural form of the First Aorist Active Indicative of λύω?	ἐλύσαμεν
+What is the Second Person Plural form of the First Aorist Active Indicative of λύω?	ἐλύσατε
+What is the Third Person Plural form of the First Aorist Active Indicative of λύω?	ἔλῡσαν
+What is the First Person Singular form of the First Aorist Indicative Middle of λύω?	ἐ-λῡσά-μην
+What is the Second Person Singular form of the First Aorist Indicative Middle of λύω?	ἐ-λύσω
+What is the Third Person Singular form of the First Aorist Indicative Middle of λύω?	ἐ-λύσα-το
+What is the Second Person Dual form of the First Aorist Indicative Middle of λύω?	ἐ-λύσα-σθον
+What is the Third Person Dual form of the First Aorist Indicative Middle of λύω?	ἐ-λῡσά-σθην
+What is the First Person Plural form of the First Aorist Indicative Middle of λύω?	ἐ-λῡσά-μεθα
+What is the Second Person Plural form of the First Aorist Indicative Middle of λύω?	ἐ-λύσα-σθε
+What is the Third Person Plural form of the First Aorist Indicative Middle of λύω?	ἐλύσα-ντο
+What is the First Person Singular form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη-ν
+What is the Second Person Singular form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη-ς
+What is the Third Person Singular form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη
+What is the Second Person Dual form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη-τον
+What is the Third Person Dual form of the First Aorist Indicative Passive of λύω?	ἐ-λυθή-την
+What is the First Person Plural form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη-μεν
+What is the Second Person Plural form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη-τε
+What is the Third Person Plural form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη-σαν
+What is the First Person Singular form of the First Perfect Active Indicative Of λύω?	λέλυκα
+What is the Second Person Singular form of the First Perfect Active Indicative Of λύω?	λέλυκας
+What is the Third Person Singular form of the First Perfect Active Indicative Of λύω?	λέλυκε
+What is the Second Person Dual form of the First Perfect Active Indicative Of λύω?	λελύκατον
+What is the Third Person Dual form of the First Perfect Active Indicative Of λύω?	λελύκατον
+What is the First Person Plural form of the First Perfect Active Indicative Of λύω?	λελύκαμεν
+What is the Second Person Plural form of the First Perfect Active Indicative Of λύω?	λελύκατε
+What is the Third Person Plural form of the First Perfect Active Indicative Of λύω?	λελύκᾱσι
+What is the First Person Singular form of the Perfect Middle and Passive Indicative of λύω?	λέλυ-μαι
+What is the Second Person Singular form of the Perfect Middle and Passive Indicative of λύω?	λέλυ-σαι
+What is the Third Person Singular form of the Perfect Middle and Passive Indicative of λύω?	λέλυ-ται
+What is the Second Person Dual form of the Perfect Middle and Passive Indicative of λύω?	λέλυ-σθον
+What is the Third Person Dual form of the Perfect Middle and Passive Indicative of λύω?	λέλυ-σθον
+What is the First Person Plural form of the Perfect Middle and Passive Indicative of λύω?	λελύ-μεθα
+What is the Second Person Plural form of the Perfect Middle and Passive Indicative of λύω?	λέλυ-σθε
+What is the Third Person Plural form of the Perfect Middle and Passive Indicative of λύω?	λέλυ-νται
+What is the First Person Singular form of the Pluperfect Active Indicative Of λύω?	ἐλελύκη
+What is the Second Person Singular form of the Pluperfect Active Indicative Of λύω?	ἐλελύκης
+What is the Third Person Singular form of the Pluperfect Active Indicative Of λύω?	ἐλελύκει
+What is the Second Person Dual form of the Pluperfect Active Indicative Of λύω?	ἐλελύκετον
+What is the Third Person Dual form of the Pluperfect Active Indicative Of λύω?	ἐλελυκέτην
+What is the First Person Plural form of the Pluperfect Active Indicative Of λύω?	ἐλελύκεμεν
+What is the Second Person Plural form of the Pluperfect Active Indicative Of λύω?	ἐλελύκετε
+What is the Third Person Plural form of the Pluperfect Active Indicative Of λύω?	ἐλελύκεσαν
+What is the First Person Singular form of the Pluperfect Middle and Passive Indicative of λύω?	ἐ-λελύ-μην
+What is the Second Person Singular form of the Pluperfect Middle and Passive Indicative of λύω?	ἐ-λέλυ-σο
+What is the Third Person Singular form of the Pluperfect Middle and Passive Indicative of λύω?	ἐ-λέλυ-το
+What is the Second Person Dual form of the Pluperfect Middle and Passive Indicative of λύω?	ἐ-λέλυ-σθον
+What is the Third Person Dual form of the Pluperfect Middle and Passive Indicative of λύω?	ἐ-λελύ-σθην
+What is the First Person Plural form of the Pluperfect Middle and Passive Indicative of λύω?	ἐ-λελύ-μεθα
+What is the Second Person Plural form of the Pluperfect Middle and Passive Indicative of λύω?	ἐ-λέλυ-σθε
+What is the Third Person Plural form of the Pluperfect Middle and Passive Indicative of λύω?	ἐ-λέλυ-ντο
+What is the First Person Singular form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-μαι) ἦγ-μαι
+What is the Second Person Singular form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-σαι) ἦξαι
+What is the Third Person Singular form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-ται) ἦχ-ται
+What is the Second Person Dual form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-σθον) ἦχ-θον
+What is the Third Person Dual form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-σθον) ἦχ-θον
+What is the First Person Plural form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-μεθα) ἤγ-μεθα
+What is the Second Person Plural form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-σθε) ἦχ-θε
+What is the Third Person Plural form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-μενοι) ἠγ-μένοι εἰσί
+What is the First Person Singular form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-μην) ἤγ-μην
+What is the Second Person Singular form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-σο) ἦξο
+What is the Third Person Singular form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-το) ἦκ-το
+What is the Second Person Dual form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-σθον) ἦχ-θον
+What is the Third Person Dual form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-σθην) ἤχ-θην
+What is the First Person Plural form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-μεθα) ἤγ-μεθα
+What is the Second Person Plural form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-σθε) ἦχ-θε
+What is the Third Person Plural form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-μενοι) ἠγ-μένοι ἦσαν
+What is the First Person Singular form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-μαι) πέπεισ-μαι
+What is the Second Person Singular form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-σαι) πέπει-σαι
+What is the Third Person Singular form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-ται) πέπεισ-ται
+What is the Second Person Dual form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-σθον) πέπει-σθον
+What is the Third Person Dual form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-σθον) πέπει-σθον
+What is the First Person Plural form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-μεθα) πεπείσ-μεθα
+What is the Second Person Plural form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-σθε) πέπει-σθε
+What is the Third Person Plural form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-μενοι) πεπεισ-μένοι εἰσί
+What is the First Person Singular form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-μην) ἐ-πεπείσ-μην
+What is the Second Person Singular form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-σο) ἐ-πέπει-σο
+What is the Third Person Singular form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-το) ἐ-πέπεισ-το
+What is the Second Person Dual form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-σθον) ἐ-πέπει-σθον
+What is the Third Person Dual form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-σθην) ἐ-πεπεί-σθην
+What is the First Person Plural form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-μεθα) ἐ-πεπείσ-μεθα
+What is the Second Person Plural form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-σθε) ἐ-πέπει-σθε
+What is the Third Person Plural form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-μενοι) πεπεισ-μένοι ἦσαν

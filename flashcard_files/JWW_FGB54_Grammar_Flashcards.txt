@@ -1,0 +1,100 @@
+tags:JWW_FGB54_Grammar
+What is the Nominative Singular form of the Masculine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδύς
+What is the Genitive Singular form of the Masculine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδέος
+What is the Dative Singular form of the Masculine form of the ἡδύς (ὴδυ) 'Sweet'?	(ἡδἐ-ϊ) ἡδεῖ
+What is the Accusative Singular form of the Masculine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδύν
+What is the Vocative Singular form of the Masculine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδύ
+What is the Nominative Accusative and Vocative Dual form of the Masculine form of the ἡδύς (ὴδυ) 'Sweet'?	(ἡδέ-ε) ἡδεῖ.
+What is the Genitive and Dative Dual form of the Masculine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδέοιν
+What is the Nominative and Vocative Plural form of the Masculine form of the ἡδύς (ὴδυ) 'Sweet'?	(ἡδέ-ες) ἡδεῖς
+What is the Genitive Plural form of the Masculine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδέων
+What is the Dative Plural form of the Masculine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδέσι
+What is the Accusative Plural form of the Masculine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδεῖς
+What is the Nominative Singular form of the Feminine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδεῖα
+What is the Genitive Singular form of the Feminine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδείᾱς
+What is the Dative Singular form of the Feminine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδείᾳ
+What is the Accusative Singular form of the Feminine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδεῖαν
+What is the Vocative Singular form of the Feminine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδεῖα
+What is the Nominative Accusative and Vocative Dual form of the Feminine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδείᾱ
+What is the Genitive and Dative Dual form of the Feminine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδείαιν
+What is the Nominative and Vocative Plural form of the Feminine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδεῖαι
+What is the Genitive Plural form of the Feminine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδειῶν
+What is the Dative Plural form of the Feminine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδείαις
+What is the Accusative Plural form of the Feminine form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδείᾱς
+What is the Nominative Singular form of the Neuter form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδύ
+What is the Genitive Singular form of the Neuter form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδέος
+What is the Dative Singular form of the Neuter form of the ἡδύς (ὴδυ) 'Sweet'?	(ἡδέ-ϊ) ἡδεῖ
+What is the Accusative Singular form of the Neuter form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδύ
+What is the Vocative Singular form of the Neuter form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδύ
+What is the Nominative Accusative and Vocative Dual form of the Neuter form of the ἡδύς (ὴδυ) 'Sweet'?	(ἡδέ-ε) ἡδεῖ
+What is the Genitive and Dative Dual form of the Neuter form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδέοιν
+What is the Nominative and Vocative Plural form of the Neuter form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδέα
+What is the Genitive Plural form of the Neuter form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδέων
+What is the Dative Plural form of the Neuter form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδέσι
+What is the Accusative Plural form of the Neuter form of the ἡδύς (ὴδυ) 'Sweet'?	ἡδέα
+What is the Nominative Singular form of the Masculine form of the μέγας (μεγα μεγαλο) 'Great'?	μέγας
+What is the Genitive Singular form of the Masculine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλου
+What is the Dative Singular form of the Masculine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλῳ
+What is the Accusative Singular form of the Masculine form of the μέγας (μεγα μεγαλο) 'Great'?	μέγαν
+What is the Vocative Singular form of the Masculine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλε
+What is the Nominative Accusative and Vocative Dual form of the Masculine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλω
+What is the Genitive and Dative Dual form of the Masculine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλοιν
+What is the Nominative and Vocative Plural form of the Masculine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλοι
+What is the Genitive Plural form of the Masculine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλων
+What is the Dative Plural form of the Masculine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλοις
+What is the Accusative Plural form of the Masculine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλους
+What is the Nominative Singular form of the Feminine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλη
+What is the Genitive Singular form of the Feminine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλης
+What is the Dative Singular form of the Feminine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλῃ
+What is the Accusative Singular form of the Feminine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλην
+What is the Vocative Singular form of the Feminine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλη
+What is the Nominative Accusative and Vocative Dual form of the Feminine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλᾱ
+What is the Genitive and Dative Dual form of the Feminine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλαιν
+What is the Nominative and Vocative Plural form of the Feminine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλαι
+What is the Genitive Plural form of the Feminine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλων
+What is the Dative Plural form of the Feminine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλαις
+What is the Accusative Plural form of the Feminine form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλᾱς
+What is the Nominative Singular form of the Neuter form of the μέγας (μεγα μεγαλο) 'Great'?	μέγα
+What is the Genitive Singular form of the Neuter form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλου
+What is the Dative Singular form of the Neuter form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλῳ
+What is the Accusative Singular form of the Neuter form of the μέγας (μεγα μεγαλο) 'Great'?	μέγα
+What is the Vocative Singular form of the Neuter form of the μέγας (μεγα μεγαλο) 'Great'?	μέγα
+What is the Nominative Accusative and Vocative Dual form of the Neuter form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλω
+What is the Genitive and Dative Dual form of the Neuter form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλοιν
+What is the Nominative and Vocative Plural form of the Neuter form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλα
+What is the Genitive Plural form of the Neuter form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλων
+What is the Dative Plural form of the Neuter form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλοις
+What is the Accusative Plural form of the Neuter form of the μέγας (μεγα μεγαλο) 'Great'?	μεγάλα
+What is the Nominative Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολύς
+What is the Genitive Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλοῦ
+What is the Dative Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλῷ
+What is the Accusative Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολύν
+What is the Vocative Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	μεγάλε
+What is the Nominative Accusative and Vocative Dual form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	μεγάλω
+What is the Genitive and Dative Dual form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	μεγάλοιν
+What is the Nominative and Vocative Plural form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλοί
+What is the Genitive Plural form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλῶν
+What is the Dative Plural form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλοῖς
+What is the Accusative Plural form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλούς
+What is the Nominative Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλή
+What is the Genitive Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλῆς
+What is the Dative Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλῇ
+What is the Accusative Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλήν
+What is the Vocative Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	μεγάλε
+What is the Nominative Accusative and Vocative Dual form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	μεγάλω
+What is the Genitive and Dative Dual form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	μεγάλοιν
+What is the Nominative and Vocative Plural form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλαί
+What is the Genitive Plural form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλῶν
+What is the Dative Plural form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλαῖς
+What is the Accusative Plural form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλάς
+What is the Nominative Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολύ
+What is the Genitive Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλοῦ
+What is the Dative Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλῷ
+What is the Accusative Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολύ
+What is the Vocative Singular form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	μεγάλε
+What is the Nominative Accusative and Vocative Dual form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	μεγάλω
+What is the Genitive and Dative Dual form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	μεγάλοιν
+What is the Nominative and Vocative Plural form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλά
+What is the Genitive Plural form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	μεγάλων
+What is the Dative Plural form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλοῖς
+What is the Accusative Plural form of the Masculine form of the πολύς (πολυ πολλο) 'Much Many'?	πολλά

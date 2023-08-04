@@ -1,0 +1,25 @@
+tags:JWW_FGB71_Vocabulary
+What does αἰσχύνω (αίσχυν) αἰσχυνῶ ᾔσχῡνα ᾐσχύνθην (cf. αἰσχρός) mean?	shame; αἰσχύνομαι as pass. dep. feel ashamed feel ashamed before.
+What does ἄλλως (cf. ἄλλος) mean?	adv. otherwise.
+What does ἀν-οίγω ἀν-οίξω ἀν-έῳξα ἀν-έῳγα and ἀν-έῳχα ἀν-έῳγμαι ἀν-εῴχθην mean?	open up open.
+What does δέω δήσω ἔδησα δέδεκα δέδεμαι ἐδέθην mean?	bind fetter.
+What does κατα-σχίζω mean?	split open burst open.
+What does ὅσος η ον mean?	rel. pron. how much or great how many as.
+What does πώς mean?	adv. in any way at all (enclitic).
+What does σωφροσύνη ης ἡ mean?	self-control.
+What does τιτρώσκω (τρο) τρώσω ἔτρωσα τέτρωμαι ἐτρώθην mean?	wound.
+What does τοσοῦτος η ον mean?	dem pron. so much so many.
+What does τυγχάνω (τυχ) τεύξομαι ἔτυχον τετύχηκα and τέτευχα mean?	hit attain get happen.
+What does φλυᾱρέω φλυᾱρήσω mean?	talk nonsense talk bosh.
+What is the Greek word for shame; αἰσχύνομαι as pass. dep. feel ashamed feel ashamed before?	αἰσχύνω (αίσχυν) αἰσχυνῶ ᾔσχῡνα ᾐσχύνθην (cf. αἰσχρός)
+What is the Greek word for adv. otherwise?	ἄλλως (cf. ἄλλος)
+What is the Greek word for open up open?	ἀν-οίγω ἀν-οίξω ἀν-έῳξα ἀν-έῳγα and ἀν-έῳχα ἀν-έῳγμαι ἀν-εῴχθην
+What is the Greek word for bind fetter?	δέω δήσω ἔδησα δέδεκα δέδεμαι ἐδέθην
+What is the Greek word for split open burst open?	κατα-σχίζω
+What is the Greek word for rel. pron. how much or great how many as?	ὅσος η ον
+What is the Greek word for adv. in any way at all (enclitic)?	πώς
+What is the Greek word for self-control?	σωφροσύνη ης ἡ
+What is the Greek word for wound?	τιτρώσκω (τρο) τρώσω ἔτρωσα τέτρωμαι ἐτρώθην
+What is the Greek word for dem pron. so much so many?	τοσοῦτος η ον
+What is the Greek word for hit attain get happen?	τυγχάνω (τυχ) τεύξομαι ἔτυχον τετύχηκα and τέτευχα
+What is the Greek word for talk nonsense talk bosh?	φλυᾱρέω φλυᾱρήσω

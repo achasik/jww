@@ -1,0 +1,37 @@
+tags:JWW_FGB8_Grammar
+What is the Nominative Singular form of the λόγος ὁ (Word)?	λόγος
+What is the Genitive Singular form of the λόγος ὁ (Word)?	λόγου
+What is the Dative Singular form of the λόγος ὁ (Word)?	λόγῳ
+What is the Accusative Singular form of the λόγος ὁ (Word)?	λόγον
+What is the Vocative Singular form of the λόγος ὁ (Word)?	λόγε
+What is the Nominative Accusative Vocative Dual form of the λόγος ὁ (Word)?	λόγω
+What is the Genitive Dative Dual form of the λόγος ὁ (Word)?	λόγοιν
+What is the Nominative Plural form of the λόγος ὁ (Word)?	λόγοι
+What is the Genitive Plural form of the λόγος ὁ (Word)?	λόγων
+What is the Dative Plural form of the λόγος ὁ (Word)?	λόγοις
+What is the Accusative Plural form of the λόγος ὁ (Word)?	λόγους
+What is the Vocative Plural form of the λόγος ὁ (Word)?	λόγοι
+What is the Nominative Singular form of the ὁ ἀγαθὸς ἄνθρωπος (The Good Man)?	ὁ ἀγαθὸς ἄνθρωπος
+What is the Genitive Singular form of the ὁ ἀγαθὸς ἄνθρωπος (The Good Man)?	τοῦ ἀγαθοῦ ἀνθρώπου
+What is the Dative Singular form of the ὁ ἀγαθὸς ἄνθρωπος (The Good Man)?	τῷ ἀγαθῷ ἀνθρώπῳ
+What is the Accusative Singular form of the ὁ ἀγαθὸς ἄνθρωπος (The Good Man)?	τὸν ἀγαθὸν ἄνθρωπον
+What is the Vocative Singular form of the ὁ ἀγαθὸς ἄνθρωπος (The Good Man)?	ἀγαθὲ ἄνθρωπε
+What is the Nominative Accusative Vocative Dual form of the ὁ ἀγαθὸς ἄνθρωπος (The Good Man)?	τὼ ἀγαθὼ ἀνθρώπω
+What is the Genitive Dative Dual form of the ὁ ἀγαθὸς ἄνθρωπος (The Good Man)?	τοῖν ἀγαθοῖν ἀνθρώποιν
+What is the Nominative Plural form of the ὁ ἀγαθὸς ἄνθρωπος (The Good Man)?	οἱ ἀγαθοὶ ἄνθρωποι
+What is the Genitive Plural form of the ὁ ἀγαθὸς ἄνθρωπος (The Good Man)?	τῶν ἀγαθῶν ἀνθρώπων
+What is the Dative Plural form of the ὁ ἀγαθὸς ἄνθρωπος (The Good Man)?	τοῖς ἀγαθοῖς ἀνθρώποις
+What is the Accusative Plural form of the ὁ ἀγαθὸς ἄνθρωπος (The Good Man)?	τοὺς ἀγαθοὺς ἀνθρώπους
+What is the Vocative Plural form of the ὁ ἀγαθὸς ἄνθρωπος (The Good Man)?	ἀγαθοὶ ἄνθρωποι
+What is the Nominative Singular form of the τὸ καλὸν δῶρον (The Fine Gift)?	τὸ καλὸν δῶρον
+What is the Genitive Singular form of the τὸ καλὸν δῶρον (The Fine Gift)?	τοῦ καλοῦ δώρου
+What is the Dative Singular form of the τὸ καλὸν δῶρον (The Fine Gift)?	τῷ καλῷ δώρῳ
+What is the Accusative Singular form of the τὸ καλὸν δῶρον (The Fine Gift)?	τὸ καλὸν δῶρον
+What is the Vocative Singular form of the τὸ καλὸν δῶρον (The Fine Gift)?	καλὸν δῶρον
+What is the Nominative Accusative Vocative Dual form of the τὸ καλὸν δῶρον (The Fine Gift)?	τὼ καλὼ δώρω
+What is the Genitive Dative Dual form of the τὸ καλὸν δῶρον (The Fine Gift)?	τοῖν καλοῖν δώροιν
+What is the Nominative Plural form of the τὸ καλὸν δῶρον (The Fine Gift)?	τὰ καλὰ δῶρα
+What is the Genitive Plural form of the τὸ καλὸν δῶρον (The Fine Gift)?	τῶν καλῶν δώρων
+What is the Dative Plural form of the τὸ καλὸν δῶρον (The Fine Gift)?	τοῖς καλοῖς δώροις
+What is the Accusative Plural form of the τὸ καλὸν δῶρον (The Fine Gift)?	τὰ καλὰ δῶρα
+What is the Vocative Plural form of the τὸ καλὸν δῶρον (The Fine Gift)?	καλὰ δῶρα

@@ -1,0 +1,47 @@
+tags:JWW_FGB56_Vocabulary
+What does εἷς μία ἕν mean?	one
+What does δύο mean?	two
+What does τρεῖς τρία mean?	three
+What does τέτταρες τέτταρα mean?	four
+What does πέντε mean?	five
+What does ἕξ mean?	six
+What does ἑπτά mean?	seven
+What does ὀκτώ mean?	eight
+What does ἐννέα mean?	nine
+What does δέκα mean?	ten
+What is the Greek word for one?	εἷς μία ἕν
+What is the Greek word for two?	δύο
+What is the Greek word for three?	τρεῖς τρία
+What is the Greek word for four?	τέτταρες τέτταρα
+What is the Greek word for five?	πέντε
+What is the Greek word for six?	ἕξ
+What is the Greek word for seven?	ἑπτά
+What is the Greek word for eight?	ὀκτώ
+What is the Greek word for nine?	ἐννέα
+What is the Greek word for ten?	δέκα
+What does εἷς μία ἕν mean?	one.
+What does ἐξ-ελαύνω mean?	drive out; intrans. march march on.
+What does Ζεύς Διός ὁ mean?	Zeus highest of the gods. Nos. 52 61.
+What does κατα-πράττω mean?	do thoroughly accomplish.
+What does ὅς ἥ ὅ mean?	rel. pron. who which.
+What does ὅσ-τις ἥτις ὅ τι (ὅς + τὶς) mean?	rel. pron. whoever whichever.
+What does οὐδ-είς οὐδεμία οὐδέν mean?	declined like εἷς (οὐδέ + εἷς) none no nobody nothing.
+What does στάδιον ου τό mean?	stadium stade 600 Greek feet.
+What does στρατηγέω στρατηγήσω ἐστρατήγησα ἐστρατήγηκα (cf. στρατηγός) mean?	be general lead take command command.
+What does σωτήρ ῆρος ὁ (cf. σῴζω) mean?	preserver savior a title given to Zeus.
+What does τέτταρες mean?	a four.
+What does τρεῖς τρία mean?	three.
+What does τρίτος η ον (cf. τρεῖς) mean?	third; τὸ τρίτον as adv. the third time.
+What is the Greek word for one?	εἷς μία ἕν
+What is the Greek word for drive out; intrans. march march on?	ἐξ-ελαύνω
+What is the Greek word for Zeus highest of the gods. Nos. 52 61?	Ζεύς Διός ὁ
+What is the Greek word for do thoroughly accomplish?	κατα-πράττω
+What is the Greek word for rel. pron. who which?	ὅς ἥ ὅ
+What is the Greek word for rel. pron. whoever whichever?	ὅσ-τις ἥτις ὅ τι (ὅς + τὶς)
+What is the Greek word for declined like εἷς (οὐδέ + εἷς) none no nobody nothing?	οὐδ-είς οὐδεμία οὐδέν
+What is the Greek word for stadium stade 600 Greek feet?	στάδιον ου τό
+What is the Greek word for be general lead take command command?	στρατηγέω στρατηγήσω ἐστρατήγησα ἐστρατήγηκα (cf. στρατηγός)
+What is the Greek word for preserver savior a title given to Zeus?	σωτήρ ῆρος ὁ (cf. σῴζω)
+What is the Greek word for a four?	τέτταρες
+What is the Greek word for three?	τρεῖς τρία
+What is the Greek word for third; τὸ τρίτον as adv. the third time?	τρίτος η ον (cf. τρεῖς)

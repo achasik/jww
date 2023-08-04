@@ -1,0 +1,31 @@
+tags:JWW_FGB6_Grammar
+What is the Nominative and Vocative Singular form of γέφῡρα (Bridge)?	γέφῡρα
+What is the Genitive Singular form of γέφῡρα (Bridge)?	γεφύρᾱς
+What is the Dative Singular form of γέφῡρα (Bridge)?	γεφύρᾳ
+What is the Accusative Singular form of γέφῡρα (Bridge)?	γέφῡραν
+What is the Nominative Accusative and Vocative Dual form of γέφῡρα (Bridge)?	γεφύρᾱ
+What is the Genitive and Dative Dual form of γέφῡρα (Bridge)?	γεφύραιν
+What is the Nominative and Vocative Plural form of γέφῡρα (Bridge)?	γέφῡραι
+What is the Genitive Plural form of γέφῡρα (Bridge)?	γεφῡρῶν
+What is the Dative Plural form of γέφῡρα (Bridge)?	γεφύραις
+What is the Accusative Plural form of γέφῡρα (Bridge)?	γεφύρᾱς
+What is the Nominative and Vocative Singular form of θάλαττα (Sea)?	θάλαττα
+What is the Genitive Singular form of θάλαττα (Sea)?	θαλάττης
+What is the Dative Singular form of θάλαττα (Sea)?	θαλάττῃ
+What is the Accusative Singular form of θάλαττα (Sea)?	θάλατταν
+What is the Nominative Accusative and Vocative Dual form of θάλαττα (Sea)?	θαλάττᾱ
+What is the Genitive and Dative Dual form of θάλαττα (Sea)?	θαλάτταιν
+What is the Nominative and Vocative Plural form of θάλαττα (Sea)?	θάλατται
+What is the Genitive Plural form of θάλαττα (Sea)?	θαλαττῶν
+What is the Dative Plural form of θάλαττα (Sea)?	θαλάτταις
+What is the Accusative Plural form of θάλαττα (Sea)?	θαλάττᾱς
+What is the Nominative and Vocative Singular form of μάχαιρα ἀγαθή (A Good Sabre)?	μάχαιρα ἀγαθή
+What is the Genitive Singular form of μάχαιρα ἀγαθή (A Good Sabre)?	μαχαίρᾱς ἀγαθῆς
+What is the Dative Singular form of μάχαιρα ἀγαθή (A Good Sabre)?	μαχαίρᾳ ἀγαθῇ
+What is the Accusative Singular form of μάχαιρα ἀγαθή (A Good Sabre)?	μάχαιραν ἀγαθήν
+What is the Nominative Accusative and Vocative Dual form of μάχαιρα ἀγαθή (A Good Sabre)?	μαχαίρᾱ ἀγαθά
+What is the Genitive and Dative Dual form of μάχαιρα ἀγαθή (A Good Sabre)?	μαχαίραιν ἀγαθαῖν
+What is the Nominative and Vocative Plural form of μάχαιρα ἀγαθή (A Good Sabre)?	μάχαιραι ἀγαθαί
+What is the Genitive Plural form of μάχαιρα ἀγαθή (A Good Sabre)?	μαχαιρῶν ἀγαθῶν
+What is the Dative Plural form of μάχαιρα ἀγαθή (A Good Sabre)?	μαχαίραις ἀγαθαῖς
+What is the Accusative Plural form of μάχαιρα ἀγαθή (A Good Sabre)?	μαχαίρᾱς ἀγαθάς

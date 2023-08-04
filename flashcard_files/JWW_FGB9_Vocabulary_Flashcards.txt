@@ -1,0 +1,27 @@
+tags:JWW_FGB9_Vocabulary
+What is the best translation of Κῦρος ου ὁ?	Cyrus.
+What is the best translation of ὁδός οῦ ἡ?	road way.
+What is the best translation of οἷνος ου ὁ?	wine
+What is the best translation of ποταμός οῦ ὁ?	river.
+What is the best translation of στρατηγός οῦ ὁ?	general.
+What is the best translation of φανερός ά όν?	adj. in plain sight visible evident.
+What is the best translation of θηρίον ου τό?	wild beast.
+What is the best translation of ὅπλον ου τό?	implement Plur.arms..
+What is the best translation of πλοῖον ου τό?	boat..
+What is the best translation of τόξον ου τό?	bow..
+What is the best translation of ὁ ἡ τό?	the def. art. the.
+What is the best translation of ὦ?	interj. with voc. O.
+What is the best translation of δέ?	conj. but and  (a postpositive).
+What is the Greek word for Cyrus?	Κῦρος ου ὁ
+What is the Greek word for road way?	ὁδός οῦ ἡ
+What is the Greek word for wine?	οἷνος ου ὁ
+What is the Greek word for river?	ποταμός οῦ ὁ
+What is the Greek word for general?	στρατηγός οῦ ὁ
+What is the Greek word for adj. in plain sight visible evident?	φανερός ά όν
+What is the Greek word for wild beast?	θηρίον ου τό
+What is the Greek word for implement Plur.arms?	ὅπλον ου τό
+What is the Greek word for boat?	πλοῖον ου τό
+What is the Greek word for bow?	τόξον ου τό
+What is the Greek word for the def. art. the?	ὁ ἡ τό
+What is the Greek word for interj. with voc. O?	ὦ
+What is the Greek word for conj. but and  (a postpositive)?	δέ

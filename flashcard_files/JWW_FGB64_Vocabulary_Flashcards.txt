@@ -1,0 +1,25 @@
+tags:JWW_FGB64_Vocabulary
+What does ἀνδρεῖος ᾱ ον (cf. ἀνήρ) mean?	manly brave.
+What does ἀνδρείως (cf. ἀνδρεῖος) mean?	adv. bravely.
+What does βαρβαρικῶς (cf. βαρβαρικός) mean?	adv. in the barbarian tongue e.g. in Persian.
+What does δι-άγω mean?	of time pass live continue.
+What does Ἑλληνικῶς (cf. Ἑλληνικός) mean?	adv. in Greek.
+What does εὐδαιμόνως (cf. εὐδαίμων) mean?	happily.
+What does ἰσχῡρῶς (cf. ἰσχῡρός) mean?	adv. strongly vehemently with severity.
+What does κινδῡνεύω κινδῡνεύσω etc. (cf. κίνδῡνος) mean?	 be in peril run a risk encounter danger.
+What does πονέω πονήσω etc. (cf. πόνος) mean?	toil labor undergo hardship.
+What does πόνος ου ὁ mean?	toil labor hardship.
+What does προθύμως (cf. πρόθῡμος) mean?	adv. eagerly.
+What does χαλεπαίνω (χαλεπαν) χαλεπανῶ ἐχαλέπηνα ἐχαλεπάνθην (cf. χαλεπός) mean?	be severe or violent be angry.
+What is the Greek word for manly brave?	ἀνδρεῖος ᾱ ον (cf. ἀνήρ)
+What is the Greek word for adv. bravely?	ἀνδρείως (cf. ἀνδρεῖος)
+What is the Greek word for adv. in the barbarian tongue e.g. in Persian?	βαρβαρικῶς (cf. βαρβαρικός)
+What is the Greek word for of time pass live continue?	δι-άγω
+What is the Greek word for adv. in Greek?	Ἑλληνικῶς (cf. Ἑλληνικός)
+What is the Greek word for happily?	εὐδαιμόνως (cf. εὐδαίμων)
+What is the Greek word for adv. strongly vehemently with severity?	ἰσχῡρῶς (cf. ἰσχῡρός)
+What is the Greek word for  be in peril run a risk encounter danger?	κινδῡνεύω κινδῡνεύσω etc. (cf. κίνδῡνος)
+What is the Greek word for toil labor undergo hardship?	πονέω πονήσω etc. (cf. πόνος)
+What is the Greek word for toil labor hardship?	πόνος ου ὁ
+What is the Greek word for adv. eagerly?	προθύμως (cf. πρόθῡμος)
+What is the Greek word for be severe or violent be angry?	χαλεπαίνω (χαλεπαν) χαλεπανῶ ἐχαλέπηνα ἐχαλεπάνθην (cf. χαλεπός)

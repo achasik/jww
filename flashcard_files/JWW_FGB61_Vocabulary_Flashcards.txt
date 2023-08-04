@@ -1,0 +1,23 @@
+tags:JWW_FGB61_Vocabulary
+What does δια-τρίβω mean?	rub through consume waste time delay
+What does ἔνθα (cf. ἐν) mean?	adv.: of place where there here; of time then thereupon.
+What does ἐργάζομαι (ἐργαδ) ἐργάσομαι εἰργασάμην εἴργασμαι (cf. ἔργον) mean?	work do inflict on.
+What does θάπτω (ταφ) θάψω ἔθαψα τέθαμμαι ἐτάφην mean?	bury.
+What does κηρύττω (κηρῡκ) κηρύξω ἐκήρῡξα κεκήρῡχα κεκήρῡγμαι ἐκηρύχθην (cf. κῆρυξ) mean?	proclaim make proclamation.
+What does κρύπτω (κρυφ) κρύψω ἔκρυψα κέκρυμμαι ἐκρύφθην mean?	hide conceal keep secret.
+What does κωμήτης ου ὁ (cf. κώμη) mean?	villager.
+What does οἴκοι (cf. οἰκίᾱ) mean?	adv. at home; οἱ οἴκοι those at home one’s countrymen. See 23.
+What does τελευταῖος ᾱ ον (cf. τελευτή) mean?	last; οἰ τελευταῖοι the rear guard.
+What does τρίβω τρίψω ἔτρῑψα τέτριφα τέτρῑμμαι ἐτρίβην and ἐτρίφθην mean?	rub
+What does χιών όνος ἡ mean?	snow.
+What is the Greek word for rub through consume waste time delay?	δια-τρίβω
+What is the Greek word for adv.: of place where there here; of time then thereupon?	ἔνθα (cf. ἐν)
+What is the Greek word for work do inflict on?	ἐργάζομαι (ἐργαδ) ἐργάσομαι εἰργασάμην εἴργασμαι (cf. ἔργον)
+What is the Greek word for bury?	θάπτω (ταφ) θάψω ἔθαψα τέθαμμαι ἐτάφην
+What is the Greek word for proclaim make proclamation?	κηρύττω (κηρῡκ) κηρύξω ἐκήρῡξα κεκήρῡχα κεκήρῡγμαι ἐκηρύχθην (cf. κῆρυξ)
+What is the Greek word for hide conceal keep secret?	κρύπτω (κρυφ) κρύψω ἔκρυψα κέκρυμμαι ἐκρύφθην
+What is the Greek word for villager?	κωμήτης ου ὁ (cf. κώμη)
+What is the Greek word for adv. at home; οἱ οἴκοι those at home one’s countrymen. See 23?	οἴκοι (cf. οἰκίᾱ)
+What is the Greek word for last; οἰ τελευταῖοι the rear guard?	τελευταῖος ᾱ ον (cf. τελευτή)
+What is the Greek word for rub?	τρίβω τρίψω ἔτρῑψα τέτριφα τέτρῑμμαι ἐτρίβην and ἐτρίφθην
+What is the Greek word for snow?	χιών όνος ἡ

@@ -1,0 +1,23 @@
+tags:JWW_FGB24_Vocabulary
+What does ἀλλά mean?	conj. but yet stronger than δέ.
+What does ἀμφί mean?	prep.: with gen. about concerning; with acc. about round.
+What does ἀνά mean?	prep. with acc. up up along up to with numerals at the rate of.
+What does ἄρχω ἄρξω ἦρξα ἦργμαι ἤρχθην (<em>cf.</em> ἀρχή) mean?	be first rule reign over command; mid. begin.
+What does αὖ mean?	adv. again in turn moreover.
+What does εἶτα mean?	adv. then thereupon.
+What does εὐθύς mean?	adv. at once immediately.
+What does περί mean?	prep.: with gen. about concerning; with dat. round about; with acc. about all round round.
+What does πρό mean?	prep. with gen. before in front of for.
+What does πρῶτος η ον (<em>cf.</em> πρό) mean?	first foremost;πρῶτον as adv. first.
+What does ὑπέρ mean?	prep.: with gen. over above in behalf of; with acc. over above.
+What is the Greek word for conj. but yet stronger than δέ?	ἀλλά
+What is the Greek word for prep.: with gen. about concerning; with acc. about round?	ἀμφί
+What is the Greek word for prep. with acc. up up along up to with numerals at the rate of?	ἀνά
+What is the Greek word for be first rule reign over command; mid. begin?	ἄρχω ἄρξω ἦρξα ἦργμαι ἤρχθην (<em>cf.</em> ἀρχή)
+What is the Greek word for adv. again in turn moreover?	αὖ
+What is the Greek word for adv. then thereupon?	εἶτα
+What is the Greek word for adv. at once immediately?	εὐθύς
+What is the Greek word for prep.: with gen. about concerning; with dat. round about; with acc. about all round round?	περί
+What is the Greek word for prep. with gen. before in front of for?	πρό
+What is the Greek word for first foremost;πρῶτον as adv. first?	πρῶτος η ον (<em>cf.</em> πρό)
+What is the Greek word for prep.: with gen. over above in behalf of; with acc. over above?	ὑπέρ

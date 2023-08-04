@@ -1,0 +1,23 @@
+tags:JWW_FGB70_Vocabulary
+What does ἀπο-στέλλω mean?	send away despatch.
+What does δια-σπείρω mean?	scatter about scatter.
+What does θαρρέω θαρρήσω ἐθάρρησα τεθάρρηκα mean?	be bold or courageous.
+What does οἰωνός οῦ ὁ mean?	omen.
+What does οὐδαμοῦ (cf. οὐ) mean?	adv.nowhere.
+What does ὀφθαλμός οῦ ὁ (cf. ὄψομαι) mean?	eye.
+What does παρ-αγγέλλω mean?	pass along an order give orders order.
+What does σπείρω (σπερ) σπερῶ ἔσπειρα ἔσπαρμαι ἐσπάρην mean?	sow throw about scatter disperse.
+What does σφόδρα mean?	adv. exceedingly.
+What does σωτηρίᾱ ᾱς ἡ (cf. σωτήρ) mean?	safety deliverance.
+What does ταράττω (ταραχ) ταράξω ἐτάραξα τετάραγμαι ἐταράχθην mean?	trouble disturb agitate.
+What is the Greek word for send away despatch?	ἀπο-στέλλω
+What is the Greek word for scatter about scatter?	δια-σπείρω
+What is the Greek word for be bold or courageous?	θαρρέω θαρρήσω ἐθάρρησα τεθάρρηκα
+What is the Greek word for omen?	οἰωνός οῦ ὁ
+What is the Greek word for adv.nowhere?	οὐδαμοῦ (cf. οὐ)
+What is the Greek word for eye?	ὀφθαλμός οῦ ὁ (cf. ὄψομαι)
+What is the Greek word for pass along an order give orders order?	παρ-αγγέλλω
+What is the Greek word for sow throw about scatter disperse?	σπείρω (σπερ) σπερῶ ἔσπειρα ἔσπαρμαι ἐσπάρην
+What is the Greek word for adv. exceedingly?	σφόδρα
+What is the Greek word for safety deliverance?	σωτηρίᾱ ᾱς ἡ (cf. σωτήρ)
+What is the Greek word for trouble disturb agitate?	ταράττω (ταραχ) ταράξω ἐτάραξα τετάραγμαι ἐταράχθην

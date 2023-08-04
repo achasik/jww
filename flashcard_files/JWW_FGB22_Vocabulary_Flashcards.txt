@@ -1,0 +1,23 @@
+tags:JWW_FGB22_Vocabulary
+What does ἅμα mean?	adv. at the same time.
+What does ἀριθμός οῦ ὁ mean?	number enumeration.
+What does δένδρον ου τό mean?	tree.
+What does κατά mean?	prep.: with gen. down from; with acc. down along over by.
+What does κατα-λείπω mean?	leave behind abandon.
+What does κατα-κόπτω mean?	cut down or in pieces.
+What does κόπτω (κοπ) κόψω ἔκοψα κέκοφα κέκομμαι ἐκόπην mean?	cut fell.
+What does λείπω (λιπ) λείψω ἔλιπον λέλοιπα λέλειμμαι ἐλείφθην mean?	leave.
+What does Πρόξενος ου ὁ mean?	Proxenus.
+What does τριάκοντα mean?	indeclinable thirty.
+What does χίλιοι αι α mean?	1000.
+What is the Greek word for adv. at the same time?	ἅμα
+What is the Greek word for number enumeration?	ἀριθμός οῦ ὁ
+What is the Greek word for tree?	δένδρον ου τό
+What is the Greek word for prep.: with gen. down from; with acc. down along over by?	κατά
+What is the Greek word for leave behind abandon?	κατα-λείπω
+What is the Greek word for cut down or in pieces?	κατα-κόπτω
+What is the Greek word for cut fell?	κόπτω (κοπ) κόψω ἔκοψα κέκοφα κέκομμαι ἐκόπην
+What is the Greek word for leave?	λείπω (λιπ) λείψω ἔλιπον λέλοιπα λέλειμμαι ἐλείφθην
+What is the Greek word for Proxenus?	Πρόξενος ου ὁ
+What is the Greek word for indeclinable thirty?	τριάκοντα
+What is the Greek word for 1000?	χίλιοι αι α

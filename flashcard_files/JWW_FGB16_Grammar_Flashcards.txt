@@ -1,0 +1,25 @@
+tags:JWW_FGB16_Grammar
+What is the First Person Singular form of the λύω (Imperfect Indicative Active)?	ἔ-λῡο-ν
+What is the Second Person Singular form of the λύω (Imperfect Indicative Active)?	ἔ-λῡο-ν
+What is the Third Person Singular form of the λύω (Imperfect Indicative Active)?	ἔ-λῡε
+What is the Second Person Dual form of the λύω (Imperfect Indicative Active)?	ἐ-λύε-τον
+What is the Third Person Dual form of the λύω (Imperfect Indicative Active)?	ἐ-λῡέ-την
+What is the First Person Plural form of the λύω (Imperfect Indicative Active)?	ἐ-λύο-μεν
+What is the Second Person Plural form of the λύω (Imperfect Indicative Active)?	ἐ-λύε-τε
+What is the Third Person Plural form of the λύω (Imperfect Indicative Active)?	ἔ-λῡο-ν
+What is the First Person Singular form of the λύω (Aorist Indicative Active)?	ἔ-λῡσα
+What is the Second Person Singular form of the λύω (Aorist Indicative Active)?	ἔ-λῡσα-ς
+What is the Third Person Singular form of the λύω (Aorist Indicative Active)?	ἔ-λῡσε
+What is the Second Person Dual form of the λύω (Aorist Indicative Active)?	ἐ-λύσα-τον
+What is the Third Person Dual form of the λύω (Aorist Indicative Active)?	ἐ-λῡσά-την
+What is the First Person Plural form of the λύω (Aorist Indicative Active)?	ἐ-λύσα-μεν
+What is the Second Person Plural form of the λύω (Aorist Indicative Active)?	ἐ-λύσα-τε
+What is the Third Person Plural form of the λύω (Aorist Indicative Active)?	ἔ-λῡσα-ν
+What is the First Person Singular form of the λύω (Perfect Indicative Active)?	λέλυκα
+What is the Second Person Singular form of the λύω (Perfect Indicative Active)?	λέλυκα-ς
+What is the Third Person Singular form of the λύω (Perfect Indicative Active)?	λέλυκε
+What is the Second Person Dual form of the λύω (Perfect Indicative Active)?	λελύκα-τον
+What is the Third Person Dual form of the λύω (Perfect Indicative Active)?	λελύκα-τον
+What is the First Person Plural form of the λύω (Perfect Indicative Active)?	λελύκα-μεν
+What is the Second Person Plural form of the λύω (Perfect Indicative Active)?	λελύκα-τε
+What is the Third Person Plural form of the λύω (Perfect Indicative Active)?	λελύκᾱσι

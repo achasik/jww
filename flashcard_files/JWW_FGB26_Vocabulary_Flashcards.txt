@@ -1,0 +1,23 @@
+tags:JWW_FGB26_Vocabulary
+What does ἅρμα ατος τό mean?	chariot.
+What does ἀσπίς ίδος ἡ mean?	shield.
+What does γέρων οντος ὁ mean?	old man.
+What does ἐλπίς ίδος ἡ  mean?	hope.
+What does νίκη ης ἡ  mean?	victory.
+What does νύξ νυκτός ἡ  mean?	night.
+What does ὄρνῑς ῑθος ὁ ἡ  mean?	bird.
+What does στόμα ατος τό  mean?	mouth; of an army van.
+What does στράτευμα ατος τό (cf.στρατιά στρατιώτης) mean?	army.
+What does χάρις ιτος ἡ  mean?	grace favor gratitude;
+What does χάριν ἔχω mean?	be or feel grateful.
+What is the Greek word for chariot?	ἅρμα ατος τό
+What is the Greek word for shield?	ἀσπίς ίδος ἡ
+What is the Greek word for old man?	γέρων οντος ὁ
+What is the Greek word for hope?	ἐλπίς ίδος ἡ 
+What is the Greek word for victory?	νίκη ης ἡ 
+What is the Greek word for night?	νύξ νυκτός ἡ 
+What is the Greek word for bird?	ὄρνῑς ῑθος ὁ ἡ 
+What is the Greek word for mouth; of an army van?	στόμα ατος τό 
+What is the Greek word for army?	στράτευμα ατος τό (cf.στρατιά στρατιώτης)
+What is the Greek word for grace favor gratitude;?	χάρις ιτος ἡ 
+What is the Greek word for be or feel grateful?	χάριν ἔχω

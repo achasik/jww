@@ -1,0 +1,33 @@
+tags:JWW_FGB38_Grammar
+What is the First Person Singular form of the Present Active Optative of λύω?	λύοι-μι
+What is the Second Person Singular form of the Present Active Optative of λύω?	λύοι-ς
+What is the Third Person Singular form of the Present Active Optative of λύω?	λύοι
+What is the Second Person Dual form of the Present Active Optative of λύω?	λύοι-τον
+What is the Third Person Dual form of the Present Active Optative of λύω?	λῡοί-την
+What is the First Person Plural form of the Present Active Optative of λύω?	λύοι-μεν
+What is the Second Person Plural form of the Present Active Optative of λύω?	λύοι-τε
+What is the Third Person Plural form of the Present Active Optative of λύω?	λύοιε-ν
+What is the First Person Singular form of the Future Active Optative of λύω?	λύσοι-μι
+What is the Second Person Singular form of the Future Active Optative of λύω?	λύσοι-ς
+What is the Third Person Singular form of the Future Active Optative of λύω?	λύσοι
+What is the Second Person Dual form of the Future Active Optative of λύω?	λύσοι-τον
+What is the Third Person Dual form of the Future Active Optative of λύω?	λῡσοί-την
+What is the First Person Plural form of the Future Active Optative of λύω?	λύσοι-μεν
+What is the Second Person Plural form of the Future Active Optative of λύω?	λύσοι-τε
+What is the Third Person Plural form of the Future Active Optative of λύω?	λύσοιε-ν
+What is the First Person Singular form of the Aorist Active Optative of λύω?	λύσαι-μι
+What is the Second Person Singular form of the Aorist Active Optative of λύω?	λύσεια-ς λύσαι-ς
+What is the Third Person Singular form of the Aorist Active Optative of λύω?	λύσειε λύσαι
+What is the Third Person Dual form of the Aorist Active Optative of λύω?	λύσαι-τον
+What is the First Person Plural form of the Aorist Active Optative of λύω?	λῡσαί-την
+What is the Second Person Plural form of the Aorist Active Optative of λύω?	λύσαι-μεν
+What is the Third Person Plural form of the Aorist Active Optative of λύω?	λύσαι-τε
+What is the Third Person Plural form of the Aorist Active Optative of λύω?	λύσεια-ν λύσαιε-ν
+What is the First Person Singular form of the Perfect Active Optative of λύω?	λελύκοι-μι
+What is the Second Person Singular form of the Perfect Active Optative of λύω?	λελύκοι-ς
+What is the Third Person Singular form of the Perfect Active Optative of λύω?	λελύκοι
+What is the Second Person Dual form of the Perfect Active Optative of λύω?	λελύκοι-τον
+What is the Third Person Dual form of the Perfect Active Optative of λύω?	λελυκοί-την
+What is the First Person Plural form of the Perfect Active Optative of λύω?	λελύκοι-μεν
+What is the Second Person Plural form of the Perfect Active Optative of λύω?	λελύκοι-τε
+What is the Third Person Plural form of the Perfect Active Optative of λύω?	λελύκοιε-ν

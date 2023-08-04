@@ -1,0 +1,23 @@
+tags:JWW_FGB76_Vocabulary
+What does ἀν-ίστημι mean?	make rise rouse; mid. with perf. and second aor. act. intrans. stand up rise.
+What does ἀπο-διδράσκω mean?	run away escape by stealth.
+What does βαίνω (βα) βήσομαι ἔβην βέβηκα βέβαμαι ἐβάθην mean?	go walk.
+What does δια-βαίνω mean?	go over cross.
+What does διδράσκω (δρα) δράσομαυ ἔδρᾱν δέδρᾱκα mean?	run.
+What does δύναμαι (δυνα) δυνήσομαι δεδύνημαι ἐδυνήθην mean?	be able or capable be worth amount to signify.
+What does ἐμ-πίμπλημι mean?	fill full satisfy.
+What does ἐπίσταμαι (ἐπιστα) ἐπιστήσομαι ἠπιστήθην mean?	understand know.
+What does ἐφ-ίστημι mean?	bring to a stand make halt; mid. with perf. and second aor. act. intrans. halt stop.
+What does ἵστημι (στα) στήσω ἔστησα and ἔστην ἕστηκα ἔσταμαι ἐστάθην mean?	set make stand make halt; mid. (except first aor.) with perf. and second aor. act. intrans. stand stop halt.
+What does καθ-ίστημι mean?	set down or in order settle station establish; mid. with perf. and second aor. act. intrans. take one’s place.
+What is the Greek word for make rise rouse; mid. with perf. and second aor. act. intrans. stand up rise?	ἀν-ίστημι
+What is the Greek word for run away escape by stealth?	ἀπο-διδράσκω
+What is the Greek word for go walk?	βαίνω (βα) βήσομαι ἔβην βέβηκα βέβαμαι ἐβάθην
+What is the Greek word for go over cross?	δια-βαίνω
+What is the Greek word for run?	διδράσκω (δρα) δράσομαυ ἔδρᾱν δέδρᾱκα
+What is the Greek word for be able or capable be worth amount to signify?	δύναμαι (δυνα) δυνήσομαι δεδύνημαι ἐδυνήθην
+What is the Greek word for fill full satisfy?	ἐμ-πίμπλημι
+What is the Greek word for understand know?	ἐπίσταμαι (ἐπιστα) ἐπιστήσομαι ἠπιστήθην
+What is the Greek word for bring to a stand make halt; mid. with perf. and second aor. act. intrans. halt stop?	ἐφ-ίστημι
+What is the Greek word for set make stand make halt; mid. (except first aor.) with perf. and second aor. act. intrans. stand stop halt?	ἵστημι (στα) στήσω ἔστησα and ἔστην ἕστηκα ἔσταμαι ἐστάθην
+What is the Greek word for set down or in order settle station establish; mid. with perf. and second aor. act. intrans. take one’s place?	καθ-ίστημι

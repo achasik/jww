@@ -1,0 +1,9 @@
+tags:JWW_FGB39_Grammar
+What is the First Person Singular form of the Present Optative of εἰμί?	εἴην
+What is the Second Person Singular form of the Present Optative of εἰμί?	εἴης
+What is the Third Person Singular form of the Present Optative of εἰμί?	εἴη
+What is the Second Person Dual form of the Present Optative of εἰμί?	εἶτον or εἴητον
+What is the Third Person Dual form of the Present Optative of εἰμί?	εἴτην or εἰήτην
+What is the First Person Plural form of the Present Optative of εἰμί?	εἶμεν or εἴημεν
+What is the Second Person Plural form of the Present Optative of εἰμί?	εἶτε or εἴητε
+What is the Third Person Plural form of the Present Optative of εἰμί?	εἶεν or εἴησαν

@@ -1,0 +1,37 @@
+tags:JWW_FGB45_Grammar
+What is the Second Person Singular form of the Present Imperative Middle and Passive of τῑμάω?	(τίμαε) τίμᾱ
+What is the Third Person Singular form of the Present Imperative Middle and Passive of τῑμάω?	(τῑμαέτω) τῑμάτω
+What is the Second Person Dual form of the Present Imperative Middle and Passive of τῑμάω?	(τῑμάετον) τῑμᾶτον
+What is the Third Person Dual form of the Present Imperative Middle and Passive of τῑμάω?	(τῑμαέτων) τῑμάτων
+What is the Second Person Plural form of the Present Imperative Middle and Passive of τῑμάω?	(τῑμάετε) τῑμᾶτε
+What is the Third Person Plural form of the Present Imperative Middle and Passive of τῑμάω?	(τῑμαόντων) τῑμώντων
+What is the Second Person Singular form of the Present Imperative Middle and Passive of τῑμάω?	(τῑμάου) τῑμῶ
+What is the Third Person Singular form of the Present Imperative Middle and Passive of τῑμάω?	(τῑμαέσθω) τῑμάσθω
+What is the Second Person Dual form of the Present Imperative Middle and Passive of τῑμάω?	(τῑμάεσθον) τῑμᾶσθον
+What is the Third Person Dual form of the Present Imperative Middle and Passive of τῑμάω?	(τῑμαέσθων) τῑμάσθων
+What is the Second Person Plural form of the Present Imperative Middle and Passive of τῑμάω?	(τῑμάεσθε) τῑμᾶσθε
+What is the Third Person Plural form of the Present Imperative Middle and Passive of τῑμάω?	(τῑμαέσθων) τῑμάσθων
+What is the Second Person Singular form of the Present Imperative Active of ποιέω?	(ποίεε) ποίει
+What is the Third Person Singular form of the Present Imperative Active of ποιέω?	(ποιεέτω) ποιείτω
+What is the Second Person Dual form of the Present Imperative Active of ποιέω?	(ποιέετον) ποιεῖτον
+What is the Third Person Dual form of the Present Imperative Active of ποιέω?	(ποιεέτων) ποιείτων
+What is the Second Person Plural form of the Present Imperative Active of ποιέω?	(ποιέετε) ποιεῖτε
+What is the Third Person Plural form of the Present Imperative Active of ποιέω?	(ποιεόντων) ποιούντων
+What is the Second Person Singular form of the Present Imperative Middle and Passive of ποιέω?	(ποιέου) ποιοῦ
+What is the Third Person Singular form of the Present Imperative Middle and Passive of ποιέω?	(ποιεέσθω) ποιείσθω
+What is the Second Person Dual form of the Present Imperative Middle and Passive of ποιέω?	(ποιέεσθον) ποιεῖσθον
+What is the Third Person Dual form of the Present Imperative Middle and Passive of ποιέω?	(ποιεέσθων) ποιείσθων
+What is the Second Person Plural form of the Present Imperative Middle and Passive of ποιέω?	(ποιέεσθε) ποιεῖσθε
+What is the Third Person Plural form of the Present Imperative Middle and Passive of ποιέω?	(ποιεέσθων) ποιείσθων
+What is the Second Person Singular form of the Present Imperative Active of δηλόω?	(δήλοε) δήλου
+What is the Third Person Singular form of the Present Imperative Active of δηλόω?	(δηλοέτω) δηλούτω
+What is the Second Person Dual form of the Present Imperative Active of δηλόω?	(δηλόετον) δηλοῦτον
+What is the Third Person Dual form of the Present Imperative Active of δηλόω?	(δηλοέτων) δηλούτων
+What is the Second Person Plural form of the Present Imperative Active of δηλόω?	(δηλόετε) δηλοῦτε
+What is the Third Person Plural form of the Present Imperative Active of δηλόω?	(δηλοόντων) δηλούντων
+What is the Second Person Singular form of the Present Imperative Middle and Passive of δηλόω?	(δηλόου) δηλοῦ
+What is the Third Person Singular form of the Present Imperative Middle and Passive of δηλόω?	(δηλοέσθω) δηλούσθω
+What is the Second Person Dual form of the Present Imperative Middle and Passive of δηλόω?	(δηλόεσθον) δηλοῦσθον
+What is the Third Person Dual form of the Present Imperative Middle and Passive of δηλόω?	(δηλοέσθων) δηλούσθων
+What is the Second Person Plural form of the Present Imperative Middle and Passive of δηλόω?	(δηλόεσθε) δηλοῦσθε
+What is the Third Person Plural form of the Present Imperative Middle and Passive of δηλόω?	(δηλοέσθων) δηλούσθων

@@ -1,0 +1,181 @@
+tags:JWW_FGB52_Grammar
+What is the Nominative Singular Vocative Singular form of the Masculine Present Active Participle of λύω (λύων (λῡοντ))?	λύων
+What is the Genitive Singular form of the Masculine Present Active Participle of λύω (λύων (λῡοντ))?	λύοντος
+What is the Dative Singular form of the Masculine Present Active Participle of λύω (λύων (λῡοντ))?	λύοντι
+What is the Accusative Singular form of the Masculine Present Active Participle of λύω (λύων (λῡοντ))?	λύοντα
+What is the Nominative Accusative and Vocative Dual form of the Masculine Present Active Participle of λύω (λύων (λῡοντ))?	λύοντε
+What is the Genitive and Dative Dual form of the Masculine Present Active Participle of λύω (λύων (λῡοντ))?	λῡόντοιν
+What is the Nominative and Vocative Plural form of the Masculine Present Active Participle of λύω (λύων (λῡοντ))?	λύοντες
+What is the Genitive Plural form of the Masculine Present Active Participle of λύω (λύων (λῡοντ))?	λῡόντων
+What is the Dative Plural form of the Masculine Present Active Participle of λύω (λύων (λῡοντ))?	λύουσι
+What is the Accusative Plural form of the Masculine Present Active Participle of λύω (λύων (λῡοντ))?	λύοντας
+What is the Nominative Singular Vocative Singular form of the Feminine Present Active Participle of λύω (λύων (λῡοντ))?	λύουσα
+What is the Genitive Singular form of the Feminine Present Active Participle of λύω (λύων (λῡοντ))?	λῡούσης
+What is the Dative Singular form of the Feminine Present Active Participle of λύω (λύων (λῡοντ))?	λῡούσῃ
+What is the Accusative Singular form of the Feminine Present Active Participle of λύω (λύων (λῡοντ))?	λύουσαν
+What is the Nominative Accusative and Vocative Dual form of the Feminine Present Active Participle of λύω (λύων (λῡοντ))?	λῡούσᾱ
+What is the Genitive and Dative Dual form of the Feminine Present Active Participle of λύω (λύων (λῡοντ))?	λῡούσαιν
+What is the Nominative and Vocative Plural form of the Feminine Present Active Participle of λύω (λύων (λῡοντ))?	λύουσαι
+What is the Genitive Plural form of the Feminine Present Active Participle of λύω (λύων (λῡοντ))?	λῡουσῶν
+What is the Dative Plural form of the Feminine Present Active Participle of λύω (λύων (λῡοντ))?	λῡοὑσαις
+What is the Accusative Plural form of the Feminine Present Active Participle of λύω (λύων (λῡοντ))?	λῡούσᾱς
+What is the Nominative Singular Vocative Singular form of the Neuter Present Active Participle of λύω (λύων (λῡοντ))?	λῦον
+What is the Genitive Singular form of the Neuter Present Active Participle of λύω (λύων (λῡοντ))?	λύοντος
+What is the Dative Singular form of the Neuter Present Active Participle of λύω (λύων (λῡοντ))?	λύοντι
+What is the Accusative Singular form of the Neuter Present Active Participle of λύω (λύων (λῡοντ))?	λῦον
+What is the Nominative Accusative and Vocative Dual form of the Neuter Present Active Participle of λύω (λύων (λῡοντ))?	λύοντε
+What is the Genitive and Dative Dual form of the Neuter Present Active Participle of λύω (λύων (λῡοντ))?	λῡόντοιν
+What is the Nominative and Vocative Plural form of the Neuter Present Active Participle of λύω (λύων (λῡοντ))?	λύοντα
+What is the Genitive Plural form of the Neuter Present Active Participle of λύω (λύων (λῡοντ))?	λῡόντων
+What is the Dative Plural form of the Neuter Present Active Participle of λύω (λύων (λῡοντ))?	λύουσι
+What is the Accusative Plural form of the Neuter Present Active Participle of λύω (λύων (λῡοντ))?	λύοντα
+What is the Nominative Singular Vocative Singular form of the Masculine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσᾱς
+What is the Genitive Singular form of the Masculine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῡσάσης
+What is the Dative Singular form of the Masculine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσαντι
+What is the Accusative Singular form of the Masculine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσαντα
+What is the Nominative Accusative and Vocative Dual form of the Masculine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσαντε
+What is the Genitive and Dative Dual form of the Masculine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῡσάντοιν
+What is the Nominative and Vocative Plural form of the Masculine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσαντες
+What is the Genitive Plural form of the Masculine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῡσάντων
+What is the Dative Plural form of the Masculine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσᾱσι
+What is the Accusative Plural form of the Masculine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσαντας
+What is the Nominative Singular Vocative Singular form of the Feminine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσᾱσα
+What is the Genitive Singular form of the Feminine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσαντος
+What is the Dative Singular form of the Feminine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῡσάσῃ
+What is the Accusative Singular form of the Feminine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσᾱσαν
+What is the Nominative Accusative and Vocative Dual form of the Feminine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῡσάσᾱ
+What is the Genitive and Dative Dual form of the Feminine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῡσάσαιν
+What is the Nominative and Vocative Plural form of the Feminine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσᾱσαι
+What is the Genitive Plural form of the Feminine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῡσᾱσῶν
+What is the Dative Plural form of the Feminine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῡσάσαις
+What is the Accusative Plural form of the Feminine Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῡσάσᾱς
+What is the Nominative Singular Vocative Singular form of the Neuter Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῦσαν
+What is the Genitive Singular form of the Neuter Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῡσάσης
+What is the Dative Singular form of the Neuter Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσαντι
+What is the Accusative Singular form of the Neuter Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῦσαν
+What is the Nominative Accusative and Vocative Dual form of the Neuter Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσαντε
+What is the Genitive and Dative Dual form of the Neuter Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῡσάντοιν
+What is the Nominative and Vocative Plural form of the Neuter Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσαντα
+What is the Genitive Plural form of the Neuter Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λῡσάντων
+What is the Dative Plural form of the Neuter Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσᾱσι
+What is the Accusative Plural form of the Neuter Aorist Active Participle of λύω (λύσᾱς (λῡσαντ))?	λύσαντα
+What is the Nominative Singular Vocative Singular form of the Masculine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκώς
+What is the Genitive Singular form of the Masculine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότος
+What is the Dative Singular form of the Masculine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκὀτι
+What is the Accusative Singular form of the Masculine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότα
+What is the Nominative Accusative and Vocative Dual form of the Masculine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότε
+What is the Genitive and Dative Dual form of the Masculine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότοιν
+What is the Nominative and Vocative Plural form of the Masculine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότες
+What is the Genitive Plural form of the Masculine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότων
+What is the Dative Plural form of the Masculine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκόσι
+What is the Accusative Plural form of the Masculine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότας
+What is the Nominative Singular Vocative Singular form of the Feminine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκυῖα
+What is the Genitive Singular form of the Feminine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκυίᾱς
+What is the Dative Singular form of the Feminine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκυἰᾳ
+What is the Accusative Singular form of the Feminine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκυῖαν
+What is the Nominative Accusative and Vocative Dual form of the Feminine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκυίᾱ
+What is the Genitive and Dative Dual form of the Feminine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκυίαιν
+What is the Nominative and Vocative Plural form of the Feminine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκυῖαι
+What is the Genitive Plural form of the Feminine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκυιῶν
+What is the Dative Plural form of the Feminine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκυίαις
+What is the Accusative Plural form of the Feminine Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκυίᾱς
+What is the Nominative Singular Vocative Singular form of the Neuter Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκός
+What is the Genitive Singular form of the Neuter Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότος
+What is the Dative Singular form of the Neuter Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότι
+What is the Accusative Singular form of the Neuter Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκός
+What is the Nominative Accusative and Vocative Dual form of the Neuter Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότε
+What is the Genitive and Dative Dual form of the Neuter Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότοιν
+What is the Nominative and Vocative Plural form of the Neuter Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότα
+What is the Genitive Plural form of the Neuter Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότων
+What is the Dative Plural form of the Neuter Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκόσι
+What is the Accusative Plural form of the Neuter Perfect Active Participle of λύω (λελυκώς (λελυκοτ))?	λελυκότα
+What is the Nominative Singular Vocative Singular form of the Masculine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθείς
+What is the Genitive Singular form of the Masculine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντος
+What is the Dative Singular form of the Masculine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντι
+What is the Accusative Singular form of the Masculine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντα
+What is the Nominative Accusative and Vocative Dual form of the Masculine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντε
+What is the Genitive and Dative Dual form of the Masculine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντοιν
+What is the Nominative and Vocative Plural form of the Masculine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντες
+What is the Genitive Plural form of the Masculine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντων
+What is the Dative Plural form of the Masculine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθεῖσι
+What is the Accusative Plural form of the Masculine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντας
+What is the Nominative Singular Vocative Singular form of the Feminine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθεῖσα
+What is the Genitive Singular form of the Feminine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθείσης
+What is the Dative Singular form of the Feminine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθείσῃ
+What is the Accusative Singular form of the Feminine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθεῖσαν
+What is the Nominative Accusative and Vocative Dual form of the Feminine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθείσᾱ
+What is the Genitive and Dative Dual form of the Feminine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθείσαιν
+What is the Nominative and Vocative Plural form of the Feminine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθεῖσαι
+What is the Genitive Plural form of the Feminine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθεισῶν
+What is the Dative Plural form of the Feminine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθείσαις
+What is the Accusative Plural form of the Feminine Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθείσᾱς
+What is the Nominative Singular Vocative Singular form of the Neuter Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέν
+What is the Genitive Singular form of the Neuter Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντος
+What is the Dative Singular form of the Neuter Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντι
+What is the Accusative Singular form of the Neuter Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέν
+What is the Nominative Accusative and Vocative Dual form of the Neuter Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντε
+What is the Genitive and Dative Dual form of the Neuter Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντοιν
+What is the Nominative and Vocative Plural form of the Neuter Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντα
+What is the Genitive Plural form of the Neuter Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντων
+What is the Dative Plural form of the Neuter Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθεῖσι
+What is the Accusative Plural form of the Neuter Future Perfect Active Participle of λύω (λυθείς (λυθεντ))?	λυθέντα
+What is the Nominative Singular Vocative Singular form of the Masculine Present Active Participle of τῑμῶν?	τῑμῶν
+What is the Genitive Singular form of the Masculine Present Active Participle of τῑμῶν?	τῑμῶντος
+What is the Dative Singular form of the Masculine Present Active Participle of τῑμῶν?	τῑμῶντι
+What is the Accusative Singular form of the Masculine Present Active Participle of τῑμῶν?	τῑμῶντα
+What is the Nominative Accusative and Vocative Dual form of the Masculine Present Active Participle of τῑμῶν?	τῑμῶντε
+What is the Genitive and Dative Dual τῑμώντοιν form of the Masculine Present Active Participle of τῑμῶν?	τῑμώσαιν
+What is the Nominative and Vocative Plural form of the Masculine Present Active Participle of τῑμῶν?	τῑμῶντες
+What is the Genitive Plural form of the Masculine Present Active Participle of τῑμῶν?	τῑμώντων
+What is the Dative Plural form of the Masculine Present Active Participle of τῑμῶν?	τῑμῶσι
+What is the Accusative Plural form of the Masculine Present Active Participle of τῑμῶν?	τῑμῶντας
+What is the Nominative Singular Vocative Singular form of the Feminine Present Active Participle of τῑμῶν?	τῑμῶσα
+What is the Genitive Singular form of the Feminine Present Active Participle of τῑμῶν?	τῑμώσης
+What is the Dative Singular form of the Feminine Present Active Participle of τῑμῶν?	τῑμώσῃ
+What is the Accusative Singular form of the Feminine Present Active Participle of τῑμῶν?	τῑμῶσαν
+What is the Nominative Accusative and Vocative Dual form of the Feminine Present Active Participle of τῑμῶν?	τῑμώσᾱ
+What is the Genitive and Dative Dual τῑμώντοιν form of the Feminine Present Active Participle of τῑμῶν?	τῑμώντοιν
+What is the Nominative and Vocative Plural form of the Feminine Present Active Participle of τῑμῶν?	τῑμῶσαι
+What is the Genitive Plural form of the Feminine Present Active Participle of τῑμῶν?	τῑμωσῶν
+What is the Dative Plural form of the Feminine Present Active Participle of τῑμῶν?	τῑμώσαις
+What is the Accusative Plural form of the Feminine Present Active Participle of τῑμῶν?	τῑμώσᾱς
+What is the Nominative Singular Vocative Singular form of the Neuter Present Active Participle of τῑμῶν?	τῑμῶν
+What is the Genitive Singular form of the Neuter Present Active Participle of τῑμῶν?	τῑμῶντος
+What is the Dative Singular form of the Neuter Present Active Participle of τῑμῶν?	τῑμῶντι
+What is the Accusative Singular form of the Neuter Present Active Participle of τῑμῶν?	τῑμῶν
+What is the Nominative Accusative and Vocative Dual form of the Neuter Present Active Participle of τῑμῶν?	τῑμῶντε
+What is the Genitive and Dative Dual τῑμώντοιν form of the Neuter Present Active Participle of τῑμῶν?	ποιούντοιν
+What is the Nominative and Vocative Plural form of the Neuter Present Active Participle of τῑμῶν?	τῑμῶντα
+What is the Genitive Plural form of the Neuter Present Active Participle of τῑμῶν?	τῑμώντων
+What is the Dative Plural form of the Neuter Present Active Participle of τῑμῶν?	τῑμῶσι
+What is the Accusative Plural form of the Neuter Present Active Participle of τῑμῶν?	τῑμῶντα
+What is the Nominative Singular Vocative Singular form of the Masculine Present Active Participle of ποιῶν?	ποιῶν
+What is the Genitive Singular form of the Masculine Present Active Participle of ποιῶν?	ποιοῦντος
+What is the Dative Singular form of the Masculine Present Active Participle of ποιῶν?	ποιοῦντι
+What is the Accusative Singular form of the Masculine Present Active Participle of ποιῶν?	ποιοῦντα
+What is the Nominative Accusative and Vocative Dual form of the Masculine Present Active Participle of ποιῶν?	ποιοῦντε
+What is the Genitive and Dative Dual τῑμώντοιν form of the Masculine Present Active Participle of ποιῶν?	ποιούσαιν
+What is the Nominative and Vocative Plural form of the Masculine Present Active Participle of ποιῶν?	ποιοῦντες
+What is the Genitive Plural form of the Masculine Present Active Participle of ποιῶν?	ποιούντων
+What is the Dative Plural form of the Masculine Present Active Participle of ποιῶν?	ποιοῦσι
+What is the Accusative Plural form of the Masculine Present Active Participle of ποιῶν?	ποιοῦντας
+What is the Nominative Singular Vocative Singular form of the Feminine Present Active Participle of ποιῶν?	ποιοῦσα
+What is the Genitive Singular form of the Feminine Present Active Participle of ποιῶν?	ποιούσης
+What is the Dative Singular form of the Feminine Present Active Participle of ποιῶν?	ποιούσῃ
+What is the Accusative Singular form of the Feminine Present Active Participle of ποιῶν?	ποιοῦσαν
+What is the Nominative Accusative and Vocative Dual form of the Feminine Present Active Participle of ποιῶν?	ποιούσᾱ
+What is the Genitive and Dative Dual τῑμώντοιν form of the Feminine Present Active Participle of ποιῶν?	ποιούντοιν
+What is the Nominative and Vocative Plural form of the Feminine Present Active Participle of ποιῶν?	ποιοῦσαι
+What is the Genitive Plural form of the Feminine Present Active Participle of ποιῶν?	ποιουσῶν
+What is the Dative Plural form of the Feminine Present Active Participle of ποιῶν?	ποιούσαις
+What is the Accusative Plural form of the Feminine Present Active Participle of ποιῶν?	ποιούσᾱς
+What is the Nominative Singular Vocative Singular form of the Neuter Present Active Participle of ποιῶν?	ποιοῦν
+What is the Genitive Singular form of the Neuter Present Active Participle of ποιῶν?	ποιοῦντος
+What is the Dative Singular form of the Neuter Present Active Participle of ποιῶν?	ποιοῦντι
+What is the Accusative Singular form of the Neuter Present Active Participle of ποιῶν?	ποιοῦν
+What is the Nominative Accusative and Vocative Dual form of the Neuter Present Active Participle of ποιῶν?	ποιοῦντε
+What is the Genitive and Dative Dual τῑμώντοιν form of the Neuter Present Active Participle of ποιῶν?	ποιούσαιν
+What is the Nominative and Vocative Plural form of the Neuter Present Active Participle of ποιῶν?	ποιοῦντα
+What is the Genitive Plural form of the Neuter Present Active Participle of ποιῶν?	ποιούντων
+What is the Dative Plural form of the Neuter Present Active Participle of ποιῶν?	ποιοῦσι
+What is the Accusative Plural form of the Neuter Present Active Participle of ποιῶν?	ποιοῦντα

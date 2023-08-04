@@ -1,0 +1,25 @@
+tags:JWW_FGB15_Grammar
+What is the First Person Singular form of the λύω (PRESENT ACTIVE INDICATIVE)?	λύω
+What is the Second Person Singular form of the λύω (PRESENT ACTIVE INDICATIVE)?	λύεις
+What is the Third Person Singular form of the λύω (PRESENT ACTIVE INDICATIVE)?	λύει
+What is the Second Person Dual form of the λύω (PRESENT ACTIVE INDICATIVE)?	λύε-τον
+What is the Third Person Dual form of the λύω (PRESENT ACTIVE INDICATIVE)?	λύε-τον
+What is the First Person Plural form of the λύω (PRESENT ACTIVE INDICATIVE)?	λύο-μεν
+What is the Second Person Plural form of the λύω (PRESENT ACTIVE INDICATIVE)?	λύε-τε
+What is the Third Person Plural form of the λύω (PRESENT ACTIVE INDICATIVE)?	λύουσι
+What is the First Person Singular form of the λύω (IMPERFECT ACTIVE INDICATIVE)?	ἔ-λῡο-ν
+What is the Second Person Singular form of the λύω (IMPERFECT ACTIVE INDICATIVE)?	ἔ-λῡο-ν
+What is the Third Person Singular form of the λύω (IMPERFECT ACTIVE INDICATIVE)?	ἔ-λῡε
+What is the Second Person Dual form of the λύω (IMPERFECT ACTIVE INDICATIVE)?	ἐ-λύε-τον
+What is the Third Person Dual form of the λύω (IMPERFECT ACTIVE INDICATIVE)?	ἐ-λῡέ-την
+What is the First Person Plural form of the λύω (IMPERFECT ACTIVE INDICATIVE)?	ἐ-λύο-μεν
+What is the Second Person Plural form of the λύω (IMPERFECT ACTIVE INDICATIVE)?	ἐ-λύε-τε
+What is the Third Person Plural form of the λύω (IMPERFECT ACTIVE INDICATIVE)?	ἔ-λῡο-ν
+What is the First Person Singular form of the λύω (PERFECT ACTIVE INDICATIVE)?	λέλυκα
+What is the Second Person Singular form of the λύω (PERFECT ACTIVE INDICATIVE)?	λέλυκα-ς
+What is the Third Person Singular form of the λύω (PERFECT ACTIVE INDICATIVE)?	λέλυκε
+What is the Second Person Dual form of the λύω (PERFECT ACTIVE INDICATIVE)?	λελύκα-τον
+What is the Third Person Dual form of the λύω (PERFECT ACTIVE INDICATIVE)?	λελύκα-τον
+What is the First Person Plural form of the λύω (PERFECT ACTIVE INDICATIVE)?	λελύκα-μεν
+What is the Second Person Plural form of the λύω (PERFECT ACTIVE INDICATIVE)?	λελύκα-τε
+What is the Third Person Plural form of the λύω (PERFECT ACTIVE INDICATIVE)?	λελύκᾱσι

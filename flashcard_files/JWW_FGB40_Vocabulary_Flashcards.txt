@@ -1,0 +1,23 @@
+tags:JWW_FGB40_Vocabulary
+What does εἴσω (cf. εἰς) mean?	adv. inside within.
+What does ἑκατέρωθεν mean?	adv.on both sides or flanks.
+What does εὐνοϊκῶς (cf. εὔνους) mean?	adv. with good will kindly.
+What does ἐχθρός ά όν mean?	hostile; ἐχθρός ο as noun enemy foe.
+What does κύκλος ου ὁ mean?	circle curve.
+What does κυκλόω κυκλώσω etc. mean?	encircle hem in.
+What does ὅμως mean?	adv. nevertheless yet still however.
+What does πλησιάζω (πλησιαδ) πλησιάσω etc. mean?	approach.
+What does στερέω στερήσω etc. mean?	deprive rob bereave.
+What does σῴζω (σω σωδ) σώσω ἔσωσα σέσωκα σέσωμαι and σέσωσμαι ἐσώθην mean?	save rescue keep safe; mid. and pass. save oneself be saved alive return safely.
+What does σῶμα ατος τό mean?	body life person.
+What is the Greek word for adv. inside within?	εἴσω (cf. εἰς)
+What is the Greek word for adv.on both sides or flanks?	ἑκατέρωθεν
+What is the Greek word for adv. with good will kindly?	εὐνοϊκῶς (cf. εὔνους)
+What is the Greek word for hostile; ἐχθρός ο as noun enemy foe?	ἐχθρός ά όν
+What is the Greek word for circle curve?	κύκλος ου ὁ
+What is the Greek word for encircle hem in?	κυκλόω κυκλώσω etc.
+What is the Greek word for adv. nevertheless yet still however?	ὅμως
+What is the Greek word for approach?	πλησιάζω (πλησιαδ) πλησιάσω etc.
+What is the Greek word for deprive rob bereave?	στερέω στερήσω etc.
+What is the Greek word for save rescue keep safe; mid. and pass. save oneself be saved alive return safely?	σῴζω (σω σωδ) σώσω ἔσωσα σέσωκα σέσωμαι and σέσωσμαι ἐσώθην
+What is the Greek word for body life person?	σῶμα ατος τό

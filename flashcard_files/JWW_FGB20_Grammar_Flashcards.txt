@@ -1,0 +1,33 @@
+tags:JWW_FGB20_Grammar
+What is the First Person Singular form of the First Aorist Indicative Middle of λύω?	ἐ-λῡσά-μην
+What is the Second Person Singular form of the First Aorist Indicative Middle of λύω?	ἐ-λύσω
+What is the Third Person Singular form of the First Aorist Indicative Middle of λύω?	ἐ-λύσα-το
+What is the Second Person Dual form of the First Aorist Indicative Middle of λύω?	ἐ-λύσα-σθον
+What is the Third Person Dual form of the First Aorist Indicative Middle of λύω?	ἐ-λῡσά-σθην
+What is the First Person Plural form of the First Aorist Indicative Middle of λύω?	ἐ-λῡσά-μεθα
+What is the Second Person Plural form of the First Aorist Indicative Middle of λύω?	ἐ-λύσα-σθε
+What is the Third Person Plural form of the First Aorist Indicative Middle of λύω?	ἐλύσα-ντο
+What is the First Person Singular form of the Perfect Indicative Middle of λύω?	λέλυ-μαι
+What is the Second Person Singular form of the Perfect Indicative Middle of λύω?	λέλυ-σαι
+What is the Third Person Singular form of the Perfect Indicative Middle of λύω?	λέλυ-ται
+What is the Second Person Dual form of the Perfect Indicative Middle of λύω?	λέλυ-σθον
+What is the Third Person Dual form of the Perfect Indicative Middle of λύω?	λέλυ-σθον
+What is the First Person Plural form of the Perfect Indicative Middle of λύω?	λελύ-μεθα
+What is the Second Person Plural form of the Perfect Indicative Middle of λύω?	λέλυ-σθε
+What is the Third Person Plural form of the Perfect Indicative Middle of λύω?	λέλυ-νται
+What is the First Person Singular form of the Pluperfect Indicative Middle of λύω?	ἐ-λελύ-μην
+What is the Second Person Singular form of the Pluperfect Indicative Middle of λύω?	ἐ-λέλυ-σο
+What is the Third Person Singular form of the Pluperfect Indicative Middle of λύω?	ἐ-λέλυ-το
+What is the Second Person Dual form of the Pluperfect Indicative Middle of λύω?	ἐ-λέλυ-σθον
+What is the Third Person Dual form of the Pluperfect Indicative Middle of λύω?	ἐ-λελύ-σθην
+What is the First Person Plural form of the Pluperfect Indicative Middle of λύω?	ἐ-λελύ-μεθα
+What is the Second Person Plural form of the Pluperfect Indicative Middle of λύω?	ἐ-λέλυ-σθε
+What is the Third Person Plural form of the Pluperfect Indicative Middle of λύω?	ἐ-λέλυ-ντο
+What is the First Person Singular form of the Future Perfect Indicative Middle of λύω?	λελύσο-μαι
+What is the Second Person Singular form of the Future Perfect Indicative Middle of λύω?	λελύσει
+What is the Third Person Singular form of the Future Perfect Indicative Middle of λύω?	λελύσε-ται
+What is the Second Person Dual form of the Future Perfect Indicative Middle of λύω?	λελύσε-σθον
+What is the Third Person Dual form of the Future Perfect Indicative Middle of λύω?	λελύσε-σθον
+What is the First Person Plural form of the Future Perfect Indicative Middle of λύω?	λελῡσό-μεθα
+What is the Second Person Plural form of the Future Perfect Indicative Middle of λύω?	λελύσε-σθε
+What is the Third Person Plural form of the Future Perfect Indicative Middle of λύω?	λελύσο-νται

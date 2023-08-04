@@ -1,0 +1,33 @@
+tags:JWW_FGB63_Grammar
+What is the First Person Singular form of the Future Active Indicative of φανῶ?	φανῶ
+What is the Second Person Singular form of the Future Active Indicative of φανῶ?	φανεῖς
+What is the Third Person Singular form of the Future Active Indicative of φανῶ?	φανεῖ
+What is the Second Person Dual form of the Future Active Indicative of φανῶ?	φανεῖ-τον
+What is the Third Person Dual form of the Future Active Indicative of φανῶ?	φανεῖ-τον
+What is the First Person Plural form of the Future Active Indicative of φανῶ?	φανοῦ-μεν
+What is the Second Person Plural form of the Future Active Indicative of φανῶ?	φανεῖ-τε
+What is the Third Person Plural form of the Future Active Indicative of φανῶ?	φανοῦσι
+What is the First Person Singular form of the Future Middle Indicative of φανῶ?	φανοῦ-μαι
+What is the Second Person Singular form of the Future Middle Indicative of φανῶ?	φανεῖ
+What is the Third Person Singular form of the Future Middle Indicative of φανῶ?	φανεῖ-ται
+What is the Second Person Dual form of the Future Middle Indicative of φανῶ?	φανεῖ-σθον
+What is the Third Person Dual form of the Future Middle Indicative of φανῶ?	φανεῖ-σθον
+What is the First Person Plural form of the Future Middle Indicative of φανῶ?	φανού-μεθα
+What is the Second Person Plural form of the Future Middle Indicative of φανῶ?	φανεῖ-σθε
+What is the Third Person Plural form of the Future Middle Indicative of φανῶ?	φανοῦ-νται
+What is the First Person Singular form of the First Aorist Active Indicative of φανῶ?	ἔ-φηνα
+What is the Second Person Singular form of the First Aorist Active Indicative of φανῶ?	ἔ-φηνα-ς
+What is the Third Person Singular form of the First Aorist Active Indicative of φανῶ?	ἔ-φηνε
+What is the Second Person Dual form of the First Aorist Active Indicative of φανῶ?	ἐ-φήνα-τον
+What is the Third Person Dual form of the First Aorist Active Indicative of φανῶ?	ἐ-φηνά-την
+What is the First Person Plural form of the First Aorist Active Indicative of φανῶ?	ἐ-φήνα-μεν
+What is the Second Person Plural form of the First Aorist Active Indicative of φανῶ?	ἐ-φήνα-τε
+What is the Third Person Plural form of the First Aorist Active Indicative of φανῶ?	ἔ-φηνα-ν
+What is the First Person Singular form of the First Aorist Middle Indicative of φανῶ?	ἐ-φηνά-μην
+What is the Second Person Singular form of the First Aorist Middle Indicative of φανῶ?	ἐ-φήνω
+What is the Third Person Singular form of the First Aorist Middle Indicative of φανῶ?	ἐ-φήνα-το
+What is the Second Person Dual form of the First Aorist Middle Indicative of φανῶ?	ἐ-φήνα-σθην
+What is the Third Person Dual form of the First Aorist Middle Indicative of φανῶ?	ἐ-φηνά-σθην
+What is the First Person Plural form of the First Aorist Middle Indicative of φανῶ?	ἐ-ξηνά-μεθα
+What is the Second Person Plural form of the First Aorist Middle Indicative of φανῶ?	ἐ-φήνα-σθε
+What is the Third Person Plural form of the First Aorist Middle Indicative of φανῶ?	ἐ-φήνα-ντο

@@ -1,0 +1,78 @@
+tags:JWW_FGB46_Grammar
+What is the Masculine Nominative Singular form of the μέλᾱς <em>black</em>?	μέλᾱς
+What is the Masculine Genitive Singular form of the μέλᾱς <em>black</em>?	μέλανος
+What is the Masculine Dative Singular form of the μέλᾱς <em>black</em>?	μέλανι
+What is the Masculine Accusative Singular form of the μέλᾱς <em>black</em>?	μέλανα
+What is the Masculine Vocative Singular form of the μέλᾱς <em>black</em>?	μέλαν
+What is the Masculine Nominative Accusative and Vocative Dual form of the μέλᾱς <em>black</em>?	μέλανε
+What is the Masculine Genitive and Dative Dual form of the μέλᾱς <em>black</em>?	μελάνοιν
+What is the Masculine Nominative and Vocative Plural form of the μέλᾱς <em>black</em>?	μέλανες
+What is the Masculine Genitive Plural form of the μέλᾱς <em>black</em>?	μελάνων
+What is the Masculine Dative Plural form of the μέλᾱς <em>black</em>?	μέλασι
+What is the Masculine Accusative Plural form of the μέλᾱς <em>black</em>?	μέλανας
+What is the Feminine Nominative Singular form of the μέλᾱς <em>black</em>?	μέλαινα
+What is the Feminine Genitive Singular form of the μέλᾱς <em>black</em>?	μελαίνης
+What is the Feminine Dative Singular form of the μέλᾱς <em>black</em>?	μελαίνῃ
+What is the Feminine Accusative Singular form of the μέλᾱς <em>black</em>?	μέλαιναν
+What is the Feminine Vocative Singular form of the μέλᾱς <em>black</em>?	μέλαινα
+What is the Feminine Nominative Accusative and Vocative Dual form of the μέλᾱς <em>black</em>?	μελαίνᾱ
+What is the Feminine Genitive and Dative Dual form of the μέλᾱς <em>black</em>?	μελαίναιν
+What is the Feminine Nominative and Vocative Plural form of the μέλᾱς <em>black</em>?	μέλαιναι
+What is the Feminine Genitive Plural form of the μέλᾱς <em>black</em>?	μελαινῶν
+What is the Feminine Dative Plural form of the μέλᾱς <em>black</em>?	μελαίναις
+What is the Feminine Accusative Plural form of the μέλᾱς <em>black</em>?	μελαίνᾱς
+What is the Neuter Nominative Singular form of the μέλᾱς <em>black</em>?	μέλαν
+What is the Neuter Genitive Singular form of the μέλᾱς <em>black</em>?	μέλανος
+What is the Neuter Dative Singular form of the μέλᾱς <em>black</em>?	μέλανι
+What is the Neuter Accusative Singular form of the μέλᾱς <em>black</em>?	μέλαν
+What is the Neuter Vocative Singular form of the μέλᾱς <em>black</em>?	μέλαν
+What is the Neuter Nominative Accusative and Vocative Dual form of the μέλᾱς <em>black</em>?	μέλανε
+What is the Neuter Genitive and Dative Dual form of the μέλᾱς <em>black</em>?	μελάνοιν
+What is the Neuter Nominative and Vocative Plural form of the μέλᾱς <em>black</em>?	μέλανα
+What is the Neuter Genitive Plural form of the μέλᾱς <em>black</em>?	μελάνων
+What is the Neuter Dative Plural form of the μέλᾱς <em>black</em>?	μέλασι
+What is the Neuter Accusative Plural form of the μέλᾱς <em>black</em>?	μέλανα
+What is the Masculine and Feminine Nominative Singular form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμων
+What is the Masculine and Feminine Genitive Singular form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμονος
+What is the Masculine and Feminine Dative Singular form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμονι
+What is the Masculine and Feminine Accusative Singular form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμονα
+What is the Masculine and Feminine Vocative Singular form of the εὐδαίμων <em>fortunate</em>?	εὔδαιμον
+What is the Masculine and Feminine Nominative Accusative and Vocative Dual form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμονε
+What is the Masculine and Feminine Genitive and Dative Dual form of the εὐδαίμων <em>fortunate</em>?	εὐδαιμόνοιν
+What is the Masculine and Feminine Nominative and Vocative Plural form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμονες
+What is the Masculine and Feminine Genitive Plural form of the εὐδαίμων <em>fortunate</em>?	εὐδαιμόνων
+What is the Masculine and Feminine Dative Plural form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμοσι
+What is the Masculine and Feminine Accusative Plural form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμονας
+What is the Neuter Nominative Singular form of the εὐδαίμων <em>fortunate</em>?	εὔδαιμον
+What is the Neuter Genitive Singular form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμονος
+What is the Neuter Dative Singular form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμονι
+What is the Neuter Accusative Singular form of the εὐδαίμων <em>fortunate</em>?	εὔδαιμον
+What is the Neuter Vocative Singular form of the εὐδαίμων <em>fortunate</em>?	εὔδαιμον
+What is the Neuter Nominative Accusative and Vocative Dual form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμονε
+What is the Neuter Genitive and Dative Dual form of the εὐδαίμων <em>fortunate</em>?	εὐδαιμόνοιν
+What is the Neuter Nominative and Vocative Plural form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμονα
+What is the Neuter Genitive Plural form of the εὐδαίμων <em>fortunate</em>?	εὐδαιμόνων
+What is the Neuter Dative Plural form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμοσι
+What is the Neuter Accusative Plural form of the εὐδαίμων <em>fortunate</em>?	εὐδαίμονα
+What is the Masculine and Feminine Nominative Singular form of the ἀληθής <em>true</em>?	ἀληθής
+What is the Masculine and Feminine Genitive Singular form of the ἀληθής <em>true</em>?	(ἀληθέ-ος) ἀληθοῦς
+What is the Masculine and Feminine Dative Singular form of the ἀληθής <em>true</em>?	(ἀληθέ-ϊ) ἀληθεῖ
+What is the Masculine and Feminine Accusative Singular form of the ἀληθής <em>true</em>?	(ἀληθέ-α) ἀληθῆ
+What is the Masculine and Feminine Vocative Singular form of the ἀληθής <em>true</em>?	ἀληθές
+What is the Masculine and Feminine Nominative Accusative and Vocative Dual form of the ἀληθής <em>true</em>?	(ἀληθέ-ε) ἀληθεῖ
+What is the Masculine and Feminine Genitive and Dative Dual form of the ἀληθής <em>true</em>?	(ἀληθέ-οιν) ἀληθοῖν
+What is the Masculine and Feminine Nominative and Vocative Plural form of the ἀληθής <em>true</em>?	(ἀληθέ-ες) ἀληθεῖς
+What is the Masculine and Feminine Genitive Plural form of the ἀληθής <em>true</em>?	(ἀληθέ-ων) ἀληθῶν
+What is the Masculine and Feminine Dative Plural form of the ἀληθής <em>true</em>?	ἀληθέσι
+What is the Masculine and Feminine Accusative Plural form of the ἀληθής <em>true</em>?	ἀληθεῖς
+What is the Neuter Nominative Singular form of the ἀληθής <em>true</em>?	ἀληθές
+What is the Neuter Genitive Singular form of the ἀληθής <em>true</em>?	(ἀληθέ-ος) ἀληθοῦς
+What is the Neuter Dative Singular form of the ἀληθής <em>true</em>?	(ἀληθέ-ϊ) ἀληθεῖ
+What is the Neuter Accusative Singular form of the ἀληθής <em>true</em>?	ἀληθές
+What is the Neuter Vocative Singular form of the ἀληθής <em>true</em>?	ἀληθές
+What is the Neuter Nominative Accusative and Vocative Dual form of the ἀληθής <em>true</em>?	(ἀληθέ-ε) ἀληθεῖ
+What is the Neuter Genitive and Dative Dual form of the ἀληθής <em>true</em>?	(ἀληθέ-οιν) ἀληθοῖν
+What is the Neuter Nominative and Vocative Plural form of the ἀληθής <em>true</em>?	(ἀληθέ-α) ἀληθῆ
+What is the Neuter Genitive Plural form of the ἀληθής <em>true</em>?	(ἀληθέ-ων) ἀληθῶν
+What is the Neuter Dative Plural form of the ἀληθής <em>true</em>?	ἀληθέσι
+What is the Neuter Accusative Plural form of the ἀληθής <em>true</em>?	(ἀληθέ-α) ἀληθῆ

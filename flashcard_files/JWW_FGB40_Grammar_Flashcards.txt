@@ -1,0 +1,25 @@
+tags:JWW_FGB40_Grammar
+What is the First Person Singular form of the Present Optative Middle and Passive of λύω?	λῡοί-μην
+What is the Second Person Singular form of the Present Optative Middle and Passive of λύω?	λύοι-ο
+What is the Third Person Singular form of the Present Optative Middle and Passive of λύω?	λύοι-το
+What is the Second Person Dual form of the Present Optative Middle and Passive of λύω?	λύοι-σθον
+What is the Third Person Dual form of the Present Optative Middle and Passive of λύω?	λῡοί-σθην
+What is the First Person Plural form of the Present Optative Middle and Passive of λύω?	λῡοί-μεθα
+What is the Second Person Plural form of the Present Optative Middle and Passive of λύω?	λύοι-σθε
+What is the Third Person Plural form of the Present Optative Middle and Passive of λύω?	λύοι-ντο
+What is the First Person Singular form of the Future Optative Middle and Passive of λύω?	λῡσοί-μην
+What is the Second Person Singular form of the Future Optative Middle and Passive of λύω?	λύσοι-ο
+What is the Third Person Singular form of the Future Optative Middle and Passive of λύω?	λύσοι-το
+What is the Second Person Dual form of the Future Optative Middle and Passive of λύω?	λύσοι-σθον
+What is the Third Person Dual form of the Future Optative Middle and Passive of λύω?	λῡσοί-σθην
+What is the First Person Plural form of the Future Optative Middle and Passive of λύω?	λῡσοί-μεθα
+What is the Second Person Plural form of the Future Optative Middle and Passive of λύω?	λύσοι-σθε
+What is the Third Person Plural form of the Future Optative Middle and Passive of λύω?	λύσοι-ντο
+What is the First Person Singular form of the Aorist Optative Middle of λύω?	λῡσαί-μην
+What is the Second Person Singular form of the Aorist Optative Middle of λύω?	λύσαι-ο
+What is the Third Person Singular form of the Aorist Optative Middle of λύω?	λύσαι-το
+What is the Second Person Dual form of the Aorist Optative Middle of λύω?	λύσαι-σθον
+What is the Third Person Dual form of the Aorist Optative Middle of λύω?	λῡσαί-σθην
+What is the First Person Plural form of the Aorist Optative Middle of λύω?	λῡσαί-μεθα
+What is the Second Person Plural form of the Aorist Optative Middle of λύω?	λύσαι-σθε
+What is the Third Person Plural form of the Aorist Optative Middle of λύω?	λύσαι-ντο

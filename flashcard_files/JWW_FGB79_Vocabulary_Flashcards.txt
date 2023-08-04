@@ -1,0 +1,29 @@
+tags:JWW_FGB79_Vocabulary
+What does ἄπ-ειμι (εἶμι) mean?	go off or away depart.
+What does εἰμί (ἐσ) ἔσομαι mean?	be.
+What does εἶμι (ἰ) mean?	go proceed march; pres. indic. with fut. force shall go.
+What does ἔπ-ειμι (εἶμι) mean?	goor come on advance make an attack.
+What does κατα-κάω mean?	burn down burn up.
+What does κρίσις εως ἡ (cf. κρίνω) mean?	decision trial.
+What does πρό-ειμι (εἶμι) mean?	go forward advance.
+What does ῥέω (ῥυ) ῥεύσομαι ἐρρύηκα ἐρρύην mean?	flow.
+What does σαλπίζω (σαλπιγγ) ἐσάλπιγξα mean?	blow the trumpet.
+What does ὑπ-οπτεύω ὑπ-οπτεύσω ὑπ-ώπτευσα ὑπ-ωπτεύθην (cf. ὄψομαι) mean?	suspect apprehend.
+What does φέρω (φερ οἰ ἐνεκ ἐνεγκ) οἴσω ἤνεγκα and ἤνεγκον ἐνήνοχα ἐνήνεγμαι ἠνέχθην mean?	bear bring carry produce endure; χαλεπῶς φέρω be troubled.
+What does φημί (φα) φήσω ἔφησα mean?	say declare state.
+What does φλυᾱρίᾱ ᾱς ἡ (cf. φλυᾱρέω) mean?	nonsense; plur. bosh.
+What does χαλεπῶς (cf. χαλεπός) mean?	painfully with difficulty.
+What is the Greek word for go off or away depart?	ἄπ-ειμι (εἶμι)
+What is the Greek word for be?	εἰμί (ἐσ) ἔσομαι
+What is the Greek word for go proceed march; pres. indic. with fut. force shall go?	εἶμι (ἰ)
+What is the Greek word for goor come on advance make an attack?	ἔπ-ειμι (εἶμι)
+What is the Greek word for burn down burn up?	κατα-κάω
+What is the Greek word for decision trial?	κρίσις εως ἡ (cf. κρίνω)
+What is the Greek word for go forward advance?	πρό-ειμι (εἶμι)
+What is the Greek word for flow?	ῥέω (ῥυ) ῥεύσομαι ἐρρύηκα ἐρρύην
+What is the Greek word for blow the trumpet?	σαλπίζω (σαλπιγγ) ἐσάλπιγξα
+What is the Greek word for suspect apprehend?	ὑπ-οπτεύω ὑπ-οπτεύσω ὑπ-ώπτευσα ὑπ-ωπτεύθην (cf. ὄψομαι)
+What is the Greek word for bear bring carry produce endure; χαλεπῶς φέρω be troubled?	φέρω (φερ οἰ ἐνεκ ἐνεγκ) οἴσω ἤνεγκα and ἤνεγκον ἐνήνοχα ἐνήνεγμαι ἠνέχθην
+What is the Greek word for say declare state?	φημί (φα) φήσω ἔφησα
+What is the Greek word for nonsense; plur. bosh?	φλυᾱρίᾱ ᾱς ἡ (cf. φλυᾱρέω)
+What is the Greek word for painfully with difficulty?	χαλεπῶς (cf. χαλεπός)

@@ -1,0 +1,17 @@
+tags:JWW_FGB72_Grammar
+What is the First Person Singular form of the Second Aorist Passive Indicative of στέλλω (στελ) send?	ἐ-στάλη-ν
+What is the Second Person Singular form of the Second Aorist Passive Indicative of στέλλω (στελ) send?	ἐ-στάλη-ς
+What is the Third Person Singular form of the Second Aorist Passive Indicative of στέλλω (στελ) send?	ἐ-στάλη
+What is the Second Person Dual form of the Second Aorist Passive Indicative of στέλλω (στελ) send?	ἐ-στάλη-τον
+What is the Third Person Dual form of the Second Aorist Passive Indicative of στέλλω (στελ) send?	ἐ-σταλή-την
+What is the First Person Plural form of the Second Aorist Passive Indicative of στέλλω (στελ) send?	ἐ-στάλη-μεν
+What is the Second Person Plural form of the Second Aorist Passive Indicative of στέλλω (στελ) send?	ἐ-στάλη-τε
+What is the Third Person Plural form of the Second Aorist Passive Indicative of στέλλω (στελ) send?	ἐ-στάλη-σαν
+What is the First Person Singular form of the Second Future Passive Indicative of στέλλω (στελ) send?	σταλήσο-μαι
+What is the Second Person Singular form of the Second Future Passive Indicative of στέλλω (στελ) send?	σταλήσει
+What is the Third Person Singular form of the Second Future Passive Indicative of στέλλω (στελ) send?	σταλήσε-ται
+What is the Second Person Dual form of the Second Future Passive Indicative of στέλλω (στελ) send?	σταλήσε-σθον
+What is the Third Person Dual form of the Second Future Passive Indicative of στέλλω (στελ) send?	σταλήσε-σθον
+What is the First Person Plural form of the Second Future Passive Indicative of στέλλω (στελ) send?	σταλησό-μεθα
+What is the Second Person Plural form of the Second Future Passive Indicative of στέλλω (στελ) send?	σταλήσε-σθε
+What is the Third Person Plural form of the Second Future Passive Indicative of στέλλω (στελ) send?	σταλήσο-νται

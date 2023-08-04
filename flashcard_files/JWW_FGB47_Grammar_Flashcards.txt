@@ -1,0 +1,28 @@
+tags:JWW_FGB47_Grammar
+What is the Nominative Singular form of the ἐγώ <em>Ι</em>?	ἐγώ
+What is the Genitive Singular form of the ἐγώ <em>Ι</em>?	ἐνοῦ μοῦ
+What is the Dative Singular form of the ἐγώ <em>Ι</em>?	ἐμοί μοί
+What is the Accusative Singular form of the ἐγώ <em>Ι</em>?	ἐμέ μέ
+What is the Nominative and Accusative Dual form of the ἐγώ <em>Ι</em>?	νώ
+What is the Genitive and Dative Dual form of the ἐγώ <em>Ι</em>?	νῷν
+What is the Nominative Plural form of the ἐγώ <em>Ι</em>?	ἡμεῖς
+What is the Genitive Plural form of the ἐγώ <em>Ι</em>?	ἡμῶν
+What is the Dative Plural form of the ἐγώ <em>Ι</em>?	ἡμῖν
+What is the Accusative Plural form of the ἐγώ <em>Ι</em>?	ἡμᾶς
+What is the Nominative Singular form of the σύ <em>you</em>?	σύ
+What is the Genitive Singular form of the σύ <em>you</em>?	σοῦ
+What is the Dative Singular form of the σύ <em>you</em>?	σοί
+What is the Accusative Singular form of the σύ <em>you</em>?	σέ
+What is the Nominative and Accusative Dual form of the σύ <em>you</em>?	σφώ
+What is the Genitive and Dative Dual form of the σύ <em>you</em>?	σφῷν
+What is the Nominative Plural form of the σύ <em>you</em>?	ὑμεῖς
+What is the Genitive Plural form of the σύ <em>you</em>?	ὑμῶν
+What is the Dative Plural form of the σύ <em>you</em>?	ὑμῖν
+What is the Accusative Plural form of the σύ <em>you</em>?	ὑμᾶς
+What is the Genitive Singular form of the οὗ (genitive) <em>of him of her of it.</em>?	οὑ
+What is the Dative Singular form of the οὗ (genitive) <em>of him of her of it.</em>?	οἶ
+What is the Accusative Singular form of the οὗ (genitive) <em>of him of her of it.</em>?	ἕ
+What is the Nominative Plural form of the οὗ (genitive) <em>of him of her of it.</em>?	σφεῖς
+What is the Genitive Plural form of the οὗ (genitive) <em>of him of her of it.</em>?	σφῶν
+What is the Dative Plural form of the οὗ (genitive) <em>of him of her of it.</em>?	σφίσι
+What is the Accusative Plural form of the οὗ (genitive) <em>of him of her of it.</em>?	σφᾶς

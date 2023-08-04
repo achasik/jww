@@ -1,0 +1,17 @@
+tags:JWW_FGB65_Grammar
+What is the First Person Singular form of the Second Aorist Active Indicative of λείπω - leave?	ἔ-λιπο-ν
+What is the Second Person Singular form of the Second Aorist Active Indicative of λείπω - leave?	ἔ-λιπε-ς
+What is the Third Person Singular form of the Second Aorist Active Indicative of λείπω - leave?	ἔ-λιπε
+What is the Second Person Dual form of the Second Aorist Active Indicative of λείπω - leave?	ἐ-λίπε-τον
+What is the Third Person Dual form of the Second Aorist Active Indicative of λείπω - leave?	ἐ-λιπέ-την
+What is the First Person Plural form of the Second Aorist Active Indicative of λείπω - leave?	ἐ-λίπο-μεν
+What is the Second Person Plural form of the Second Aorist Active Indicative of λείπω - leave?	ἐ-λίπε-τε
+What is the Third Person Plural form of the Second Aorist Active Indicative of λείπω - leave?	ἔ-λιπο-ν
+What is the First Person Singular form of the Second Aorist Middle Indicative of λείπω - leave?	ἐ-λιπό-μην
+What is the Second Person Singular form of the Second Aorist Middle Indicative of λείπω - leave?	ἐ-λίπου
+What is the Third Person Singular form of the Second Aorist Middle Indicative of λείπω - leave?	ἐ-λίπε-το
+What is the Second Person Dual form of the Second Aorist Middle Indicative of λείπω - leave?	ἐ-λίπε-σθον
+What is the Third Person Dual form of the Second Aorist Middle Indicative of λείπω - leave?	ἐ-λιπέ-σθην
+What is the First Person Plural form of the Second Aorist Middle Indicative of λείπω - leave?	ἐ-λιπό-μεθα
+What is the Second Person Plural form of the Second Aorist Middle Indicative of λείπω - leave?	ἐ-λίπε-σθε
+What is the Third Person Plural form of the Second Aorist Middle Indicative of λείπω - leave?	ἐ-λίπο-ντο

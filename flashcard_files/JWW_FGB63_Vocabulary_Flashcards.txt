@@ -1,0 +1,27 @@
+tags:JWW_FGB63_Vocabulary
+What does ἀγγέλλω (ἀγγελ) ἀγγελῶ ἤγγειλα ἤγγελκα ἤγγελμαι ἠγγέλθην (cf. ἄγγελος) mean?	announce report.
+What does ἀπ-αγγέλλω mean?	bring back word report.
+What does ἀπο-κρίνομαι mean?	mid. dep. give a decision answer.
+What does ἀπο-κτείνω mean?	kill off put to death.
+What does ἀπο-φαίνω mean?	show forth; mid. show one’s own declare express.
+What does βάλλω (βαλ) βαλῶ ἔβαλον βέβληκα βέβλημαι ἐβλήθην mean?	throw throw at hit with stones stone.
+What does γνώμη ης ἡ mean?	opinion plan judgment.
+What does ἐκ-βάλλω mean?	throw out expel.
+What does κάω (καυ) καύσω ἔκαυσα κέκαυκα κέκαυμαι ἐκαύθην mean?	burn.
+What does κρίνω (κριν) κρινῶ ἔκρῑνα κέκρικα κέκριμαι ἐκρίθην mean?	divide distinguish decide judge.
+What does κτείνω (κτεν) κτενῶ ἔκτεινα ἔκτονα mean?	kill.
+What does μένω μενῶ ἔμεινα μεμένηκα mean?	remain stay wait for last.
+What does φαίνω (φαν) φανῶ ἔφηνα πέφαγκα and πέφηνα πέφασμαι ἐφάνθην and ἐφάνην (cf. φανερός) mean?	bring to light show; mid. and pass. show oneself appear.
+What is the Greek word for announce report?	ἀγγέλλω (ἀγγελ) ἀγγελῶ ἤγγειλα ἤγγελκα ἤγγελμαι ἠγγέλθην (cf. ἄγγελος)
+What is the Greek word for bring back word report?	ἀπ-αγγέλλω
+What is the Greek word for mid. dep. give a decision answer?	ἀπο-κρίνομαι
+What is the Greek word for kill off put to death?	ἀπο-κτείνω
+What is the Greek word for show forth; mid. show one’s own declare express?	ἀπο-φαίνω
+What is the Greek word for throw throw at hit with stones stone?	βάλλω (βαλ) βαλῶ ἔβαλον βέβληκα βέβλημαι ἐβλήθην
+What is the Greek word for opinion plan judgment?	γνώμη ης ἡ
+What is the Greek word for throw out expel?	ἐκ-βάλλω
+What is the Greek word for burn?	κάω (καυ) καύσω ἔκαυσα κέκαυκα κέκαυμαι ἐκαύθην
+What is the Greek word for divide distinguish decide judge?	κρίνω (κριν) κρινῶ ἔκρῑνα κέκρικα κέκριμαι ἐκρίθην
+What is the Greek word for kill?	κτείνω (κτεν) κτενῶ ἔκτεινα ἔκτονα
+What is the Greek word for remain stay wait for last?	μένω μενῶ ἔμεινα μεμένηκα
+What is the Greek word for bring to light show; mid. and pass. show oneself appear?	φαίνω (φαν) φανῶ ἔφηνα πέφαγκα and πέφηνα πέφασμαι ἐφάνθην and ἐφάνην (cf. φανερός)

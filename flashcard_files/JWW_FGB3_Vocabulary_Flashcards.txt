@@ -1,0 +1,27 @@
+tags:JWW_FGB3_Vocabulary
+What does ἀγορά ᾶς ἡ mean?	market-place.
+What does ἡμέρᾱ ᾱς ἡ mean?	day.
+What does θύρᾱ ᾱς ἡ mean?	door.
+What does οἰκίᾱ ᾱς ἡ mean?	house.
+What does στρατιά ᾶς ἡ mean?	army.
+What does χώρᾱ ᾱς ἡ mean?	place land country.
+What does μακρά mean?	adj. long.
+What does μῑκρά mean?	adj. small little.
+What does ἐν mean?	prep. with dat. in (a proclitic).
+What does ἦν mean?	he (she it) was;
+What does ἦσαν mean?	they were.
+What does ἔχει mean?	he (she it) has;
+What does ἔχουσι mean?	they have.
+What is the Greek word for market-place?	ἀγορά ᾶς ἡ
+What is the Greek word for day?	ἡμέρᾱ ᾱς ἡ
+What is the Greek word for door?	θύρᾱ ᾱς ἡ
+What is the Greek word for house?	οἰκίᾱ ᾱς ἡ
+What is the Greek word for army?	στρατιά ᾶς ἡ
+What is the Greek word for place land country?	χώρᾱ ᾱς ἡ
+What is the Greek word for adj. long?	μακρά
+What is the Greek word for adj. small little?	μῑκρά
+What is the Greek word for prep. with dat. in (a proclitic)?	ἐν
+What is the Greek word for he (she it) was;?	ἦν
+What is the Greek word for they were?	ἦσαν
+What is the Greek word for he (she it) has;?	ἔχει
+What is the Greek word for they have?	ἔχουσι

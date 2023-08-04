@@ -1,0 +1,41 @@
+tags:JWW_FGB71_Grammar
+What is the First Person Singular form of the First Aorist Passive Indicative of λύω loose?	ἐ-λύθη-ν
+What is the Second Person Singular form of the First Aorist Passive Indicative of λύω loose?	ἐ-λύθη-ς
+What is the Third Person Singular form of the First Aorist Passive Indicative of λύω loose?	ἐ-λύθη
+What is the Second Person Dual form of the First Aorist Passive Indicative of λύω loose?	ἐ-λύθη-τον
+What is the Third Person Dual form of the First Aorist Passive Indicative of λύω loose?	ἐ-λυθή-την
+What is the First Person Plural form of the First Aorist Passive Indicative of λύω loose?	ἐ-λύθη-μεν
+What is the Second Person Plural form of the First Aorist Passive Indicative of λύω loose?	ἐ-λύθη-τε
+What is the Third Person Plural form of the First Aorist Passive Indicative of λύω loose?	ἐ-λύθη-σαν
+What is the First Person Singular form of the Future Passive Indicative of λύω loose?	λυθήσο-μαι
+What is the Second Person Singular form of the Future Passive Indicative of λύω loose?	λυθήσει
+What is the Third Person Singular form of the Future Passive Indicative of λύω loose?	λυθήσε-ται
+What is the Second Person Dual form of the Future Passive Indicative of λύω loose?	λυθήσε-σθον
+What is the Third Person Dual form of the Future Passive Indicative of λύω loose?	λυθήσε-σθον
+What is the First Person Plural form of the Future Passive Indicative of λύω loose?	λυθησό-μεθα
+What is the Second Person Plural form of the Future Passive Indicative of λύω loose?	λυθήσε-σθε
+What is the Third Person Plural form of the Future Passive Indicative of λύω loose?	λυθήσον-ται
+What is the First Person Singular form of the First Aorist Passive Subjunctive of λύω loose?	λυθῶ
+What is the Second Person Singular form of the First Aorist Passive Subjunctive of λύω loose?	λυθῇς
+What is the Third Person Singular form of the First Aorist Passive Subjunctive of λύω loose?	λυθῇ
+What is the Second Person Dual form of the First Aorist Passive Subjunctive of λύω loose?	λυθῆ-τον
+What is the Third Person Dual form of the First Aorist Passive Subjunctive of λύω loose?	λυθῆ-τον
+What is the First Person Plural form of the First Aorist Passive Subjunctive of λύω loose?	λυθῶ-μεν
+What is the Second Person Plural form of the First Aorist Passive Subjunctive of λύω loose?	λυθῆ-τε
+What is the Third Person Plural form of the First Aorist Passive Subjunctive of λύω loose?	λυθῶσι
+What is the First Person Singular form of the First Aorist Passive Optative of λύω loose?	λυθείη-ν
+What is the Second Person Singular form of the First Aorist Passive Optative of λύω loose?	λυθείη-ς
+What is the Third Person Singular form of the First Aorist Passive Optative of λύω loose?	λυθείη
+What is the Second Person Dual form of the First Aorist Passive Optative of λύω loose?	λυθεῖ-τον or λυθείη-τον
+What is the Third Person Dual form of the First Aorist Passive Optative of λύω loose?	λυθεί-την or λυθειή-την
+What is the First Person Plural form of the First Aorist Passive Optative of λύω loose?	λυθεῖ-μεν or λυθείη-μεν
+What is the Second Person Plural form of the First Aorist Passive Optative of λύω loose?	λυθεῖ-τε or λυθείη-τε
+What is the Third Person Plural form of the First Aorist Passive Optative of λύω loose?	λυθεῖε-ν or λυθείη-σαν
+What is the First Person Singular form of the Future Passive Optative of λύω loose?	λυθησοί-μην
+What is the Second Person Singular form of the Future Passive Optative of λύω loose?	λυθήσοι-ο
+What is the Third Person Singular form of the Future Passive Optative of λύω loose?	λυθήσοι-το
+What is the Second Person Dual form of the Future Passive Optative of λύω loose?	λυθήσοι-σθον
+What is the Third Person Dual form of the Future Passive Optative of λύω loose?	λυθησοί-σθην
+What is the First Person Plural form of the Future Passive Optative of λύω loose?	λυθησοί-μεθα
+What is the Second Person Plural form of the Future Passive Optative of λύω loose?	λυθήσοι-σθε
+What is the Third Person Plural form of the Future Passive Optative of λύω loose?	λυθήσοι-ντο

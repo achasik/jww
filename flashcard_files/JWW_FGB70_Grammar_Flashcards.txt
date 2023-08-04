@@ -1,0 +1,33 @@
+tags:JWW_FGB70_Grammar
+What is the First Person Singular form of the Perfect Middle and Passive Indicative of στέλλω (στελ) send?	ἔσταλ-μαι
+What is the Second Person Singular form of the Perfect Middle and Passive Indicative of στέλλω (στελ) send?	ἔσταλ-σαι
+What is the Third Person Singular form of the Perfect Middle and Passive Indicative of στέλλω (στελ) send?	ἔσταλ-ται
+What is the Second Person Dual form of the Perfect Middle and Passive Indicative of στέλλω (στελ) send?	ἔσταλ-θον
+What is the Third Person Dual form of the Perfect Middle and Passive Indicative of στέλλω (στελ) send?	ἔσταλ-θον
+What is the First Person Plural form of the Perfect Middle and Passive Indicative of στέλλω (στελ) send?	ἐστάλ-μεθα
+What is the Second Person Plural form of the Perfect Middle and Passive Indicative of στέλλω (στελ) send?	ἔσταλ-θε
+What is the Third Person Plural form of the Perfect Middle and Passive Indicative of στέλλω (στελ) send?	ἐσταλ-μένοι εἰσί
+What is the First Person Singular form of the Pluperfect Middle and Passive Indicative of στέλλω (στελ) send?	ἐστάλ-μην
+What is the Second Person Singular form of the Pluperfect Middle and Passive Indicative of στέλλω (στελ) send?	ἔσταλ-σο
+What is the Third Person Singular form of the Pluperfect Middle and Passive Indicative of στέλλω (στελ) send?	ἔσταλ-το
+What is the Second Person Dual form of the Pluperfect Middle and Passive Indicative of στέλλω (στελ) send?	ἔσταλ-θον
+What is the Third Person Dual form of the Pluperfect Middle and Passive Indicative of στέλλω (στελ) send?	ἐστάλ-θην
+What is the First Person Plural form of the Pluperfect Middle and Passive Indicative of στέλλω (στελ) send?	ἐστάλ-μεθα
+What is the Second Person Plural form of the Pluperfect Middle and Passive Indicative of στέλλω (στελ) send?	ἔσταλ-θε
+What is the Third Person Plural form of the Pluperfect Middle and Passive Indicative of στέλλω (στελ) send?	ἐσταλ-μένοι ἦσαν
+What is the First Person Singular form of the Perfect Middle and Passive Indicative of φαίνω (φαν) show?	πέφασ-μαι
+What is the Second Person Singular form of the Perfect Middle and Passive Indicative of φαίνω (φαν) show?	πέφαν-σαι
+What is the Third Person Singular form of the Perfect Middle and Passive Indicative of φαίνω (φαν) show?	πέφαν-ται
+What is the Second Person Dual form of the Perfect Middle and Passive Indicative of φαίνω (φαν) show?	πέφαν-θον
+What is the Third Person Dual form of the Perfect Middle and Passive Indicative of φαίνω (φαν) show?	πέφαν-θον
+What is the First Person Plural form of the Perfect Middle and Passive Indicative of φαίνω (φαν) show?	πεφάσ-μεθα
+What is the Second Person Plural form of the Perfect Middle and Passive Indicative of φαίνω (φαν) show?	πέφαν-θε
+What is the Third Person Plural form of the Perfect Middle and Passive Indicative of φαίνω (φαν) show?	πεφασ-μένοι εἰσί
+What is the First Person Singular form of the Pluperfect Middle and Passive Indicative of φαίνω (φαν) show?	ἐ-πεφάσ-μην
+What is the Second Person Singular form of the Pluperfect Middle and Passive Indicative of φαίνω (φαν) show?	ἐ-πέφαν-σο
+What is the Third Person Singular form of the Pluperfect Middle and Passive Indicative of φαίνω (φαν) show?	ἐ-πέφαν-το
+What is the Second Person Dual form of the Pluperfect Middle and Passive Indicative of φαίνω (φαν) show?	ἐ-πέφαν-θον
+What is the Third Person Dual form of the Pluperfect Middle and Passive Indicative of φαίνω (φαν) show?	ἐ-πεφάν-θην
+What is the First Person Plural form of the Pluperfect Middle and Passive Indicative of φαίνω (φαν) show?	ἐ-πεφάσ-μεθα
+What is the Second Person Plural form of the Pluperfect Middle and Passive Indicative of φαίνω (φαν) show?	ἐ-πέφαν-θε
+What is the Third Person Plural form of the Pluperfect Middle and Passive Indicative of φαίνω (φαν) show?	πεφασ-μένοι ἦσαν

@@ -1,0 +1,64 @@
+tags:JWW_FGB9_Grammar
+What is the Masculine Nominative Singular form of the ὁ ἡ τό. (Masculine Definite Article)?	ὁ
+What is the Masculine Genitive Singular form of the ὁ ἡ τό. (Masculine Definite Article)?	τοῦ
+What is the Masculine Dative Singular form of the ὁ ἡ τό. (Masculine Definite Article)?	τῷ
+What is the Masculine Accusative Singular form of the ὁ ἡ τό. (Masculine Definite Article)?	τόν
+What is the Masculine Nominative and Accusative Dual form of the ὁ ἡ τό. (Masculine Definite Article)?	τώ
+What is the Masculine Genitive and Dative Dual form of the ὁ ἡ τό. (Masculine Definite Article)?	τοῖν
+What is the Masculine Nominative Plural form of the ὁ ἡ τό. (Masculine Definite Article)?	οἱ
+What is the Masculine Genitive Plural form of the ὁ ἡ τό. (Masculine Definite Article)?	τῶν
+What is the Masculine Dative Plural form of the ὁ ἡ τό. (Masculine Definite Article)?	τοῖς
+What is the Masculine Accusative Plural form of the ὁ ἡ τό. (Masculine Definite Article)?	τούς
+What is the Feminine Nominative Singular form of the ὁ ἡ τό. (Feminine Definite Article)?	ἡ
+What is the Feminine Genitive Singular form of the ὁ ἡ τό. (Feminine Definite Article)?	τῆς
+What is the Feminine Dative Singular form of the ὁ ἡ τό. (Feminine Definite Article)?	τῇ
+What is the Feminine Accusative Singular form of the ὁ ἡ τό. (Feminine Definite Article)?	τήν
+What is the Feminine Nominative and Accusative Dual form of the ὁ ἡ τό. (Feminine Definite Article)?	τώ
+What is the Feminine Genitive and Dative Dual form of the ὁ ἡ τό. (Feminine Definite Article)?	τοῖν
+What is the Feminine Nominative Plural form of the ὁ ἡ τό. (Feminine Definite Article)?	αἱ
+What is the Feminine Genitive Plural form of the ὁ ἡ τό. (Feminine Definite Article)?	τῶν
+What is the Feminine Dative Plural form of the ὁ ἡ τό. (Feminine Definite Article)?	ταῖς
+What is the Feminine Accusative Plural form of the ὁ ἡ τό. (Feminine Definite Article)?	τάς
+What is the Neuter Nominative Singular form of the ὁ ἡ τό. (Neuter Definite Article)?	τό
+What is the Neuter Genitive Singular form of the ὁ ἡ τό. (Neuter Definite Article)?	τοῦ
+What is the Neuter Dative Singular form of the ὁ ἡ τό. (Neuter Definite Article)?	τῷ
+What is the Neuter Accusative Singular form of the ὁ ἡ τό. (Neuter Definite Article)?	τό
+What is the Neuter Nominative and Accusative Dual form of the ὁ ἡ τό. (Neuter Definite Article)?	τώ
+What is the Neuter Genitive and Dative Dual form of the ὁ ἡ τό. (Neuter Definite Article)?	τοῖν
+What is the Neuter Nominative Plural form of the ὁ ἡ τό. (Neuter Definite Article)?	τά
+What is the Neuter Genitive Plural form of the ὁ ἡ τό. (Neuter Definite Article)?	τῶν
+What is the Neuter Dative Plural form of the ὁ ἡ τό. (Neuter Definite Article)?	τοῖς
+What is the Neuter Accusative Plural form of the ὁ ἡ τό. (Neuter Definite Article)?	τά
+What is the Nominative Singular form of the οῖνος ὁ (Wine)?	οἶνος
+What is the Genitive Singular form of the οῖνος ὁ (Wine)?	οἴνου
+What is the Dative Singular form of the οῖνος ὁ (Wine)?	οἴνῳ
+What is the Accusative Singular form of the οῖνος ὁ (Wine)?	οἶνον
+What is the Vocative Singular form of the οῖνος ὁ (Wine)?	οἶνε
+What is the Nominative Accusative and Vocative Dual form of the οῖνος ὁ (Wine)?	οἴνω
+What is the Genitive and Dative Dual form of the οῖνος ὁ (Wine)?	οἴνοιν
+What is the Nominative and Vocative Plural form of the οῖνος ὁ (Wine)?	οἶνοι
+What is the Genitive Plural form of the οῖνος ὁ (Wine)?	οἴνων
+What is the Dative Plural form of the οῖνος ὁ (Wine)?	οἴνοις
+What is the Accusative Plural form of the οῖνος ὁ (Wine)?	οἴνους
+What is the Nominative Singular form of the ἡ στενὴ ὁδός (The Narrow Road)?	ἡστενὴὁδός
+What is the Genitive Singular form of the ἡ στενὴ ὁδός (The Narrow Road)?	τῆςστενῆςὁδοῦ
+What is the Dative Singular form of the ἡ στενὴ ὁδός (The Narrow Road)?	τῇστενῇὁδῷ
+What is the Accusative Singular form of the ἡ στενὴ ὁδός (The Narrow Road)?	τὴνστενὴνὁδόν
+What is the Vocative Singular form of the ἡ στενὴ ὁδός (The Narrow Road)?	στενὴὁδέ
+What is the Nominative Accusative and Vocative Dual form of the ἡ στενὴ ὁδός (The Narrow Road)?	τὼστενὰὁδώ
+What is the Genitive and Dative Dual form of the ἡ στενὴ ὁδός (The Narrow Road)?	τοῖνστεναῖνὁδοῖν
+What is the Nominative and Vocative Plural form of the ἡ στενὴ ὁδός (The Narrow Road)?	αἱστεναὶὁδοί
+What is the Genitive Plural form of the ἡ στενὴ ὁδός (The Narrow Road)?	τῶνστενῶνὁδῶν
+What is the Dative Plural form of the ἡ στενὴ ὁδός (The Narrow Road)?	ταῖςστεναῖςὁδοῖς
+What is the Accusative Plural form of the ἡ στενὴ ὁδός (The Narrow Road)?	τὰςστενὰςὁδούς
+What is the Nominative Singular form of the πλοῖον μακρόν (A Long Boat)?	πλοῖονμακρόν
+What is the Genitive Singular form of the πλοῖον μακρόν (A Long Boat)?	πλοίουμακροῦ
+What is the Dative Singular form of the πλοῖον μακρόν (A Long Boat)?	πλοίῳμακρῷ
+What is the Accusative Singular form of the πλοῖον μακρόν (A Long Boat)?	πλοῖονμακρόν
+What is the Vocative Singular form of the πλοῖον μακρόν (A Long Boat)?	πλοῖονμακρόν
+What is the Nominative Accusative and Vocative Dual form of the πλοῖον μακρόν (A Long Boat)?	πλοίωμακρώ
+What is the Genitive and Dative Dual form of the πλοῖον μακρόν (A Long Boat)?	πλοίοινμακροῖν
+What is the Nominative and Vocative Plural form of the πλοῖον μακρόν (A Long Boat)?	πλοῖαμακρά
+What is the Genitive Plural form of the πλοῖον μακρόν (A Long Boat)?	πλοίωνμακρῶν
+What is the Dative Plural form of the πλοῖον μακρόν (A Long Boat)?	πλοίοιςμακροῖς
+What is the Accusative Plural form of the πλοῖον μακρόν (A Long Boat)?	πλοῖαμακρά

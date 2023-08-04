@@ -1,0 +1,17 @@
+tags:JWW_FGB22_Grammar
+What is the First Person Singular form of the Perfect Indicative Middle of λείπω?	(λελειπ-μαι) λέλειμ-μαι
+What is the Second Person Singular form of the Perfect Indicative Middle of λείπω?	(λελειπ-σαι) λέλειψαι
+What is the Third Person Singular form of the Perfect Indicative Middle of λείπω?	(λελειπ-ται) λέλειπ-ται
+What is the Second Person Dual form of the Perfect Indicative Middle of λείπω?	(λελειπ-σθον) λέλειφ-θον
+What is the Third Person Dual form of the Perfect Indicative Middle of λείπω?	(λελειπ-σθον) λέλειφ-θον
+What is the First Person Plural form of the Perfect Indicative Middle of λείπω?	(λελειπ-μεθα) λελείμ-μεθα
+What is the Second Person Plural form of the Perfect Indicative Middle of λείπω?	(λελειπ-σθε) λέλειφ-θε
+What is the Third Person Plural form of the Perfect Indicative Middle of λείπω?	(λελειπ-μενοι) λελειμ-μένοι εἰσί
+What is the First Person Singular form of the Pluperfect Indicative Middle of λείπω?	(ἐ-λελειπ-μην) ἐ-λελείμ-μην
+What is the Second Person Singular form of the Pluperfect Indicative Middle of λείπω?	(ἐ-λελειπ-σο) ἐ-λέλειψο
+What is the Third Person Singular form of the Pluperfect Indicative Middle of λείπω?	(ἐ-λελειπ-το) ἐ-λέλειπ-το
+What is the Second Person Dual form of the Pluperfect Indicative Middle of λείπω?	(ἐ-λελειπ-σθον) ἐ-λέλειφ-θον
+What is the Third Person Dual form of the Pluperfect Indicative Middle of λείπω?	(ἐ-λελειπ-σθον) ἐ-λελείφ-θην
+What is the First Person Plural form of the Pluperfect Indicative Middle of λείπω?	(ἐ-λελειπ-μεθα) ἐ-λελείμ-μεθα
+What is the Second Person Plural form of the Pluperfect Indicative Middle of λείπω?	(ἐ-λελειπ-σθε) ἐ-λέλειφ-θε
+What is the Third Person Plural form of the Pluperfect Indicative Middle of λείπω?	(λελειπ-μενοι) λελειμ-μένοι ἦσαν

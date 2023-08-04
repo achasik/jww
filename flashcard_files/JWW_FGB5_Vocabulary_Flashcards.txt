@@ -1,0 +1,23 @@
+tags:JWW_FGB5_Vocabulary
+What does ἄγω mean?	lead carry bring.
+What does ἁρπάζω mean?	seize rob plunder.
+What does βουλεύω mean?	plan plot.
+What does ἔχω mean?	have hold.
+What does λύω mean?	loose destroy break.
+What does πέμπω mean?	send.
+What does Ἑλληνική mean?	adj. Greek.
+What does πύλη ης ἡ mean?	gate.
+What does φυλακή ῆς ἡ mean?	guard garrison.
+What does ἐξ mean?	(before a vowel) ἐκ (before a consonant) prep. with gen. out of from a proclitic).
+What does οὐ mean?	(before a consonant) οὐκ (before the smooth breathing) οὐχ (before the rough breathing) adv. not (a proclitic).
+What is the Greek word for lead carry bring?	ἄγω
+What is the Greek word for seize rob plunder?	ἁρπάζω
+What is the Greek word for plan plot?	βουλεύω
+What is the Greek word for have hold?	ἔχω
+What is the Greek word for loose destroy break?	λύω
+What is the Greek word for send?	πέμπω
+What is the Greek word for adj. Greek?	Ἑλληνική
+What is the Greek word for gate?	πύλη ης ἡ
+What is the Greek word for guard garrison?	φυλακή ῆς ἡ
+What is the Greek word for (before a vowel) ἐκ (before a consonant) prep. with gen. out of from a proclitic)?	ἐξ
+What is the Greek word for (before a consonant) οὐκ (before the smooth breathing) οὐχ (before the rough breathing) adv. not (a proclitic)?	οὐ

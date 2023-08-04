@@ -1,0 +1,33 @@
+tags:JWW_FGB23_Grammar
+What is the First Person Singular form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-μαι) ἦγ-μαι
+What is the Second Person Singular form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-σαι) ἦξαι
+What is the Third Person Singular form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-ται) ἦχ-ται
+What is the Second Person Dual form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-σθον) ἦχ-θον
+What is the Third Person Dual form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-σθον) ἦχ-θον
+What is the First Person Plural form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-μεθα) ἤγ-μεθα
+What is the Second Person Plural form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-σθε) ἦχ-θε
+What is the Third Person Plural form of the Perfect Indicative Middle and Passive of ἄγω?	(ἠγ-μενοι) ἠγ-μένοι εἰσί
+What is the First Person Singular form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-μην) ἤγ-μην
+What is the Second Person Singular form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-σο) ἦξο
+What is the Third Person Singular form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-το) ἦκ-το
+What is the Second Person Dual form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-σθον) ἦχ-θον
+What is the Third Person Dual form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-σθην) ἤχ-θην
+What is the First Person Plural form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-μεθα) ἤγ-μεθα
+What is the Second Person Plural form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-σθε) ἦχ-θε
+What is the Third Person Plural form of the Pluperfect Indicative Middle and Passive of ἄγω?	(ἠγ-μενοι) ἠγ-μένοι ἦσαν
+What is the First Person Singular form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-μαι) πέπεισ-μαι
+What is the Second Person Singular form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-σαι) πέπει-σαι
+What is the Third Person Singular form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-ται) πέπεισ-ται
+What is the Second Person Dual form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-σθον) πέπει-σθον
+What is the Third Person Dual form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-σθον) πέπει-σθον
+What is the First Person Plural form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-μεθα) πεπείσ-μεθα
+What is the Second Person Plural form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-σθε) πέπει-σθε
+What is the Third Person Plural form of the Perfect Indicative Middle and Passive of πείθω?	(πεπειθ-μενοι) πεπεισ-μένοι εἰσί
+What is the First Person Singular form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-μην) ἐ-πεπείσ-μην
+What is the Second Person Singular form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-σο) ἐ-πέπει-σο
+What is the Third Person Singular form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-το) ἐ-πέπεισ-το
+What is the Second Person Dual form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-σθον) ἐ-πέπει-σθον
+What is the Third Person Dual form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-σθην) ἐ-πεπεί-σθην
+What is the First Person Plural form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-μεθα) ἐ-πεπείσ-μεθα
+What is the Second Person Plural form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-σθε) ἐ-πέπει-σθε
+What is the Third Person Plural form of the Pluperfect Indicative Middle and Passive of πείθω?	(ἐ-πεπειθ-μενοι) πεπεισ-μένοι ἦσαν

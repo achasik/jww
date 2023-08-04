@@ -1,0 +1,37 @@
+tags:JWW_FGB4_Grammar
+What is the Nominative Singular form of κώμη: (VILLAGE)?	κώμη
+What is the Genitive Singular form of κώμη: (VILLAGE)?	κώμης
+What is the Dative Singular form of κώμη: (VILLAGE)?	κώμῃ
+What is the Accusative  Singular form of κώμη: (VILLAGE)?	κώμην
+What is the Vocative Singular form of κώμη: (VILLAGE)?	κώμη
+What is the Dual Nominative Accusative and Vocative form of κώμη: (VILLAGE)?	κώμᾱ
+What is the Dual Genitive and Dative. form of κώμη: (VILLAGE)?	κώμαιν
+What is the Nominative Plural form of κώμη: (VILLAGE)?	κῶμαι
+What is the Genitive Plural form of κώμη: (VILLAGE)?	κωμῶν
+What is the Dative Plural form of κώμη: (VILLAGE)?	κώμαις
+What is the Accusative Plural form of κώμη: (VILLAGE)?	κώμᾱς
+What is the Vocative Plural form of κώμη: (VILLAGE)?	κῶμαι
+What is the Nominative Singular form of ἡ καλὴ σκηνή: (THE FINE TENT)?	ἡ καλὴ σκηνή
+What is the Genitive Singular form of ἡ καλὴ σκηνή: (THE FINE TENT)?	τῆς καλῆς σκηνῆς
+What is the Dative Singular form of ἡ καλὴ σκηνή: (THE FINE TENT)?	τῇ καλῇ σκηνῇ
+What is the Accusative  Singular form of ἡ καλὴ σκηνή: (THE FINE TENT)?	τὴν καλὴν σκηνήν
+What is the Vocative Singular form of ἡ καλὴ σκηνή: (THE FINE TENT)?	καλὴ σκηνή
+What is the Dual Nominative Accusative and Vocative form of ἡ καλὴ σκηνή: (THE FINE TENT)?	τὼ καλὰ σκηνά
+What is the Dual Genitive and Dative. form of ἡ καλὴ σκηνή: (THE FINE TENT)?	τοῖν καλαῖν σκηναῖν
+What is the Nominative Plural form of ἡ καλὴ σκηνή: (THE FINE TENT)?	αἱ καλαὶ σκηναί
+What is the Genitive Plural form of ἡ καλὴ σκηνή: (THE FINE TENT)?	τῶν καλῶν σκηνῶν
+What is the Dative Plural form of ἡ καλὴ σκηνή: (THE FINE TENT)?	ταῖς καλαῖς σκηναῖς
+What is the Accusative Plural form of ἡ καλὴ σκηνή: (THE FINE TENT)?	τὰς καλὰς σκηνάς
+What is the Vocative Plural form of ἡ καλὴ σκηνή: (THE FINE TENT)?	καλαὶ σκηναί
+What is the Nominative Singular form of ἡ μῑκρὰ σκηνή: (THE LITTLE TENT)?	ἡ μῑκρὰ σκηνή
+What is the Genitive Singular form of ἡ μῑκρὰ σκηνή: (THE LITTLE TENT)?	τῆς μῑκρᾶς σκηνῆς
+What is the Dative Singular form of ἡ μῑκρὰ σκηνή: (THE LITTLE TENT)?	τῇ μῑκρᾷ σκηνῇ
+What is the Accusative  Singular form of ἡ μῑκρὰ σκηνή: (THE LITTLE TENT)?	τὴν μῑκρὰν σκηνήν
+What is the Vocative Singular form of ἡ μῑκρὰ σκηνή: (THE LITTLE TENT)?	μῑκρὰ σκηνή
+What is the Dual Nominative Accusative and Vocative form of ἡ μῑκρὰ σκηνή: (THE LITTLE TENT)?	τὼ μῑκρὰ σκηνά
+What is the Dual Genitive and Dative. form of ἡ μῑκρὰ σκηνή: (THE LITTLE TENT)?	τοῖν μῑκραῖν σκηναῖν
+What is the Nominative Plural form of ἡ μῑκρὰ σκηνή: (THE LITTLE TENT)?	αἱ μῑκραὶ σκηναί
+What is the Genitive Plural form of ἡ μῑκρὰ σκηνή: (THE LITTLE TENT)?	τῶν μῑκρῶν σκηνῶν
+What is the Dative Plural form of ἡ μῑκρὰ σκηνή: (THE LITTLE TENT)?	ταῖς μῖκραῖς σκηναῖς
+What is the Accusative Plural form of ἡ μῑκρὰ σκηνή: (THE LITTLE TENT)?	τὰς μῑκρὰς σκηνάς
+What is the Vocative Plural form of ἡ μῑκρὰ σκηνή: (THE LITTLE TENT)?	μῑκραὶ σκηναί

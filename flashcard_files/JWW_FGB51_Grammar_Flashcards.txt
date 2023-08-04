@@ -1,0 +1,45 @@
+tags:JWW_FGB51_Grammar
+What is the Nominative Singular form of the πόλις city?	πόλι-ς
+What is the Genitive Singular form of the πόλις city?	πόλε-ως
+What is the Dative Singular form of the πόλις city?	(πόλε-ϊ) πόλει
+What is the Accusative Singular form of the πόλις city?	πόλι-ν
+What is the Vocative Singular form of the πόλις city?	πόλι
+What is the Nominative Accusative and Vocative Dual form of the πόλις city?	(πόλε-ε) πόλει
+What is the Genitive and Dative Dual form of the πόλις city?	πολέ-οιν
+What is the Nominative and Vocative Plural form of the πόλις city?	(πόλε-ες) πόλεις
+What is the Genitive Plural form of the πόλις city?	πόλε-ων
+What is the Dative Plural form of the πόλις city?	πόλε-σι
+What is the Accusative Plural form of the πόλις city?	πόλεις
+What is the Nominative Singular form of the πῆχυς forearm?	πῆχυ-ς
+What is the Genitive Singular form of the πῆχυς forearm?	πήχε-ως
+What is the Dative Singular form of the πῆχυς forearm?	(πήχε-ϊ) πήχει
+What is the Accusative Singular form of the πῆχυς forearm?	πῆχυ-ν
+What is the Vocative Singular form of the πῆχυς forearm?	πῆχυ
+What is the Nominative Accusative and Vocative Dual form of the πῆχυς forearm?	(πήχε-ε) πήχει
+What is the Genitive and Dative Dual form of the πῆχυς forearm?	πηχέ-οιν
+What is the Nominative and Vocative Plural form of the πῆχυς forearm?	(πήχε-ες) πήχεις
+What is the Genitive Plural form of the πῆχυς forearm?	πήχε-ων
+What is the Dative Plural form of the πῆχυς forearm?	πήχε-σι
+What is the Accusative Plural form of the πῆχυς forearm?	πήχεις
+What is the Nominative Singular form of the ἄστυ town?	ἄστυ
+What is the Genitive Singular form of the ἄστυ town?	ἄστε-ως
+What is the Dative Singular form of the ἄστυ town?	(ἄστε-ϊ) ἄστει
+What is the Accusative Singular form of the ἄστυ town?	ἄστυ
+What is the Vocative Singular form of the ἄστυ town?	ἄστυ
+What is the Nominative Accusative and Vocative Dual form of the ἄστυ town?	(ἄστε-ε) ἄστει
+What is the Genitive and Dative Dual form of the ἄστυ town?	ἀστέ-οιν
+What is the Nominative and Vocative Plural form of the ἄστυ town?	(ἄστε-α) ἄστη
+What is the Genitive Plural form of the ἄστυ town?	ἄστε-ων
+What is the Dative Plural form of the ἄστυ town?	ἄστε-σι
+What is the Accusative Plural form of the ἄστυ town?	(ἄστε-α) ἄστη
+What is the Nominative Singular form of the ἰχθύς fish?	ἰχθύ-ς
+What is the Genitive Singular form of the ἰχθύς fish?	ἰχθύ-ος
+What is the Dative Singular form of the ἰχθύς fish?	ἰχθύ-ϊ
+What is the Accusative Singular form of the ἰχθύς fish?	ἰχθύ-ν
+What is the Vocative Singular form of the ἰχθύς fish?	ἰχθύ
+What is the Nominative Accusative and Vocative Dual form of the ἰχθύς fish?	ἰχθύ-ε
+What is the Genitive and Dative Dual form of the ἰχθύς fish?	ἰχθύ-οιν
+What is the Nominative and Vocative Plural form of the ἰχθύς fish?	ἰχθύ-ες
+What is the Genitive Plural form of the ἰχθύς fish?	ἰχθύ-ων
+What is the Dative Plural form of the ἰχθύς fish?	ἰχθύ-σι
+What is the Accusative Plural form of the ἰχθύς fish?	ἰχθῦς

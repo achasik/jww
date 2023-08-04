@@ -1,0 +1,23 @@
+tags:JWW_FGB53_Vocabulary
+What is the best translation of Ἑλλήσποντος ου ὁ?	the Hellespont.
+What is the best translation of ἐξ-αιτέω?	ask from demand; mid. beg off.
+What is the best translation of ἔξ-εστι?	impers. it is allowed or possible.
+What is the best translation of ἔξω (cf. ἐξ)?	adv. outside beyond beyond the reach of.
+What is the best translation of ἱερός ά όν?	sacred; τὰ ἱερά sacrifices omens.
+What is the best translation of κατα-λαμβάνω?	seize upon capture.
+What is the best translation of μάλιστα (cf. μᾶλλον)?	adv. most especially.
+What is the best translation of Μίλητος ου ἡ?	Miletus.
+What is the best translation of μόνος η ον?	alone only; μόνον as adv. alone only.
+What is the best translation of προ-τῑμάω?	honor before others or especially.
+What is the best translation of Χερρόνησος ου ἡ?	the Chersonese.
+What is the Greek word for the Hellespont?	Ἑλλήσποντος ου ὁ
+What is the Greek word for ask from demand; mid. beg off?	ἐξ-αιτέω
+What is the Greek word for impers. it is allowed or possible?	ἔξ-εστι
+What is the Greek word for adv. outside beyond beyond the reach of?	ἔξω (cf. ἐξ)
+What is the Greek word for sacred; τὰ ἱερά sacrifices omens?	ἱερός ά όν
+What is the Greek word for seize upon capture?	κατα-λαμβάνω
+What is the Greek word for adv. most especially?	μάλιστα (cf. μᾶλλον)
+What is the Greek word for Miletus?	Μίλητος ου ἡ
+What is the Greek word for alone only; μόνον as adv. alone only?	μόνος η ον
+What is the Greek word for honor before others or especially?	προ-τῑμάω
+What is the Greek word for the Chersonese?	Χερρόνησος ου ἡ

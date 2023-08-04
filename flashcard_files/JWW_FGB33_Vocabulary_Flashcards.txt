@@ -1,0 +1,21 @@
+tags:JWW_FGB33_Vocabulary
+What does αἰτέω αἰτήσω mean?	etc. ask ask for demand.
+What does ἀκούω ἀκούσομαι ἤκουσα ἀκήκοα ἠκούσθην mean?	hear learn of  give heed to.
+What does ἀπ-ελαύνω mean?	drive away; intrans. ride march or go away.
+What does ἐάω ἐάσω εἴᾱσα εἵᾱκα εἵᾱμαι εἴᾱμαι εἰάθην (274) mean?	permit allow let go.
+What does ἐκεῖ (cf. ἐκεῖνος) mean?	adv. in that place there.
+What does ἐλαύνω (ἐλα) ἐλῶ ἤλασα ἐλήλακα ἐλήλαμαι ἠλάθην mean?	drive; intrans. drive ride march.
+What does κωλύω κωλύσω mean?	etc. hinder prevent check.
+What does οὐδέ (οὐ+δέ) mean?	neg. conj. but not and not nor yet nor; asadv. not even not at all.
+What does συγ-καλέω mean?	call together summon.
+What does φεύγω (φυγ) φεύξομαι and φευξοῦμαι ἔφυγον πέφευγα mean?	flee run away flee from flee one’s country be an exile.
+What is the Greek word for etc. ask ask for demand?	αἰτέω αἰτήσω
+What is the Greek word for hear learn of  give heed to?	ἀκούω ἀκούσομαι ἤκουσα ἀκήκοα ἠκούσθην
+What is the Greek word for drive away; intrans. ride march or go away?	ἀπ-ελαύνω
+What is the Greek word for permit allow let go?	ἐάω ἐάσω εἴᾱσα εἵᾱκα εἵᾱμαι εἴᾱμαι εἰάθην (274)
+What is the Greek word for adv. in that place there?	ἐκεῖ (cf. ἐκεῖνος)
+What is the Greek word for drive; intrans. drive ride march?	ἐλαύνω (ἐλα) ἐλῶ ἤλασα ἐλήλακα ἐλήλαμαι ἠλάθην
+What is the Greek word for etc. hinder prevent check?	κωλύω κωλύσω
+What is the Greek word for neg. conj. but not and not nor yet nor; asadv. not even not at all?	οὐδέ (οὐ+δέ)
+What is the Greek word for call together summon?	συγ-καλέω
+What is the Greek word for flee run away flee from flee one’s country be an exile?	φεύγω (φυγ) φεύξομαι and φευξοῦμαι ἔφυγον πέφευγα

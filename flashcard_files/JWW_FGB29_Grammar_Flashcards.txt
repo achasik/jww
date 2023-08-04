@@ -1,0 +1,65 @@
+tags:JWW_FGB29_Grammar
+What is the First Person Singular form of the Present Indicative Active of ποιέω <em>do make</em>?	(ποιέω) ποιῶ
+What is the Second Person Singular form of the Present Indicative Active of ποιέω <em>do make</em>?	(ποιέεις) ποιεῖς
+What is the Third Person Singular form of the Present Indicative Active of ποιέω <em>do make</em>?	(ποιέει) ποιεῖ
+What is the Second Person Dual form of the Present Indicative Active of ποιέω <em>do make</em>?	(ποιέετον) ποιεῖτον
+What is the Third Person Dual form of the Present Indicative Active of ποιέω <em>do make</em>?	(ποιέετον) ποιεῖτον
+What is the First Person Plural form of the Present Indicative Active of ποιέω <em>do make</em>?	(ποιέομεν) ποιοῦμεν
+What is the Second Person Plural form of the Present Indicative Active of ποιέω <em>do make</em>?	(ποιέετε) ποιεῖτε
+What is the Third Person Plural form of the Present Indicative Active of ποιέω <em>do make</em>?	(ποιέουσι) ποιοῦσι
+What is the First Person Singular form of the Present Indicative Middle and Passive of ποιέω <em>do make</em>?	(ποιέομαι) ποιοῦμαι
+What is the Second Person Singular form of the Present Indicative Middle and Passive of ποιέω <em>do make</em>?	(ποιέει) ποιεῖ
+What is the Third Person Singular form of the Present Indicative Middle and Passive of ποιέω <em>do make</em>?	(ποιέεται) ποιεῖται
+What is the Second Person Dual form of the Present Indicative Middle and Passive of ποιέω <em>do make</em>?	(ποιέεσθον) ποιεῖσθον
+What is the Third Person Dual form of the Present Indicative Middle and Passive of ποιέω <em>do make</em>?	(ποιέεσθον) ποιεῖσθον
+What is the First Person Plural form of the Present Indicative Middle and Passive of ποιέω <em>do make</em>?	(ποιεόμεθα) ποιούμεθα
+What is the Second Person Plural form of the Present Indicative Middle and Passive of ποιέω <em>do make</em>?	(ποιέεσθε) ποιεῖσθε
+What is the Third Person Plural form of the Present Indicative Middle and Passive of ποιέω <em>do make</em>?	(ποιέονται) ποιοῦνται
+What is the First Person Singular form of the Imperfect Indicative Active of ποιέω <em>do make</em>?	(ἐποίεον) ἐποίουν
+What is the Second Person Singular form of the Imperfect Indicative Active of ποιέω <em>do make</em>?	(ἐποίεες) ἐποίεις
+What is the Third Person Singular form of the Imperfect Indicative Active of ποιέω <em>do make</em>?	(ἐποίεε) ἐποίει
+What is the Second Person Dual form of the Imperfect Indicative Active of ποιέω <em>do make</em>?	(ἐποιέετον) ἐποιεῖτον
+What is the Third Person Dual form of the Imperfect Indicative Active of ποιέω <em>do make</em>?	(ἐποιεέτην) ἐποιείτην
+What is the First Person Plural form of the Imperfect Indicative Active of ποιέω <em>do make</em>?	(ἐποιέομεν) ἐποιοῦμεν
+What is the Second Person Plural form of the Imperfect Indicative Active of ποιέω <em>do make</em>?	(ἐποιέετε) ἐποιεῖτε
+What is the Third Person Plural form of the Imperfect Indicative Active of ποιέω <em>do make</em>?	(ἐποίεον) ἐποίουν
+What is the First Person Singular form of the Imperfect Indicative Middle and Passive of ποιέω <em>do make</em>?	(ἐποιεόμην) ἐποιούμην
+What is the Second Person Singular form of the Imperfect Indicative Middle and Passive of ποιέω <em>do make</em>?	(ἐποιέου) ἐποιοῦ
+What is the Third Person Singular form of the Imperfect Indicative Middle and Passive of ποιέω <em>do make</em>?	(ἐποιέετο) ἐποιεῖτο
+What is the Second Person Dual form of the Imperfect Indicative Middle and Passive of ποιέω <em>do make</em>?	(ἐποιέεσθον) ἐποιεῖσθον
+What is the Third Person Dual form of the Imperfect Indicative Middle and Passive of ποιέω <em>do make</em>?	(ἐποιεέσθην) ἐποιείσθην
+What is the First Person Plural form of the Imperfect Indicative Middle and Passive of ποιέω <em>do make</em>?	(ἐποιεόμεθα) ἐποιούμεθα
+What is the Second Person Plural form of the Imperfect Indicative Middle and Passive of ποιέω <em>do make</em>?	(ἐποιέεσθε) ἐποιεῖσθε
+What is the Third Person Plural form of the Imperfect Indicative Middle and Passive of ποιέω <em>do make</em>?	(ἐποιέοντο) ἐποιοῦντο
+What is the First Person Singular form of the Present Indicative Active of δηλόω <em>manifest</em>?	(δηλόω) δηλῶ
+What is the Second Person Singular form of the Present Indicative Active of δηλόω <em>manifest</em>?	(δηλόεις) δηλοῖς
+What is the Third Person Singular form of the Present Indicative Active of δηλόω <em>manifest</em>?	(δηλόει) δηλοῖ
+What is the Second Person Dual form of the Present Indicative Active of δηλόω <em>manifest</em>?	(δηλόετον) δηλοῦτον
+What is the Third Person Dual form of the Present Indicative Active of δηλόω <em>manifest</em>?	(δηλόετον) δηλοῦτον
+What is the First Person Plural form of the Present Indicative Active of δηλόω <em>manifest</em>?	(δηλόομεν) δηλοῦμεν
+What is the Second Person Plural form of the Present Indicative Active of δηλόω <em>manifest</em>?	(δηλόετε) δηλοῦτε
+What is the Third Person Plural form of the Present Indicative Active of δηλόω <em>manifest</em>?	(δηλόουσι) δηλοῦσι
+What is the First Person Singular form of the Present Indicative Middle and Passive of δηλόω <em>manifest</em>?	(δηλόομαι) δηλοῦμαι
+What is the Second Person Singular form of the Present Indicative Middle and Passive of δηλόω <em>manifest</em>?	(δηλόει) δηλοῖ
+What is the Third Person Singular form of the Present Indicative Middle and Passive of δηλόω <em>manifest</em>?	(δηλόεται) δηλοῦται
+What is the Second Person Dual form of the Present Indicative Middle and Passive of δηλόω <em>manifest</em>?	(δηλόεσθον) δηλοῦσθον
+What is the Third Person Dual form of the Present Indicative Middle and Passive of δηλόω <em>manifest</em>?	(δηλόεσθον) δηλοῦσθον
+What is the First Person Plural form of the Present Indicative Middle and Passive of δηλόω <em>manifest</em>?	(δηλοόμεθα) δηλούμεθα
+What is the Second Person Plural form of the Present Indicative Middle and Passive of δηλόω <em>manifest</em>?	(δηλόεσθε) δηλοῦσθε
+What is the Third Person Plural form of the Present Indicative Middle and Passive of δηλόω <em>manifest</em>?	(δηλόονται) δηλοῦνται
+What is the First Person Singular form of the Imperfect Indicative Active of δηλόω <em>manifest</em>?	(ἐδήλοον) ἐδήλουν
+What is the Second Person Singular form of the Imperfect Indicative Active of δηλόω <em>manifest</em>?	(ἐδήλοες) ἐδήλους
+What is the Third Person Singular form of the Imperfect Indicative Active of δηλόω <em>manifest</em>?	(ἐδήλοε) ἐδήλου
+What is the Second Person Dual form of the Imperfect Indicative Active of δηλόω <em>manifest</em>?	(ἐδηλόετον) ἐδηλοῦτον
+What is the Third Person Dual form of the Imperfect Indicative Active of δηλόω <em>manifest</em>?	(ἐδηλοέτην) ἐδηλούτην
+What is the First Person Plural form of the Imperfect Indicative Active of δηλόω <em>manifest</em>?	(ἐδηλόομεν) ἐδηλοῦμεν
+What is the Second Person Plural form of the Imperfect Indicative Active of δηλόω <em>manifest</em>?	(ἐδηλόετε) ἐδηλοῦτε
+What is the Third Person Plural form of the Imperfect Indicative Active of δηλόω <em>manifest</em>?	(ἐδήλοον) ἐδήλουν
+What is the First Person Singular form of the Imperfect Indicative Middle and Passive of δηλόω <em>manifest</em>?	(ἐδηλοόμην) ἐδηλούμην
+What is the Second Person Singular form of the Imperfect Indicative Middle and Passive of δηλόω <em>manifest</em>?	(ἐδηλόου) ἐδηλοῦ
+What is the Third Person Singular form of the Imperfect Indicative Middle and Passive of δηλόω <em>manifest</em>?	(ἐδηλόετο) ἐδηλοῦτο
+What is the Second Person Dual form of the Imperfect Indicative Middle and Passive of δηλόω <em>manifest</em>?	(ἐδηλόεσθον) ἐδηλοῦσθον
+What is the Third Person Dual form of the Imperfect Indicative Middle and Passive of δηλόω <em>manifest</em>?	(ἐδηλοέσθην) ἐδηλούσθην
+What is the First Person Plural form of the Imperfect Indicative Middle and Passive of δηλόω <em>manifest</em>?	(ἐδηλοόμεθα) ἐδηλούμεθα
+What is the Second Person Plural form of the Imperfect Indicative Middle and Passive of δηλόω <em>manifest</em>?	(ἐδηλόεσθε) ἐδηλοῦσθε
+What is the Third Person Plural form of the Imperfect Indicative Middle and Passive of δηλόω <em>manifest</em>?	(ἐδηλόοντο) ἐδηλοῦντο

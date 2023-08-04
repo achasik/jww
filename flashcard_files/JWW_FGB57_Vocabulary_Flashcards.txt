@@ -1,0 +1,17 @@
+tags:JWW_FGB57_Vocabulary
+What does ἀεί mean?	adv. always ever.
+What does ἐπικούρημα ατος τό mean?	relief.
+What does ἔργον ου τό mean?	work deed.
+What does κολάζω (κολαδ) κολάσω ἐκόλασα κεκόλασμαι ἐκολάσθην mean?	punish.
+What does οὔ-ποτε (οὐ + ποτέ) mean?	adv. never.
+What does ποτέ mean?	adv. once ever (enclitic).
+What does πούς ποδός ὁ mean?	foot.
+What does ψεύδομαι ψεύσομαι ἐψευσάμην ἔψευσμαι mean?	lie cheat deceive.
+What is the Greek word for adv. always ever?	ἀεί
+What is the Greek word for relief?	ἐπικούρημα ατος τό
+What is the Greek word for work deed?	ἔργον ου τό
+What is the Greek word for punish?	κολάζω (κολαδ) κολάσω ἐκόλασα κεκόλασμαι ἐκολάσθην
+What is the Greek word for adv. never?	οὔ-ποτε (οὐ + ποτέ)
+What is the Greek word for adv. once ever (enclitic)?	ποτέ
+What is the Greek word for foot?	πούς ποδός ὁ
+What is the Greek word for lie cheat deceive?	ψεύδομαι ψεύσομαι ἐψευσάμην ἔψευσμαι

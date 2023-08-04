@@ -1,0 +1,22 @@
+tags:JWW_FGB49_Grammar
+What is the Present Active Infinitive of λύω?	λύειν
+What is the Present Middle and Passive Infinitive of λύω?	λύε-σθαι
+What is the Future Active Infinitive of λύω?	λύσειν
+What is the Future Middle Infinitive of λύω?	λύσε-σθαι
+What is the Future Passive Infinitive of λύω?	λυθήσε-σθαι
+What is the Aorist Active Infinitive of λύω?	λῦσαι
+What is the Aorist Middle Infinitive of λύω?	λύσα-σθαι
+What is the Aorist Passive Infinitive of λύω?	λυθῆ-ναι
+What is the Perfect Active Infinitive of λύω?	λελυκέ-ναι
+What is the Perfect Middle and Passive Infinitive of λύω?	λελύ-σθαι
+What is the Future Perfect Middle and Passive Infinitive of λύω?	λελύσε-σθαι
+What is the Present Active Infinitive of εἰμί?	εἶναι
+What is the Present Active Infinitive of τῑμάω?	(τῑμάειν) τῑμᾶν
+What is the Middle and Passive Infinitive of τῑμάω?	(τῑμάεσθαι) τῑμᾶσιθαι
+What is the Present Active Infinitive of ποιέω?	(ποιέειν) ποιεῖν
+What is the Present Middle and Passive Infinitive of ποιέω?	(ποιέεσθαι) ποιεῖσθαι
+What is the Present Active Infinitive of δηλόω?	(δηλόειν) δηλοῦν
+What is the Present Middle and Passive Infinitive of δηλόω?	(δηλόεσθαι) δηλοῦσθαι
+The subject of the infinitive is the....	Accusative
+The infinitive can be the subject of a finite verb.	True
+The infinitive can never be the object of a verb whose action naturally implies another action as its object especially of verbs expressing <em>wish command advice attempt</em> and the like.	False

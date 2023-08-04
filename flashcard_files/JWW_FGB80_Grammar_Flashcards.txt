@@ -1,0 +1,65 @@
+tags:JWW_FGB80_Grammar
+What is the First Person Singular form of the Present Active Indicative of ἵημι send?	ἴημι
+What is the Second Person Singular form of the Present Active Indicative of ἵημι send?	ἴης
+What is the Third Person Singular form of the Present Active Indicative of ἵημι send?	ἴησι
+What is the Second Person Dual form of the Present Active Indicative of ἵημι send?	ἴετον
+What is the Third Person Dual form of the Present Active Indicative of ἵημι send?	ἴετον
+What is the First Person Plural form of the Present Active Indicative of ἵημι send?	ἴεμεν
+What is the Second Person Plural form of the Present Active Indicative of ἵημι send?	ἴετε
+What is the Third Person Plural form of the Present Active Indicative of ἵημι send?	ἱᾶσι
+What is the First Person Singular form of the Present Middle and Passive Indicative of ἵημι send?	ἴεμαι
+What is the Second Person Singular form of the Present Middle and Passive Indicative of ἵημι send?	ἴεσαι
+What is the Third Person Singular form of the Present Middle and Passive Indicative of ἵημι send?	ἴεται
+What is the Second Person Dual form of the Present Middle and Passive Indicative of ἵημι send?	ἴεσθον
+What is the Third Person Dual form of the Present Middle and Passive Indicative of ἵημι send?	ἴεσθον
+What is the First Person Plural form of the Present Middle and Passive Indicative of ἵημι send?	ἱέμεθα
+What is the Second Person Plural form of the Present Middle and Passive Indicative of ἵημι send?	ἴεσθε
+What is the Third Person Plural form of the Present Middle and Passive Indicative of ἵημι send?	ἴενται
+What is the First Person Singular form of the Imperfect Active Indicative of ἵημι send?	ἴην
+What is the Second Person Singular form of the Imperfect Active Indicative of ἵημι send?	ἴεις
+What is the Third Person Singular form of the Imperfect Active Indicative of ἵημι send?	ἴει
+What is the Second Person Dual form of the Imperfect Active Indicative of ἵημι send?	ἴετον
+What is the Third Person Dual form of the Imperfect Active Indicative of ἵημι send?	ἱέτην
+What is the First Person Plural form of the Imperfect Active Indicative of ἵημι send?	ἴεμεν
+What is the Second Person Plural form of the Imperfect Active Indicative of ἵημι send?	ἴετε
+What is the Third Person Plural form of the Imperfect Active Indicative of ἵημι send?	ἴεσαν
+What is the First Person Singular form of the Imperfect Middle and Passive Indicative of ἵημι send?	ἱέμην
+What is the Second Person Singular form of the Imperfect Middle and Passive Indicative of ἵημι send?	ἴεσο
+What is the Third Person Singular form of the Imperfect Middle and Passive Indicative of ἵημι send?	ἴετο
+What is the Second Person Dual form of the Imperfect Middle and Passive Indicative of ἵημι send?	ἴεσθον
+What is the Third Person Dual form of the Imperfect Middle and Passive Indicative of ἵημι send?	ἱέσθην
+What is the First Person Plural form of the Imperfect Middle and Passive Indicative of ἵημι send?	ἱέμεθα
+What is the Second Person Plural form of the Imperfect Middle and Passive Indicative of ἵημι send?	εἷτε
+What is the Third Person Plural form of the Imperfect Middle and Passive Indicative of ἵημι send?	ἴεντο
+What is the First Person Singular form of the Present Middle and Passive Indicative of κεῖμαι lie?	κεῖμαι
+What is the Second Person Singular form of the Present Middle and Passive Indicative of κεῖμαι lie?	κεῖσαι
+What is the Third Person Singular form of the Present Middle and Passive Indicative of κεῖμαι lie?	κεῖται
+What is the Second Person Dual form of the Present Middle and Passive Indicative of κεῖμαι lie?	κεῖσθον
+What is the Third Person Dual form of the Present Middle and Passive Indicative of κεῖμαι lie?	κεῖσθον
+What is the First Person Plural form of the Present Middle and Passive Indicative of κεῖμαι lie?	κείμεθα
+What is the Second Person Plural form of the Present Middle and Passive Indicative of κεῖμαι lie?	κεῖσθε
+What is the Third Person Plural form of the Present Middle and Passive Indicative of κεῖμαι lie?	κεῖνται
+What is the First Person Singular form of the Imperfect Middle and Passive Indicative of κεῖμαι lie?	ἐκείμην
+What is the Second Person Singular form of the Imperfect Middle and Passive Indicative of κεῖμαι lie?	ἔκεισο
+What is the Third Person Singular form of the Imperfect Middle and Passive Indicative of κεῖμαι lie?	ἔκειτο
+What is the Second Person Dual form of the Imperfect Middle and Passive Indicative of κεῖμαι lie?	ἔκεισθον
+What is the Third Person Dual form of the Imperfect Middle and Passive Indicative of κεῖμαι lie?	ἐκείσθην
+What is the First Person Plural form of the Imperfect Middle and Passive Indicative of κεῖμαι lie?	ἐκείμεθα
+What is the Second Person Plural form of the Imperfect Middle and Passive Indicative of κεῖμαι lie?	ἔκεισθε
+What is the Third Person Plural form of the Imperfect Middle and Passive Indicative of κεῖμαι lie?	ἔκειντο
+What is the First Person Singular form of the Present Middle and Passive Indicative of κάθημαι sit?	κάθημαι
+What is the Second Person Singular form of the Present Middle and Passive Indicative of κάθημαι sit?	κάθησαι
+What is the Third Person Singular form of the Present Middle and Passive Indicative of κάθημαι sit?	κάθηται
+What is the Second Person Dual form of the Present Middle and Passive Indicative of κάθημαι sit?	κάθησθον
+What is the Third Person Dual form of the Present Middle and Passive Indicative of κάθημαι sit?	κάθησθον
+What is the First Person Plural form of the Present Middle and Passive Indicative of κάθημαι sit?	καθήμεθα
+What is the Second Person Plural form of the Present Middle and Passive Indicative of κάθημαι sit?	κάθησθε
+What is the Third Person Plural form of the Present Middle and Passive Indicative of κάθημαι sit?	κάθηνται
+What is the First Person Singular form of the Imperfect Middle and Passive Indicative of κάθημαι sit?	ἐκαθήμην or καθήμην
+What is the Second Person Singular form of the Imperfect Middle and Passive Indicative of κάθημαι sit?	ἐκάθησο or καθῆσο
+What is the Third Person Singular form of the Imperfect Middle and Passive Indicative of κάθημαι sit?	ἐκάθητο or καθῆστο
+What is the Second Person Dual form of the Imperfect Middle and Passive Indicative of κάθημαι sit?	ἐκάθησθον or καθῆσθον
+What is the Third Person Dual form of the Imperfect Middle and Passive Indicative of κάθημαι sit?	ἐκαθήσθην or καθήσθην
+What is the First Person Plural form of the Imperfect Middle and Passive Indicative of κάθημαι sit?	ἐκαθήμεθα or καθήμεθα
+What is the Second Person Plural form of the Imperfect Middle and Passive Indicative of κάθημαι sit?	ἐκάθησθε or καθῆσθε
+What is the Third Person Plural form of the Imperfect Middle and Passive Indicative of κάθημαι sit?	ἐκάθηντο or καθῆντο

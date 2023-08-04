@@ -1,0 +1,97 @@
+tags:JWW_FGB79_Grammar
+What is the First Person Singular form of the Present Active Indicative of φημί (φα) SAY?	φημί
+What is the Second Person Singular form of the Present Active Indicative of φημί (φα) SAY?	φῄς or φής
+What is the Third Person Singular form of the Present Active Indicative of φημί (φα) SAY?	φησί
+What is the Second Person Dual form of the Present Active Indicative of φημί (φα) SAY?	φατόν
+What is the Third Person Dual form of the Present Active Indicative of φημί (φα) SAY?	φατόν
+What is the First Person Plural form of the Present Active Indicative of φημί (φα) SAY?	φαμέν
+What is the Second Person Plural form of the Present Active Indicative of φημί (φα) SAY?	φατέ
+What is the Third Person Plural form of the Present Active Indicative of φημί (φα) SAY?	φᾱσί
+What is the First Person Singular form of the Imperfect Active Indicative of φημί (φα) SAY?	ἔφην
+What is the Second Person Singular form of the Imperfect Active Indicative of φημί (φα) SAY?	ἔφησθα or ἔφης
+What is the Third Person Singular form of the Imperfect Active Indicative of φημί (φα) SAY?	ἔφη
+What is the Second Person Dual form of the Imperfect Active Indicative of φημί (φα) SAY?	ἔφατον
+What is the Third Person Dual form of the Imperfect Active Indicative of φημί (φα) SAY?	ἐφάτην
+What is the First Person Plural form of the Imperfect Active Indicative of φημί (φα) SAY?	ἔφαμεν
+What is the Second Person Plural form of the Imperfect Active Indicative of φημί (φα) SAY?	ἔφατε
+What is the Third Person Plural form of the Imperfect Active Indicative of φημί (φα) SAY?	ἔφασαν
+What is the First Person Singular form of the Present Active Subjunctive of φημί (φα) SAY?	φῶ
+What is the Second Person Singular form of the Present Active Subjunctive of φημί (φα) SAY?	φῇς
+What is the Third Person Singular form of the Present Active Subjunctive of φημί (φα) SAY?	φῇ
+What is the Second Person Dual form of the Present Active Subjunctive of φημί (φα) SAY?	φῆτον
+What is the Third Person Dual form of the Present Active Subjunctive of φημί (φα) SAY?	φῆτον
+What is the First Person Plural form of the Present Active Subjunctive of φημί (φα) SAY?	φῶμεν
+What is the Second Person Plural form of the Present Active Subjunctive of φημί (φα) SAY?	φῆτε
+What is the Third Person Plural form of the Present Active Subjunctive of φημί (φα) SAY?	φῶσι
+What is the First Person Singular form of the Present Active Optative of φημί (φα) SAY?	φαίην
+What is the Second Person Singular form of the Present Active Optative of φημί (φα) SAY?	φαίης
+What is the Third Person Singular form of the Present Active Optative of φημί (φα) SAY?	φαίη
+What is the Second Person Dual form of the Present Active Optative of φημί (φα) SAY?	φαῖτον or φαίητον
+What is the Third Person Dual form of the Present Active Optative of φημί (φα) SAY?	φαίτην or φαιήτην
+What is the First Person Plural form of the Present Active Optative of φημί (φα) SAY?	φαῖμεν or φαίημεν
+What is the Second Person Plural form of the Present Active Optative of φημί (φα) SAY?	φαῖτε or φαίητε
+What is the Third Person Plural form of the Present Active Optative of φημί (φα) SAY?	φαῖεν or φαίησαν
+What is the First Person Singular form of the Present Active Indicative of εἰμί (ἐσ) BE?	εἰμί
+What is the Second Person Singular form of the Present Active Indicative of εἰμί (ἐσ) BE?	εἶ
+What is the Third Person Singular form of the Present Active Indicative of εἰμί (ἐσ) BE?	ἐστί
+What is the Second Person Dual form of the Present Active Indicative of εἰμί (ἐσ) BE?	ἐστόν
+What is the Third Person Dual form of the Present Active Indicative of εἰμί (ἐσ) BE?	ἐστόν
+What is the First Person Plural form of the Present Active Indicative of εἰμί (ἐσ) BE?	ἐσμέν
+What is the Second Person Plural form of the Present Active Indicative of εἰμί (ἐσ) BE?	ἐστέ
+What is the Third Person Plural form of the Present Active Indicative of εἰμί (ἐσ) BE?	εἰσί
+What is the First Person Singular form of the Imperfect Active Indicative of εἰμί (ἐσ) BE?	ἦ or ἦν
+What is the Second Person Singular form of the Imperfect Active Indicative of εἰμί (ἐσ) BE?	ἦσθα
+What is the Third Person Singular form of the Imperfect Active Indicative of εἰμί (ἐσ) BE?	ἦν
+What is the Second Person Dual form of the Imperfect Active Indicative of εἰμί (ἐσ) BE?	ἦστον or ἦτον
+What is the Third Person Dual form of the Imperfect Active Indicative of εἰμί (ἐσ) BE?	ἤστην or ἤτην
+What is the First Person Plural form of the Imperfect Active Indicative of εἰμί (ἐσ) BE?	ἦμεν
+What is the Second Person Plural form of the Imperfect Active Indicative of εἰμί (ἐσ) BE?	ἦστε or ἦτε
+What is the Third Person Plural form of the Imperfect Active Indicative of εἰμί (ἐσ) BE?	ἦσαν
+What is the First Person Singular form of the Present Active Subjunctive of εἰμί (ἐσ) BE?	ὦ
+What is the Second Person Singular form of the Present Active Subjunctive of εἰμί (ἐσ) BE?	ᾖς
+What is the Third Person Singular form of the Present Active Subjunctive of εἰμί (ἐσ) BE?	ᾖ
+What is the Second Person Dual form of the Present Active Subjunctive of εἰμί (ἐσ) BE?	ἦτον
+What is the Third Person Dual form of the Present Active Subjunctive of εἰμί (ἐσ) BE?	ἦτον
+What is the First Person Plural form of the Present Active Subjunctive of εἰμί (ἐσ) BE?	ὦμεν
+What is the Second Person Plural form of the Present Active Subjunctive of εἰμί (ἐσ) BE?	ἦτε
+What is the Third Person Plural form of the Present Active Subjunctive of εἰμί (ἐσ) BE?	ὦσι
+What is the First Person Singular form of the Present Active Optative of εἰμί (ἐσ) BE?	εἴην
+What is the Second Person Singular form of the Present Active Optative of εἰμί (ἐσ) BE?	εἴης
+What is the Third Person Singular form of the Present Active Optative of εἰμί (ἐσ) BE?	εἴη
+What is the Second Person Dual form of the Present Active Optative of εἰμί (ἐσ) BE?	εἶτον or εἴητον
+What is the Third Person Dual form of the Present Active Optative of εἰμί (ἐσ) BE?	εἴτην or εἰήτην
+What is the First Person Plural form of the Present Active Optative of εἰμί (ἐσ) BE?	εἶμεν or εἴημεν
+What is the Second Person Plural form of the Present Active Optative of εἰμί (ἐσ) BE?	εἶτε or εἴητε
+What is the Third Person Plural form of the Present Active Optative of εἰμί (ἐσ) BE?	εἶεν or εἴησαν
+What is the First Person Singular form of the Present Active Indicative of εἶμι (ἰ) GO?	εἶμι
+What is the Second Person Singular form of the Present Active Indicative of εἶμι (ἰ) GO?	εἶ
+What is the Third Person Singular form of the Present Active Indicative of εἶμι (ἰ) GO?	εἶσι
+What is the Second Person Dual form of the Present Active Indicative of εἶμι (ἰ) GO?	ἴτον
+What is the Third Person Dual form of the Present Active Indicative of εἶμι (ἰ) GO?	ἴτον
+What is the First Person Plural form of the Present Active Indicative of εἶμι (ἰ) GO?	ἴμεν
+What is the Second Person Plural form of the Present Active Indicative of εἶμι (ἰ) GO?	ἴτε
+What is the Third Person Plural form of the Present Active Indicative of εἶμι (ἰ) GO?	ἴᾱσι
+What is the First Person Singular form of the Present Active Indicative of εἶμι (ἰ) GO?	ᾖα or ᾔειν
+What is the Second Person Singular form of the Present Active Indicative of εἶμι (ἰ) GO?	ᾔεις or ᾔεισθα
+What is the Third Person Singular form of the Present Active Indicative of εἶμι (ἰ) GO?	ᾔει ir ᾔειν
+What is the Second Person Dual form of the Present Active Indicative of εἶμι (ἰ) GO?	ᾖτον
+What is the Third Person Dual form of the Present Active Indicative of εἶμι (ἰ) GO?	ᾔτην
+What is the First Person Plural form of the Present Active Indicative of εἶμι (ἰ) GO?	ᾖμεν
+What is the Second Person Plural form of the Present Active Indicative of εἶμι (ἰ) GO?	ᾖτε
+What is the Third Person Plural form of the Present Active Indicative of εἶμι (ἰ) GO?	ᾖσαν or ᾔεσαν
+What is the First Person Singular form of the Present Active Subjunctive of εἶμι (ἰ) GO?	ἴω
+What is the Second Person Singular form of the Present Active Subjunctive of εἶμι (ἰ) GO?	ἴῃς
+What is the Third Person Singular form of the Present Active Subjunctive of εἶμι (ἰ) GO?	ἴῃ
+What is the Second Person Dual form of the Present Active Subjunctive of εἶμι (ἰ) GO?	ἴητον
+What is the Third Person Dual form of the Present Active Subjunctive of εἶμι (ἰ) GO?	ἴητον
+What is the First Person Plural form of the Present Active Subjunctive of εἶμι (ἰ) GO?	ἴωμεν
+What is the Second Person Plural form of the Present Active Subjunctive of εἶμι (ἰ) GO?	ἴητε
+What is the Third Person Plural form of the Present Active Subjunctive of εἶμι (ἰ) GO?	ἴωσι
+What is the First Person Singular form of the Present Active Optative of εἶμι (ἰ) GO?	ἴοιμι or ἰοίην
+What is the Second Person Singular form of the Present Active Optative of εἶμι (ἰ) GO?	ἴοις
+What is the Third Person Singular form of the Present Active Optative of εἶμι (ἰ) GO?	ἴοι
+What is the Second Person Dual form of the Present Active Optative of εἶμι (ἰ) GO?	ἴοιτον
+What is the Third Person Dual form of the Present Active Optative of εἶμι (ἰ) GO?	ἰοίτην
+What is the First Person Plural form of the Present Active Optative of εἶμι (ἰ) GO?	ἴοιμεν
+What is the Second Person Plural form of the Present Active Optative of εἶμι (ἰ) GO?	ἴοιτε
+What is the Third Person Plural form of the Present Active Optative of εἶμι (ἰ) GO?	ἴοιεν

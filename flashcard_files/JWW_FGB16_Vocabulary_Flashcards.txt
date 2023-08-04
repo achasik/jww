@@ -1,0 +1,21 @@
+tags:JWW_FGB16_Vocabulary
+What is the best translation of ἄλλος ἄλληἄλλο?	other another;  with the article the other the rest of.
+What is the best translation of δασμόςοῦ ὁ?	tax tribute.
+What is the best translation of ἱκανόςή όν ?	sufficient able capable.
+What is the best translation of λοχᾱγόςοῦ ὁ?	captain.
+What is the best translation of οὖν?	conj. therefore then so (a postpositive).
+What is the best translation of σπονδήῆς ἡ ?	libation; plur. truce.
+What is the best translation of συμ-πέμπω?	send with.
+What is the best translation of τοξεύω ἐτόξευσα (cf.τόξον τοξότης)?	use one’s bow shoot.
+What is the best translation of φρούραρχοςου ὁ?	commander of a garrison.
+What is the best translation of ὧδε ?	adv. thus as follows.
+What is the Greek word for other another;  with the article the other the rest of?	ἄλλος ἄλληἄλλο
+What is the Greek word for tax tribute?	δασμόςοῦ ὁ
+What is the Greek word for sufficient able capable?	ἱκανόςή όν 
+What is the Greek word for captain?	λοχᾱγόςοῦ ὁ
+What is the Greek word for conj. therefore then so (a postpositive)?	οὖν
+What is the Greek word for libation; plur. truce?	σπονδήῆς ἡ 
+What is the Greek word for send with?	συμ-πέμπω
+What is the Greek word for use one’s bow shoot?	τοξεύω ἐτόξευσα (cf.τόξον τοξότης)
+What is the Greek word for commander of a garrison?	φρούραρχοςου ὁ
+What is the Greek word for adv. thus as follows?	ὧδε 

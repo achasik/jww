@@ -1,0 +1,49 @@
+tags:JWW_FGB41_Grammar
+What is the First Person Singular form of the Present Optative Active of τῑμάω?	(τῑμάοιμι) τῑμῷμι or (τῑμαοίην) τῑμῴην
+What is the Second Person Singular form of the Present Optative Active of τῑμάω?	(τῑμάοις) τῑμῷς or (τῑμαοίης) τῑμῴης
+What is the Third Person Singular form of the Present Optative Active of τῑμάω?	(τῑμάοι) τῑμῷ or (τῑμαοίη) τῑμῴη
+What is the Second Person Dual form of the Present Optative Active of τῑμάω?	(τῑμάοιτον) τῑμῷτον or (τῑμαοίητον) τῑμῴητον
+What is the Third Person Dual form of the Present Optative Active of τῑμάω?	(τῑμαοίτην) τῑμῴτην or (τῑμαοιήτην) τῑμῳήτην
+What is the First Person Plural form of the Present Optative Active of τῑμάω?	(τῑμάοιμεν) τῑμῷμεν or (τῑμαοίημεν) τῑμῴημεν
+What is the Second Person Plural form of the Present Optative Active of τῑμάω?	(τῑμάοιτε) τῑμῷτε or (τῑμαοίητε) τῑμῴητε
+What is the Third Person Plural form of the Present Optative Active of τῑμάω?	(τῑμάοιεν) τῑμῷεν or (τῑμαοίησαν) τῑμῴησαν
+What is the First Person Singular form of the Present Optative Middle and Passive of τῑμάω?	(τῑμαοίμην) τῑμῴμην
+What is the Second Person Singular form of the Present Optative Middle and Passive of τῑμάω?	(τῑμάοιο) τῑμῷο
+What is the Third Person Singular form of the Present Optative Middle and Passive of τῑμάω?	(τῑμάοιτο) τῑμῷτο
+What is the Second Person Dual form of the Present Optative Middle and Passive of τῑμάω?	(τῑμάοισθον) τῑμῷσθον
+What is the Third Person Dual form of the Present Optative Middle and Passive of τῑμάω?	(τῑμαοίσθην) τῑμῴσθην
+What is the First Person Plural form of the Present Optative Middle and Passive of τῑμάω?	(τῑμαοίμεθα) τῑμῴμεθα
+What is the Second Person Plural form of the Present Optative Middle and Passive of τῑμάω?	(τῑμάοισθε) τῑμῷσθε
+What is the Third Person Plural form of the Present Optative Middle and Passive of τῑμάω?	(τῑμάοιντο) τῑμῷντο
+What is the First Person Singular form of the Present Optative Active of ποιέω?	(ποιέοιμι) ποιοῖμι or (ποιεοίην) ποιοίην
+What is the Second Person Singular form of the Present Optative Active of ποιέω?	(ποιέοις) ποιοῖς or (ποιεοίης) ποιοίης
+What is the Third Person Singular form of the Present Optative Active of ποιέω?	(ποιέοι) ποιοῖ or (ποιεοίη) ποιοίη
+What is the Second Person Dual form of the Present Optative Active of ποιέω?	(ποιέοιτον) ποιοῖτον or (ποιεοίητον) ποιοίητον
+What is the Third Person Dual form of the Present Optative Active of ποιέω?	(ποιεοίτην) ποιοίτην or (ποιεοιήτην) ποιοιήτην
+What is the First Person Plural form of the Present Optative Active of ποιέω?	(ποιέοιμεν) ποιοῖμεν or (ποιεοίημεν) ποιοίημεν
+What is the Second Person Plural form of the Present Optative Active of ποιέω?	(ποιέοιτε) ποιοῖτε or (ποιεοίητε) ποιοίητε
+What is the Third Person Plural form of the Present Optative Active of ποιέω?	(ποιέοιεν) ποιοῖεν or (ποιεοίησαν) ποιοίησαν
+What is the First Person Singular form of the Present Optative Middle and Passive of ποιέω?	(ποιεοίμην) ποιοίμην
+What is the Second Person Singular form of the Present Optative Middle and Passive of ποιέω?	(ποιέοιο) ποιοῖο
+What is the Third Person Singular form of the Present Optative Middle and Passive of ποιέω?	(ποιέοιτο) ποιοῖτο
+What is the Second Person Dual form of the Present Optative Middle and Passive of ποιέω?	(ποιέοισθον) ποιοῖσθον
+What is the Third Person Dual form of the Present Optative Middle and Passive of ποιέω?	(ποιεοίσθην) ποιοίσθην
+What is the First Person Plural form of the Present Optative Middle and Passive of ποιέω?	(ποιεοίμεθα) ποιοίμεθα
+What is the Second Person Plural form of the Present Optative Middle and Passive of ποιέω?	(ποιέοισθε) ποιοῖσθε
+What is the Third Person Plural form of the Present Optative Middle and Passive of ποιέω?	(ποιέοιντο) ποιοῖντο
+What is the First Person Singular form of the Present Optative Active of δηλόω?	(δηλόοιμι) δηλοῖμι or (δηλοοίην) δηλοίην
+What is the Second Person Singular form of the Present Optative Active of δηλόω?	(δηλόοις) δηλοῖς or (δηλοοίης) δηλοίης
+What is the Third Person Singular form of the Present Optative Active of δηλόω?	(δηλόοι) δηλοῖ or (δηλοοίη) δηλοίη
+What is the Second Person Dual form of the Present Optative Active of δηλόω?	(δηλόοιτον) δηλοῖτον or (δηλοοίητον) δηλοίητον
+What is the Third Person Dual form of the Present Optative Active of δηλόω?	(δηλοοίτην) δηλοίτην or (δηλοοιήτην) δηλοιήτην
+What is the First Person Plural form of the Present Optative Active of δηλόω?	(δηλόοιμεν) δηλοῖμεν or (δηλοοίημεν) δηλοίημεν
+What is the Second Person Plural form of the Present Optative Active of δηλόω?	(δηλόοιτε) δηλοῖτε or (δηλοοίητε) δηλοίητε
+What is the Third Person Plural form of the Present Optative Active of δηλόω?	(δηλόοιεν) δηλοῖεν or (δηλοοίησαν) δηλοίησαν
+What is the First Person Singular form of the Present Optative Middle and Passive of δηλόω?	(δηλοοίμην) δηλοίμην
+What is the Second Person Singular form of the Present Optative Middle and Passive of δηλόω?	(δηλόοιο) δηλοῖο
+What is the Third Person Singular form of the Present Optative Middle and Passive of δηλόω?	(δηλόοιτο) δηλοῖτο
+What is the Second Person Dual form of the Present Optative Middle and Passive of δηλόω?	(δηλόοισθον) δηλοῖσθον
+What is the Third Person Dual form of the Present Optative Middle and Passive of δηλόω?	(δηλοοίσθην) δηλοίσθην
+What is the First Person Plural form of the Present Optative Middle and Passive of δηλόω?	(δηλοοίμεθα) δηλοίμεθα
+What is the Second Person Plural form of the Present Optative Middle and Passive of δηλόω?	(δηλόοισθε) δηλοῖσθε
+What is the Third Person Plural form of the Present Optative Middle and Passive of δηλόω?	(δηλόοιντο) δηλοῖντο

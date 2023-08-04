@@ -1,0 +1,17 @@
+tags:JWW_FGB21_Grammar
+What is the First Person Singular form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη-ν
+What is the Second Person Singular form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη-ς
+What is the Third Person Singular form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη
+What is the Second Person Dual form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη-τον
+What is the Third Person Dual form of the First Aorist Indicative Passive of λύω?	ἐ-λυθή-την
+What is the First Person Plural form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη-μεν
+What is the Second Person Plural form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη-τε
+What is the Third Person Plural form of the First Aorist Indicative Passive of λύω?	ἐ-λύθη-σαν
+What is the First Person Singular form of the Future Indicative Passive of λύω?	λυθήσο-μαι
+What is the Second Person Singular form of the Future Indicative Passive of λύω?	λυθήσει
+What is the Third Person Singular form of the Future Indicative Passive of λύω?	λυθήσε-ται
+What is the Second Person Dual form of the Future Indicative Passive of λύω?	λυθήσε-σθον
+What is the Third Person Dual form of the Future Indicative Passive of λύω?	λυθήσε-σθον
+What is the First Person Plural form of the Future Indicative Passive of λύω?	λυθησό-μεθα
+What is the Second Person Plural form of the Future Indicative Passive of λύω?	λυθήσε-σθε
+What is the Third Person Plural form of the Future Indicative Passive of λύω?	λυθήσον-ται

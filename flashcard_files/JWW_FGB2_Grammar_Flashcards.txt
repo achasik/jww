@@ -1,0 +1,11 @@
+tags:JWW_FGB2_Grammar
+What does a rough breathing mark indicate?	That the vowel is preceded by an 'h' sound.
+What does a rough breathing mark look like?	( placed above the vowel
+What is Elision?	When a short final vowel is dropped when the next word begins with a vowel
+What is ν movable?	Adding a ν at the end of a word that ends in σι or a third person verb ending in ε
+What does a grave accent look like?	 \\ 
+What does an acute accent look like?	 / 
+What does a circumflex accent look like?	 ~
+What character does Greek use for a question mark?	 \;
+What character does Greek use for a period?	 .
+What character does Greek use for a colon?	 ·

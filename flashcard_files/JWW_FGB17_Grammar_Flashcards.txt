@@ -1,0 +1,121 @@
+tags:JWW_FGB17_Grammar
+What is the Masculine Nominative Singular form of the οὗτος αὕτη τοῦτο this?	οὗτος
+What is the Masculine Genitive Singular form of the οὗτος αὕτη τοῦτο this?	τούτου
+What is the Masculine Dative Singular form of the οὗτος αὕτη τοῦτο this?	τούτῳ
+What is the Masculine Accusative Singular form of the οὗτος αὕτη τοῦτο this?	τοῦτον
+What is the Masculine Nominative and Accusative Dual form of the οὗτος αὕτη τοῦτο this?	τούτω
+What is the Masculine Genitive and Dative Dual form of the οὗτος αὕτη τοῦτο this?	τούτοιν
+What is the Masculine Nominative Plural form of the οὗτος αὕτη τοῦτο this?	οὗτοι
+What is the Masculine Genitive Plural form of the οὗτος αὕτη τοῦτο this?	τούτων
+What is the Masculine Dative Plural form of the οὗτος αὕτη τοῦτο this?	τούτοις
+What is the Masculine Accusative Plural form of the οὗτος αὕτη τοῦτο this?	τούτους
+What is the Feminine Nominative Singular form of the οὗτος αὕτη τοῦτο this?	αὕτη
+What is the Feminine Genitive Singular form of the οὗτος αὕτη τοῦτο this?	ταύτης
+What is the Feminine Dative Singular form of the οὗτος αὕτη τοῦτο this?	ταύτῃ
+What is the Feminine Accusative Singular form of the οὗτος αὕτη τοῦτο this?	ταύτην
+What is the Feminine Nominative and Accusative Dual form of the οὗτος αὕτη τοῦτο this?	τούτω
+What is the Feminine Genitive and Dative Dual form of the οὗτος αὕτη τοῦτο this?	τούτοιν
+What is the Feminine Nominative Plural form of the οὗτος αὕτη τοῦτο this?	αὗται
+What is the Feminine Genitive Plural form of the οὗτος αὕτη τοῦτο this?	τούτων
+What is the Feminine Dative Plural form of the οὗτος αὕτη τοῦτο this?	ταύταις
+What is the Feminine Accusative Plural form of the οὗτος αὕτη τοῦτο this?	ταύτᾶς
+What is the Neuter Nominative Singular form of the οὗτος αὕτη τοῦτο this?	τοῦτο
+What is the Neuter Genitive Singular form of the οὗτος αὕτη τοῦτο this?	τούτου
+What is the Neuter Dative Singular form of the οὗτος αὕτη τοῦτο this?	τούτῳ
+What is the Neuter Accusative Singular form of the οὗτος αὕτη τοῦτο this?	τοῦτο
+What is the Neuter Nominative and Accusative Dual form of the οὗτος αὕτη τοῦτο this?	τούτω
+What is the Neuter Genitive and Dative Dual form of the οὗτος αὕτη τοῦτο this?	τούτοιν
+What is the Neuter Nominative Plural form of the οὗτος αὕτη τοῦτο this?	ταῦτα
+What is the Neuter Genitive Plural form of the οὗτος αὕτη τοῦτο this?	τούτων
+What is the Neuter Dative Plural form of the οὗτος αὕτη τοῦτο this?	τούτοις
+What is the Neuter Accusative Plural form of the οὗτος αὕτη τοῦτο this?	ταῦτα
+What is the Masculine Nominative Singular form of the ὅδε ἥδε τόδε this?	ὅδε
+What is the Masculine Genitive Singular form of the ὅδε ἥδε τόδε this?	τοῦδε
+What is the Masculine Dative Singular form of the ὅδε ἥδε τόδε this?	τῷδε
+What is the Masculine Accusative Singular form of the ὅδε ἥδε τόδε this?	τόνδε
+What is the Masculine Nominative and Accusative Dual form of the ὅδε ἥδε τόδε this?	τώδε
+What is the Masculine Genitive and Dative Dual form of the ὅδε ἥδε τόδε this?	τοῖνδε
+What is the Masculine Nominative Plural form of the ὅδε ἥδε τόδε this?	οἵδε
+What is the Masculine Genitive Plural form of the ὅδε ἥδε τόδε this?	τῶνδε
+What is the Masculine Dative Plural form of the ὅδε ἥδε τόδε this?	τοῖσδε
+What is the Masculine Accusative Plural form of the ὅδε ἥδε τόδε this?	τούσδε
+What is the Feminine Nominative Singular form of the ὅδε ἥδε τόδε this?	ἥδε
+What is the Feminine Genitive Singular form of the ὅδε ἥδε τόδε this?	τῆσδε
+What is the Feminine Dative Singular form of the ὅδε ἥδε τόδε this?	τῇδε
+What is the Feminine Accusative Singular form of the ὅδε ἥδε τόδε this?	τήνδε
+What is the Feminine Nominative and Accusative Dual form of the ὅδε ἥδε τόδε this?	τώδε
+What is the Feminine Genitive and Dative Dual form of the ὅδε ἥδε τόδε this?	τοῖνδε
+What is the Feminine Nominative Plural form of the ὅδε ἥδε τόδε this?	αἴδε
+What is the Feminine Genitive Plural form of the ὅδε ἥδε τόδε this?	τῶνδε
+What is the Feminine Dative Plural form of the ὅδε ἥδε τόδε this?	ταῖσδε
+What is the Feminine Accusative Plural form of the ὅδε ἥδε τόδε this?	τάσδε
+What is the Neuter Nominative Singular form of the ὅδε ἥδε τόδε this?	τόδε
+What is the Neuter Genitive Singular form of the ὅδε ἥδε τόδε this?	τοῦδε
+What is the Neuter Dative Singular form of the ὅδε ἥδε τόδε this?	τῷδε
+What is the Neuter Accusative Singular form of the ὅδε ἥδε τόδε this?	τόδε
+What is the Neuter Nominative and Accusative Dual form of the ὅδε ἥδε τόδε this?	τώδε
+What is the Neuter Genitive and Dative Dual form of the ὅδε ἥδε τόδε this?	τοῖνδε
+What is the Neuter Nominative Plural form of the ὅδε ἥδε τόδε this?	τάδε
+What is the Neuter Genitive Plural form of the ὅδε ἥδε τόδε this?	τῶνδε
+What is the Neuter Dative Plural form of the ὅδε ἥδε τόδε this?	τοῖσδε
+What is the Neuter Accusative Plural form of the ὅδε ἥδε τόδε this?	τάδε
+What is the Masculine Nominative Singular form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκεῖνος
+What is the Masculine Genitive Singular form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνου
+What is the Masculine Dative Singular form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνῳ
+What is the Masculine Accusative Singular form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκεῖνον
+What is the Masculine Nominative and Accusative Dual form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνω
+What is the Masculine Genitive and Dative Dual form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκίνοιν
+What is the Masculine Nominative Plural form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκεῖνοι
+What is the Masculine Genitive Plural form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνων
+What is the Masculine Dative Plural form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνοις
+What is the Masculine Accusative Plural form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνους
+What is the Feminine Nominative Singular form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνη
+What is the Feminine Genitive Singular form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκίνης
+What is the Feminine Dative Singular form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκίνῃ
+What is the Feminine Accusative Singular form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνην
+What is the Feminine Nominative and Accusative Dual form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνω
+What is the Feminine Genitive and Dative Dual form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνοιν
+What is the Feminine Nominative Plural form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκεῖναι
+What is the Feminine Genitive Plural form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνων
+What is the Feminine Dative Plural form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείναις
+What is the Feminine Accusative Plural form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνᾶς
+What is the Neuter Nominative Singular form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκεῖνο
+What is the Neuter Genitive Singular form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνου
+What is the Neuter Dative Singular form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνῳ
+What is the Neuter Accusative Singular form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκεῖνο
+What is the Neuter Nominative and Accusative Dual form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνω
+What is the Neuter Genitive and Dative Dual form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκίνοιν
+What is the Neuter Nominative Plural form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκεῖνα
+What is the Neuter Genitive Plural form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνων
+What is the Neuter Dative Plural form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκείνοις
+What is the Neuter Accusative Plural form of the ἐκεῖνος ἐκείνη ἐκεῖνο that?	ἐκεῖνα
+What is the Neuter Nominative Singular form of the αὐτός αὐτή αὐτό self?	αὐτός
+What is the Neuter Genitive Singular form of the αὐτός αὐτή αὐτό self?	αὐτοῦ
+What is the Neuter Dative Singular form of the αὐτός αὐτή αὐτό self?	αὐτῷ
+What is the Neuter Accusative Singular form of the αὐτός αὐτή αὐτό self?	αὐτόν
+What is the Neuter Nominative and Accusative Dual form of the αὐτός αὐτή αὐτό self?	αὐτώ
+What is the Neuter Genitive and Dative Dual form of the αὐτός αὐτή αὐτό self?	αὐτοῖν
+What is the Neuter Nominative Plural form of the αὐτός αὐτή αὐτό self?	αὐτοί
+What is the Neuter Genitive Plural form of the αὐτός αὐτή αὐτό self?	αὐτῶν
+What is the Neuter Dative Plural form of the αὐτός αὐτή αὐτό self?	αὐτοῖς
+What is the Neuter Accusative Plural form of the αὐτός αὐτή αὐτό self?	αὐτούς
+What is the Neuter Nominative Singular form of the αὐτός αὐτή αὐτό self?	αὐτή
+What is the Neuter Genitive Singular form of the αὐτός αὐτή αὐτό self?	αὐτῆς
+What is the Neuter Dative Singular form of the αὐτός αὐτή αὐτό self?	αὐτῇ
+What is the Neuter Accusative Singular form of the αὐτός αὐτή αὐτό self?	αὐτήν
+What is the Neuter Nominative and Accusative Dual form of the αὐτός αὐτή αὐτό self?	αὐτά
+What is the Neuter Genitive and Dative Dual form of the αὐτός αὐτή αὐτό self?	αὐταῖν
+What is the Neuter Nominative Plural form of the αὐτός αὐτή αὐτό self?	αὐταί
+What is the Neuter Genitive Plural form of the αὐτός αὐτή αὐτό self?	αὐτῶν
+What is the Neuter Dative Plural form of the αὐτός αὐτή αὐτό self?	αὐταῖς
+What is the Neuter Accusative Plural form of the αὐτός αὐτή αὐτό self?	αὐτάς
+What is the Neuter Nominative Singular form of the αὐτός αὐτή αὐτό self?	αὐτό
+What is the Neuter Genitive Singular form of the αὐτός αὐτή αὐτό self?	αὐτοῦ
+What is the Neuter Dative Singular form of the αὐτός αὐτή αὐτό self?	αὐτῷ
+What is the Neuter Accusative Singular form of the αὐτός αὐτή αὐτό self?	αὐτό
+What is the Neuter Nominative and Accusative Dual form of the αὐτός αὐτή αὐτό self?	αὐτώ
+What is the Neuter Genitive and Dative Dual form of the αὐτός αὐτή αὐτό self?	αὐτοῖν
+What is the Neuter Nominative Plural form of the αὐτός αὐτή αὐτό self?	αὐτά
+What is the Neuter Genitive Plural form of the αὐτός αὐτή αὐτό self?	αὐτῶν
+What is the Neuter Dative Plural form of the αὐτός αὐτή αὐτό self?	αὐτοῖς
+What is the Neuter Accusative Plural form of the αὐτός αὐτή αὐτό self?	αὐτά

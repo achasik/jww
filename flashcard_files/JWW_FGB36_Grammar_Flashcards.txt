@@ -1,0 +1,78 @@
+tags:JWW_FGB36_Grammar
+What is the Nominative Singular form of the πατήρ ὁ Father?	πατήρ
+What is the Genitive Singular form of the πατήρ ὁ Father?	(πατέρ-ος) πατρ-ός
+What is the Dative Singular form of the πατήρ ὁ Father?	(πατέρ-ι) πατρ-ί
+What is the Accusative Singular form of the πατήρ ὁ Father?	πατέρ-α
+What is the Vocative Singular form of the πατήρ ὁ Father?	πάτερ
+What is the Nominative Accusative and Vocative Dual form of the πατήρ ὁ Father?	πατέρ-ε
+What is the Genitive and Dative Dual form of the πατήρ ὁ Father?	πατέρ-οιν
+What is the Nominative and Vocative Plural form of the πατήρ ὁ Father?	πατέρ-ες
+What is the Genitive Plural form of the πατήρ ὁ Father?	πατέρ-ων
+What is the Dative Plural form of the πατήρ ὁ Father?	πατρά-σι
+What is the Accusative Plural form of the πατήρ ὁ Father?	πατέρ-ας
+What is the Nominative Singular form of the μήτηρ ἡ Mother?	μήτηρ
+What is the Genitive Singular form of the μήτηρ ἡ Mother?	(μῃτέρ-ος) μητρ-ός
+What is the Dative Singular form of the μήτηρ ἡ Mother?	(μητέρ-ι) μητρ-ί
+What is the Accusative Singular form of the μήτηρ ἡ Mother?	μητέρ-α
+What is the Vocative Singular form of the μήτηρ ἡ Mother?	μῆτερ
+What is the Nominative Accusative and Vocative Dual form of the μήτηρ ἡ Mother?	μητέρ-ε
+What is the Genitive and Dative Dual form of the μήτηρ ἡ Mother?	μητέρ-οιν
+What is the Nominative and Vocative Plural form of the μήτηρ ἡ Mother?	μητέρ-ες
+What is the Genitive Plural form of the μήτηρ ἡ Mother?	μητέρ-ων
+What is the Dative Plural form of the μήτηρ ἡ Mother?	μητρά-σι
+What is the Accusative Plural form of the μήτηρ ἡ Mother?	μητέρ-ας
+What is the Nominative Singular form of the ἀνήρ ὁ Man?	ἀνήρ
+What is the Genitive Singular form of the ἀνήρ ὁ Man?	(ἀνέρ-ος) ἀνδρ-ός
+What is the Dative Singular form of the ἀνήρ ὁ Man?	(ἀνέρ-ι) ἀνδρ-ί
+What is the Accusative Singular form of the ἀνήρ ὁ Man?	(ἀνέρ-α) ἄνδρ-α
+What is the Vocative Singular form of the ἀνήρ ὁ Man?	ἄνερ
+What is the Nominative Accusative and Vocative Dual form of the ἀνήρ ὁ Man?	(ἀνέρ-ε) ἄνδρ-ε
+What is the Genitive and Dative Dual form of the ἀνήρ ὁ Man?	(ἀνέρ-οιν) ἀνδρ-οῖν
+What is the Nominative and Vocative Plural form of the ἀνήρ ὁ Man?	(ἀνέρ-ες) ἄνδρ-ες
+What is the Genitive Plural form of the ἀνήρ ὁ Man?	(ἀνέρ-ων) ἀνδρ-ῶν
+What is the Dative Plural form of the ἀνήρ ὁ Man?	ἀνδρά-σι
+What is the Accusative Plural form of the ἀνήρ ὁ Man?	(ἀνέρ-ας) ἄνδρ-ας
+What is the Nominative Singular form of the ἀγών ὁ Contest?	ἀγών
+What is the Genitive Singular form of the ἀγών ὁ Contest?	ἀγῶν-ος
+What is the Dative Singular form of the ἀγών ὁ Contest?	ἀγῶν-ι
+What is the Accusative Singular form of the ἀγών ὁ Contest?	ἀγῶν-α
+What is the Vocative Singular form of the ἀγών ὁ Contest?	ἀγών
+What is the Nominative Accusative and Vocative Dual form of the ἀγών ὁ Contest?	ἀγῶν-ε
+What is the Genitive and Dative Dual form of the ἀγών ὁ Contest?	ἀγών-οιν
+What is the Nominative and Vocative Plural form of the ἀγών ὁ Contest?	ἀγῶν-ες
+What is the Genitive Plural form of the ἀγών ὁ Contest?	ἀγών-ων
+What is the Dative Plural form of the ἀγών ὁ Contest?	ἀγῶσι
+What is the Accusative Plural form of the ἀγών ὁ Contest?	ἀγῶν-ας
+What is the Nominative Singular form of the ἡγεμών ὁ Guide?	ἡγεμών
+What is the Genitive Singular form of the ἡγεμών ὁ Guide?	ἡγεμόν-ος
+What is the Dative Singular form of the ἡγεμών ὁ Guide?	ἡγεμόν-ι
+What is the Accusative Singular form of the ἡγεμών ὁ Guide?	ἡγεμόν-α
+What is the Vocative Singular form of the ἡγεμών ὁ Guide?	ἡγεμών
+What is the Nominative Accusative and Vocative Dual form of the ἡγεμών ὁ Guide?	ἡγεμόν-ε
+What is the Genitive and Dative Dual form of the ἡγεμών ὁ Guide?	ἡγεμόν-οιν
+What is the Nominative and Vocative Plural form of the ἡγεμών ὁ Guide?	ἡγεμόν-ες
+What is the Genitive Plural form of the ἡγεμών ὁ Guide?	ἡγεμόν-ων
+What is the Dative Plural form of the ἡγεμών ὁ Guide?	ἡγεμόσι
+What is the Accusative Plural form of the ἡγεμών ὁ Guide?	ἡγεμόν-ας
+What is the Nominative Singular form of the μήν ὁ Month?	μήν
+What is the Genitive Singular form of the μήν ὁ Month?	μην-ός
+What is the Dative Singular form of the μήν ὁ Month?	μην-ί
+What is the Accusative Singular form of the μήν ὁ Month?	μῆν-α
+What is the Vocative Singular form of the μήν ὁ Month?	μήν
+What is the Nominative Accusative and Vocative Dual form of the μήν ὁ Month?	μῆν-ε
+What is the Genitive and Dative Dual form of the μήν ὁ Month?	μην-οῖν
+What is the Nominative and Vocative Plural form of the μήν ὁ Month?	μῆν-ες
+What is the Genitive Plural form of the μήν ὁ Month?	μην-ῶν
+What is the Dative Plural form of the μήν ὁ Month?	μησί
+What is the Accusative Plural form of the μήν ὁ Month?	μῆν-ας
+What is the Nominative Singular form of the ῥήτωρ ὁ Orator?	ῥήτωρ
+What is the Genitive Singular form of the ῥήτωρ ὁ Orator?	ῥήτορ-ος
+What is the Dative Singular form of the ῥήτωρ ὁ Orator?	ῥήτορ-ι
+What is the Accusative Singular form of the ῥήτωρ ὁ Orator?	ῥήτορ-α
+What is the Vocative Singular form of the ῥήτωρ ὁ Orator?	ῥῆτορ
+What is the Nominative Accusative and Vocative Dual form of the ῥήτωρ ὁ Orator?	ῥήτορ-ε
+What is the Genitive and Dative Dual form of the ῥήτωρ ὁ Orator?	ῥητόρ-οιν
+What is the Nominative and Vocative Plural form of the ῥήτωρ ὁ Orator?	ῥήτορ-ες
+What is the Genitive Plural form of the ῥήτωρ ὁ Orator?	ῥητόρ-ων
+What is the Dative Plural form of the ῥήτωρ ὁ Orator?	ῥήτορ-σι
+What is the Accusative Plural form of the ῥήτωρ ὁ Orator?	ῥήτορ-ας

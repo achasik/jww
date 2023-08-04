@@ -1,0 +1,19 @@
+tags:JWW_FGB49_Vocabulary
+What does ἀδύνατος ον mean?	unable impossible.
+What does ἀμφότερος ᾱ ον mean?	both.
+What does ἀνάγκη ης ἡ mean?	force necessity.
+What does ἀφ-ικνέομαι (ἱκ) ἀφ-ίξομαι ἀφ-ῑκόμην ἀφ-ῖγμαι mean?	come from arrive reach.
+What does δια-σῴζω mean?	bring through safely save.
+What does ἐπι-τρέπω mean?	turn over to entrust allow.
+What does λόχος ου ὁ(cf. λοχ-ᾶγός) mean?	company.
+What does τρέπω τρέψω ἔτρεψα and ἔτραπον τέτροφα τέτραμμαι ἐτράπην and ἐτρέφθην mean?	turn direct rout.
+What does φυγή ῆς ἡ (cf. φεύγω) mean?	flight rout.
+What is the Greek word for unable impossible?	ἀδύνατος ον
+What is the Greek word for both?	ἀμφότερος ᾱ ον
+What is the Greek word for force necessity?	ἀνάγκη ης ἡ
+What is the Greek word for come from arrive reach?	ἀφ-ικνέομαι (ἱκ) ἀφ-ίξομαι ἀφ-ῑκόμην ἀφ-ῖγμαι
+What is the Greek word for bring through safely save?	δια-σῴζω
+What is the Greek word for turn over to entrust allow?	ἐπι-τρέπω
+What is the Greek word for company?	λόχος ου ὁ(cf. λοχ-ᾶγός)
+What is the Greek word for turn direct rout?	τρέπω τρέψω ἔτρεψα and ἔτραπον τέτροφα τέτραμμαι ἐτράπην and ἐτρέφθην
+What is the Greek word for flight rout?	φυγή ῆς ἡ (cf. φεύγω)

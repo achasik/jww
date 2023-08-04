@@ -1,0 +1,17 @@
+tags:JWW_FGB18_Grammar
+What is the First Person Singular form of the Present Indicative of εἰμί (be)?	εἰμί
+What is the Second Person Singular form of the Present Indicative of εἰμί (be)?	εἶ
+What is the Third Person Singular form of the Present Indicative of εἰμί (be)?	ἐστί
+What is the Second Person Dual form of the Present Indicative of εἰμί (be)?	ἐστόν
+What is the Third Person Dual form of the Present Indicative of εἰμί (be)?	ἐστόν
+What is the First Person Plural form of the Present Indicative of εἰμί (be)?	ἐσμέν
+What is the Second Person Plural form of the Present Indicative of εἰμί (be)?	ἐστέ
+What is the Third Person Plural form of the Present Indicative of εἰμί (be)?	εἰσί
+What is the First Person Singular form of the Imperfect Indicative of εἰμί (be)?	ἦ or ἦν
+What is the Second Person Singular form of the Imperfect Indicative of εἰμί (be)?	ἦσθα
+What is the Third Person Singular form of the Imperfect Indicative of εἰμί (be)?	ἦν
+What is the Second Person Dual form of the Imperfect Indicative of εἰμί (be)?	ἦστον or ἦτον
+What is the Third Person Dual form of the Imperfect Indicative of εἰμί (be)?	ἤστην or ἤτην
+What is the First Person Plural form of the Imperfect Indicative of εἰμί (be)?	ἦμεν
+What is the Second Person Plural form of the Imperfect Indicative of εἰμί (be)?	ἦστε or ἦτε
+What is the Third Person Plural form of the Imperfect Indicative of εἰμί (be)?	ἦσαν

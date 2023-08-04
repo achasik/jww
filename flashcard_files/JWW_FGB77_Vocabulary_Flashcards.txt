@@ -1,0 +1,29 @@
+tags:JWW_FGB77_Vocabulary
+What does ἀπο-δείκνῡμι mean?	set forth make known appoint; mid. set forth one’s views declare.
+What does ἀπ-όλλῡμι mean?	destroy utterly kill; mid. with second perf. act. perish die be lost.
+What does Ἀπόλλων ωνος ὁ mean?	Apollo.
+What does δείκνῡμι (δεικ) δείξω ἔδειξα δέδειχα δέδειγμαι ἐδείχθην mean?	show.
+What does δέρω δερῶ ἔδειρα δέδαρμαι ἐδάρην (cf. δέρμα) mean?	flay.
+What does δύω δύσω ἔδῡσα and ἔδῡν δέδῡκα δέδυμαι ἐδύθην mean?	make enter; intrans. enter.
+What does ἐκ-δέρω mean?	strip off the skin flay.
+What does ἐν-δύω mean?	put on clothe oneself in.
+What does ἐπι-δείκνῡμι mean?	show to exhibit disclose.
+What does εὑρίσκω (εὑρ) εὑρήσω ηὗρον ηὕρηκα ηὕρημαι ηὑρέθην mean?	find discover; mid. find for oneself procure.
+What does κρεμάννῡμι (κρεμα) κρεμῶ ἐκρέμασα ἐκρεμάσθην mean?	hang up.
+What does Μαρσύᾱς ου ὁ mean?	Marsyas a satyr.
+What does ὄλλῡμι (ὀλ) ὀλῶ ὤλεσα and ὠλόμην ὀλώλεκα and ὄλωλα mean?	destroy lose; mid. with second perf. act. perish.
+What does ὄμνῡμι (ὀμ ὀμο) ὀμοῦμαι ὤμοσα ὀμώμοκα ὀμώμομαι and ὀμώμοσμαι ὠμόθην and ὠμόσθην mean?	swear take an oath.
+What is the Greek word for set forth make known appoint; mid. set forth one’s views declare?	ἀπο-δείκνῡμι
+What is the Greek word for destroy utterly kill; mid. with second perf. act. perish die be lost?	ἀπ-όλλῡμι
+What is the Greek word for Apollo?	Ἀπόλλων ωνος ὁ
+What is the Greek word for show?	δείκνῡμι (δεικ) δείξω ἔδειξα δέδειχα δέδειγμαι ἐδείχθην
+What is the Greek word for flay?	δέρω δερῶ ἔδειρα δέδαρμαι ἐδάρην (cf. δέρμα)
+What is the Greek word for make enter; intrans. enter?	δύω δύσω ἔδῡσα and ἔδῡν δέδῡκα δέδυμαι ἐδύθην
+What is the Greek word for strip off the skin flay?	ἐκ-δέρω
+What is the Greek word for put on clothe oneself in?	ἐν-δύω
+What is the Greek word for show to exhibit disclose?	ἐπι-δείκνῡμι
+What is the Greek word for find discover; mid. find for oneself procure?	εὑρίσκω (εὑρ) εὑρήσω ηὗρον ηὕρηκα ηὕρημαι ηὑρέθην
+What is the Greek word for hang up?	κρεμάννῡμι (κρεμα) κρεμῶ ἐκρέμασα ἐκρεμάσθην
+What is the Greek word for Marsyas a satyr?	Μαρσύᾱς ου ὁ
+What is the Greek word for destroy lose; mid. with second perf. act. perish?	ὄλλῡμι (ὀλ) ὀλῶ ὤλεσα and ὠλόμην ὀλώλεκα and ὄλωλα
+What is the Greek word for swear take an oath?	ὄμνῡμι (ὀμ ὀμο) ὀμοῦμαι ὤμοσα ὀμώμοκα ὀμώμομαι and ὀμώμοσμαι ὠμόθην and ὠμόσθην

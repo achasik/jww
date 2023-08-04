@@ -1,0 +1,37 @@
+tags:JWW_FGB3_Grammar
+What is the Nominative Singular form of χώρᾶ (Country)?	χώρᾱ
+What is the Genitive Singular form of χώρᾶ (Country)?	χώρᾱς
+What is the Dative Singular form of χώρᾶ (Country)?	χώρᾳ
+What is the Accusative Singular form of χώρᾶ (Country)?	χώρᾱν
+What is the Vocative Singular form of χώρᾶ (Country)?	χώρᾱ
+What is the Dual Nominative Accusative & Vocative form of χώρᾶ (Country)?	χώρᾱ
+What is the Dual Genitive & Dative form of χώρᾶ (Country)?	χώραιν
+What is the Nominative Plural form of χώρᾶ (Country)?	χῶραι
+What is the Genitive Plural form of χώρᾶ (Country)?	χωρῶν
+What is the Dative Plural form of χώρᾶ (Country)?	χώραις
+What is the Accusative Plural form of χώρᾶ (Country)?	χώρᾱς
+What is the Vocative Plural form of χώρᾶ (Country)?	χῶραι
+What is the Nominative Singular form of στρατιά (Army)?	στρατιά
+What is the Genitive Singular form of στρατιά (Army)?	στρατιᾶς
+What is the Dative Singular form of στρατιά (Army)?	στρατιᾷ
+What is the Accusative Singular form of στρατιά (Army)?	στρατιάν
+What is the Vocative Singular form of στρατιά (Army)?	στρατιά
+What is the Dual Nominative Accusative & Vocative form of στρατιά (Army)?	στρατιά
+What is the Dual Genitive & Dative form of στρατιά (Army)?	στρατιαῖν
+What is the Nominative Plural form of στρατιά (Army)?	στρατιαί
+What is the Genitive Plural form of στρατιά (Army)?	στρατιῶν
+What is the Dative Plural form of στρατιά (Army)?	στρατιαῖς
+What is the Accusative Plural form of στρατιά (Army)?	στρατιάς
+What is the Vocative Plural form of στρατιά (Army)?	στρατιαί
+What is the Nominative Singular form of ἡ μῑκρὰ θύρᾱ (The Small Door)?	ἡ μῑκρὰ θύρᾱ
+What is the Genitive Singular form of ἡ μῑκρὰ θύρᾱ (The Small Door)?	τῆς μῖκρᾶς θύρᾱς
+What is the Dative Singular form of ἡ μῑκρὰ θύρᾱ (The Small Door)?	τῇ μῑκρᾷ θύρᾳ
+What is the Accusative Singular form of ἡ μῑκρὰ θύρᾱ (The Small Door)?	τὴν μῑκρὰν θύρᾱν
+What is the Vocative Singular form of ἡ μῑκρὰ θύρᾱ (The Small Door)?	μῑκρὰ θύρᾱ
+What is the Dual Nominative Accusative & Vocative form of ἡ μῑκρὰ θύρᾱ (The Small Door)?	τὼ μῑκρὰ θύρᾱ
+What is the Dual Genitive & Dative form of ἡ μῑκρὰ θύρᾱ (The Small Door)?	τοῖν μῑκραῖν θύραιν
+What is the Nominative Plural form of ἡ μῑκρὰ θύρᾱ (The Small Door)?	αἱ μῑκραὶ θύραι
+What is the Genitive Plural form of ἡ μῑκρὰ θύρᾱ (The Small Door)?	τῶν μῑκρῶν θυρῶν
+What is the Dative Plural form of ἡ μῑκρὰ θύρᾱ (The Small Door)?	ταῑς μῑκραῑς θύραις
+What is the Accusative Plural form of ἡ μῑκρὰ θύρᾱ (The Small Door)?	τὰς μῑκρὰς θύρᾱς
+What is the Vocative Plural form of ἡ μῑκρὰ θύρᾱ (The Small Door)?	μῑκραὶ θύραι

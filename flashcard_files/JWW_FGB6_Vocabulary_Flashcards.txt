@@ -1,0 +1,19 @@
+tags:JWW_FGB6_Vocabulary
+What does ἅμαξα ης ἡ mean?	wagon.
+What does ἀγαθή mean?	adj. good brave.
+What does γέφῡρα ᾱς ἡ mean?	bridge.
+What does εἰς mean?	prep. with acc. into to (a proclitic).
+What does ἐπί mean?	prep.: with gen. on upon; with dat. on by at; with acc. upon to against.
+What does στενή mean?	adj. narrow.
+What does μάχαιρα ης ἡ mean?	knife sabre. (cf. μάχη); 
+What does πέλτη ης ή mean?	shield target.
+What does τράπεζα ης ἡ mean?	table.
+What is the Greek word for wagon?	ἅμαξα ης ἡ
+What is the Greek word for adj. good brave?	ἀγαθή
+What is the Greek word for bridge?	γέφῡρα ᾱς ἡ
+What is the Greek word for prep. with acc. into to (a proclitic)?	εἰς
+What is the Greek word for prep.: with gen. on upon; with dat. on by at; with acc. upon to against?	ἐπί
+What is the Greek word for adj. narrow?	στενή
+What is the Greek word for knife sabre. (cf. μάχη); ?	μάχαιρα ης ἡ
+What is the Greek word for shield target?	πέλτη ης ή
+What is the Greek word for table?	τράπεζα ης ἡ

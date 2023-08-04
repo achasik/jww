@@ -1,0 +1,9 @@
+tags:JWW_FGB33_Grammar
+What is the First Person Singular form of the The Present Active Subjunctive of εἰμί?	ὦ
+What is the Second Person Singular form of the The Present Active Subjunctive of εἰμί?	ᾖς
+What is the Third Person Singular form of the The Present Active Subjunctive of εἰμί?	ᾖ
+What is the Second Person Dual form of the The Present Active Subjunctive of εἰμί?	ἦτον
+What is the Third Person Dual form of the The Present Active Subjunctive of εἰμί?	ἦτον
+What is the First Person Plural form of the The Present Active Subjunctive of εἰμί?	ὦμεν
+What is the Second Person Plural form of the The Present Active Subjunctive of εἰμί?	ἦτε
+What is the Third Person Plural form of the The Present Active Subjunctive of εἰμί?	ὦσι

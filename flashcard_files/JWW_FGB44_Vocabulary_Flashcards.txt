@@ -1,0 +1,21 @@
+tags:JWW_FGB44_Vocabulary
+What does αἰτιάομαι αἰτιάσομαι etc. mean?	mid. dep. blame reproach accuse.
+What does ἀ-παράσκευος ον (cf. παρασκευή) mean?	unprepared.
+What does βιάζομαι (βιαδ) βιάσομαι etc. mean?	mid. dep. force compel overpower.
+What does ἕνεκα mean?	improper prep. with gen. on account of.
+What does ἐπισῑτισμός οῦ ὁ (cf. ἐπισῑτίζομαι) mean?	a procuring of supplies foraging.
+What does παρα-κελεύομαι mean?	urge along exhort urge.
+What does χείρ χειρός ἡ mean?	hand arm.
+What does χιτών ῶνος ὁ mean?	undergarment.
+What does χρῄζω (χρῃδ) mean?	want need desire.
+What does ψέλιον ου τό mean?	armlet bracelet.
+What is the Greek word for mid. dep. blame reproach accuse?	αἰτιάομαι αἰτιάσομαι etc.
+What is the Greek word for unprepared?	ἀ-παράσκευος ον (cf. παρασκευή)
+What is the Greek word for mid. dep. force compel overpower?	βιάζομαι (βιαδ) βιάσομαι etc.
+What is the Greek word for improper prep. with gen. on account of?	ἕνεκα
+What is the Greek word for a procuring of supplies foraging?	ἐπισῑτισμός οῦ ὁ (cf. ἐπισῑτίζομαι)
+What is the Greek word for urge along exhort urge?	παρα-κελεύομαι
+What is the Greek word for hand arm?	χείρ χειρός ἡ
+What is the Greek word for undergarment?	χιτών ῶνος ὁ
+What is the Greek word for want need desire?	χρῄζω (χρῃδ)
+What is the Greek word for armlet bracelet?	ψέλιον ου τό

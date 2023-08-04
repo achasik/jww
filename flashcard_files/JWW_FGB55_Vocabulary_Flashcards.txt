@@ -1,0 +1,29 @@
+tags:JWW_FGB55_Vocabulary
+What does ἀπ-έρχομαι mean?	come or go away retreat desert.
+What does Ἄρτεμις ιδος ἡ mean?	Artemis. .
+What does βασιλεύς έως ὁ (cf. βασιλεύω) mean?	king.
+What does βοῦς βοός ὁ ἡ mean?	οχ cow; plur. cattle oxen.
+What does βωμός οῦ ὁ mean?	altar. .
+What does γραῦς γρᾱός ἡ (cf. γέρων) mean?	old woman.
+What does γυνή γυναικός ἡ mean?	woman wife.
+What does ἐπει-δή (ἐπεί + δή) mean?	conj. when since.
+What does ἑρμηνεύς έως ὁ mean?	interpreter.
+What does ἔρχομαι (ἐρχ ἐλυθ) ἦλθον ἐλήλυθα mean?	come go.
+What does ἱππεύς έως ὁ (cf. ἵππος) mean?	horseman cavalryman; plur. caualry. .
+What does ναῦς νεώς ἡ mean?	ship. .
+What does οὐκ-οῦν (οὐ + οὖν) mean?	interr. particle not then? not therefore? expecting an affirmative answer.
+What does στρατοπεδεύομαι στρατοπεδεύσομαι mean?	etc. (cf. στρατόπεδον) mid. dep. go into camp encamp.
+What is the Greek word for come or go away retreat desert?	ἀπ-έρχομαι
+What is the Greek word for Artemis?	Ἄρτεμις ιδος ἡ
+What is the Greek word for king?	βασιλεύς έως ὁ (cf. βασιλεύω)
+What is the Greek word for οχ cow; plur. cattle oxen?	βοῦς βοός ὁ ἡ
+What is the Greek word for altar?	βωμός οῦ ὁ
+What is the Greek word for old woman?	γραῦς γρᾱός ἡ (cf. γέρων)
+What is the Greek word for woman wife?	γυνή γυναικός ἡ
+What is the Greek word for conj. when since?	ἐπει-δή (ἐπεί + δή)
+What is the Greek word for interpreter?	ἑρμηνεύς έως ὁ
+What is the Greek word for come go?	ἔρχομαι (ἐρχ ἐλυθ) ἦλθον ἐλήλυθα
+What is the Greek word for horseman cavalryman; plur. caualry?	ἱππεύς έως ὁ (cf. ἵππος)
+What is the Greek word for ship?	ναῦς νεώς ἡ
+What is the Greek word for interr. particle not then? not therefore? expecting an affirmative answer?	οὐκ-οῦν (οὐ + οὖν)
+What is the Greek word for etc. (cf. στρατόπεδον) mid. dep. go into camp encamp?	στρατοπεδεύομαι στρατοπεδεύσομαι

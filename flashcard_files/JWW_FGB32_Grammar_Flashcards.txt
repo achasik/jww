@@ -1,0 +1,25 @@
+tags:JWW_FGB32_Grammar
+What is the First Person Singular form of the Present Active Subjunctive Of λύω?	λύω
+What is the Second Person Singular form of the Present Active Subjunctive Of λύω?	λύῃς
+What is the Third Person Singular form of the Present Active Subjunctive Of λύω?	λύῃ
+What is the Second Person Dual form of the Present Active Subjunctive Of λύω?	λύη-τον
+What is the Third Person Dual form of the Present Active Subjunctive Of λύω?	λύη-τον
+What is the First Person Plural form of the Present Active Subjunctive Of λύω?	λύω-μεν
+What is the Second Person Plural form of the Present Active Subjunctive Of λύω?	λύη-τε
+What is the Third Person Plural form of the Present Active Subjunctive Of λύω?	λύωσι
+What is the First Person Singular form of the Aorist Active Subjunctive Of λύω?	λύσω
+What is the Second Person Singular form of the Aorist Active Subjunctive Of λύω?	λύσῃς
+What is the Third Person Singular form of the Aorist Active Subjunctive Of λύω?	λύσῃ
+What is the Second Person Dual form of the Aorist Active Subjunctive Of λύω?	λύση-τον
+What is the Third Person Dual form of the Aorist Active Subjunctive Of λύω?	λύση-τον
+What is the First Person Plural form of the Aorist Active Subjunctive Of λύω?	λύσω-μεν
+What is the Second Person Plural form of the Aorist Active Subjunctive Of λύω?	λύση-τε
+What is the Third Person Plural form of the Aorist Active Subjunctive Of λύω?	λύσωσι
+What is the First Person Singular form of the Perfect Active Subjunctive Of λύω?	λελύκω
+What is the Second Person Singular form of the Perfect Active Subjunctive Of λύω?	λελύκῃς
+What is the Third Person Singular form of the Perfect Active Subjunctive Of λύω?	λελύκῃ
+What is the Second Person Dual form of the Perfect Active Subjunctive Of λύω?	λελύκη-τον
+What is the Third Person Dual form of the Perfect Active Subjunctive Of λύω?	λελύκη-τον
+What is the First Person Plural form of the Perfect Active Subjunctive Of λύω?	λελύκω-μεν
+What is the Second Person Plural form of the Perfect Active Subjunctive Of λύω?	λελύκη-τε
+What is the Third Person Plural form of the Perfect Active Subjunctive Of λύω?	λελύκωσι

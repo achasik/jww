@@ -1,0 +1,21 @@
+tags:JWW_FGB59_Vocabulary
+What does αἰσχρός ά όν mean?	shameful disgraceful.
+What does Βαβυλών ῶνος ἡ mean?	Babylon.
+What does βίος ου ὁ mean?	life.
+What does ἴσως mean?	adv. perhaps.
+What does Κιλικίᾱ ᾱς ἡ (cf. Κίλιξ) mean?	Cilicia.
+What does πλαίσιον ου τό mean?	square of troops.
+What does ταχὐς εῖα ύ (cf. τάχα) mean?	quick swift.
+What does τελευτή ῆς ἡ (cf. τέλος) mean?	end.
+What does τέλος ους τό mean?	fulfilment end.
+What does χρόνος ου ὁ mean?	time season period.
+What is the Greek word for shameful disgraceful?	αἰσχρός ά όν
+What is the Greek word for Babylon?	Βαβυλών ῶνος ἡ
+What is the Greek word for life?	βίος ου ὁ
+What is the Greek word for adv. perhaps?	ἴσως
+What is the Greek word for Cilicia?	Κιλικίᾱ ᾱς ἡ (cf. Κίλιξ)
+What is the Greek word for square of troops?	πλαίσιον ου τό
+What is the Greek word for quick swift?	ταχὐς εῖα ύ (cf. τάχα)
+What is the Greek word for end?	τελευτή ῆς ἡ (cf. τέλος)
+What is the Greek word for fulfilment end?	τέλος ους τό
+What is the Greek word for time season period?	χρόνος ου ὁ

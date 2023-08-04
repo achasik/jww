@@ -1,0 +1,33 @@
+tags:JWW_FGB5_Grammar
+What is the 1st Person Singular form of the verb λύω? (Present Active Indicative)	λύω
+What is the 2nd Person Singular form of the verb λύω? (Present Active Indicative)	λύεις
+What is the 3rd Person Singular form of the verb λύω? (Present Active Indicative)	λύει
+What is the 2nd Person Dual form of the verb λύω? (Present Active Indicative)	λύετον
+What is the 3rd Person Dual form of the verb λύω? (Present Active Indicative)	λύετον
+What is the 1st Person Plural form of the verb λύω? (Present Active Indicative)	λύομεν
+What is the 2nd Person Plural form of the verb λύω? (Present Active Indicative)	λύετε
+What is the 3rd Person Plural form of the verb λύω? (Present Active Indicative)	λύουσι
+What is the 1st Person Singular form of the βουλεύω? (Present Active Indicative)	βουλεύω
+What is the 2nd Person Singular form of the βουλεύω? (Present Active Indicative)	βουλεύεις
+What is the 3rd Person Singular form of the βουλεύω? (Present Active Indicative)	βουλεύει
+What is the 2nd Person Dual form of the βουλεύω? (Present Active Indicative)	βουλεύετον
+What is the 3rd Person Dual form of the βουλεύω? (Present Active Indicative)	βουλεύετον
+What is the 1st Person Plural form of the βουλεύω? (Present Active Indicative)	βουλεύομεν
+What is the 2nd Person Plural form of the βουλεύω? (Present Active Indicative)	βουλεύετε
+What is the 3rd Person Plural form of the βουλεύω? (Present Active Indicative)	βουλεύουσι
+What is the 1st Person Singular form of the πέμπω? (Present Active Indicative)	πέμπω
+What is the 2nd Person Singular form of the πέμπω? (Present Active Indicative)	πέμπεις
+What is the 3rd Person Singular form of the πέμπω? (Present Active Indicative)	πέμπει
+What is the 2nd Person Dual form of the πέμπω? (Present Active Indicative)	πέμπετον
+What is the 3rd Person Dual form of the πέμπω? (Present Active Indicative)	πέμπετον
+What is the 1st Person Plural form of the πέμπω? (Present Active Indicative)	πέμπομεν
+What is the 2nd Person Plural form of the πέμπω? (Present Active Indicative)	πέμπετε
+What is the 3rd Person Plural form of the πέμπω? (Present Active Indicative)	πέμπουσι
+What is the 1st Person Singular form of the ἁρπάζω? (Present Active Indicative)	ἁρπάζω
+What is the 2nd Person Singular form of the ἁρπάζω? (Present Active Indicative)	ἁρπάζεις
+What is the 3rd Person Singular form of the ἁρπάζω? (Present Active Indicative)	ἁρπάζει
+What is the 2nd Person Dual form of the ἁρπάζω? (Present Active Indicative)	ἁρπάζετον
+What is the 3rd Person Dual form of the ἁρπάζω? (Present Active Indicative)	ἁρπάζετον
+What is the 1st Person Plural form of the ἁρπάζω? (Present Active Indicative)	ἁρπάζομεν
+What is the 2nd Person Plural form of the ἁρπάζω? (Present Active Indicative)	ἁρπάζετε
+What is the 3rd Person Plural form of the ἁρπάζω? (Present Active Indicative)	ἁρπάζουσι

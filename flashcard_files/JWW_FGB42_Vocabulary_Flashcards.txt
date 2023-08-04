@@ -1,0 +1,25 @@
+tags:JWW_FGB42_Vocabulary
+What is the best translation of ἐπι-λείπω?	leave behind; intrans. fail.
+What is the best translation of εὖρος ους τό?	breadth width.
+What is the best translation of κέρας κέρως and κέρᾱτος τό?	horn of an animal wing of an army.
+What is the best translation of κράνος ους τό?	headpiece helmet.
+What is the best translation of κρέας κρέως τό?	flesh; plur.pieces of flesh meat.
+What is the best translation of ὁπλίζω (ὁπλιδ) ὥπλισα ὥπλισμαιὡπλίσθην (cf. ὅπλον)?	arm equip..
+What is the best translation of ὄρος ους τό?	mountain.
+What is the best translation of πλέθρον ου τό?	a plethrum a measure of 100 Greek feet.
+What is the best translation of Σωκράτης ους ὁ VOC. Σώκρατεσ?	Socrates the celebrated philosopher.
+What is the best translation of τεῖχος ους τό?	wall fort.
+What is the best translation of Τισσαφέρνης ους ὁ acc. Τισσαφέρνην voc. Τισσαφέρνη?	of A–Decl. Tissaphernes.
+What is the best translation of τριήρης ους ἡ?	trireme war vessel with three banks of oars.
+What is the Greek word for leave behind; intrans. fail?	ἐπι-λείπω
+What is the Greek word for breadth width?	εὖρος ους τό
+What is the Greek word for horn of an animal wing of an army?	κέρας κέρως and κέρᾱτος τό
+What is the Greek word for headpiece helmet?	κράνος ους τό
+What is the Greek word for flesh; plur.pieces of flesh meat?	κρέας κρέως τό
+What is the Greek word for arm equip?	ὁπλίζω (ὁπλιδ) ὥπλισα ὥπλισμαιὡπλίσθην (cf. ὅπλον)
+What is the Greek word for mountain?	ὄρος ους τό
+What is the Greek word for a plethrum a measure of 100 Greek feet?	πλέθρον ου τό
+What is the Greek word for Socrates the celebrated philosopher?	Σωκράτης ους ὁ VOC. Σώκρατεσ
+What is the Greek word for wall fort?	τεῖχος ους τό
+What is the Greek word for of A–Decl. Tissaphernes?	Τισσαφέρνης ους ὁ acc. Τισσαφέρνην voc. Τισσαφέρνη
+What is the Greek word for trireme war vessel with three banks of oars?	τριήρης ους ἡ

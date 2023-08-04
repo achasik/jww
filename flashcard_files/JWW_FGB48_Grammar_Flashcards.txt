@@ -1,0 +1,48 @@
+tags:JWW_FGB48_Grammar
+What is the Masculine Genitive Singular form of the ἐμαυτοῦ of myself?	ἐμαυτοῦ
+What is the Masculine Dative Singular form of the ἐμαυτοῦ of myself?	ἐμαυτῷ
+What is the Masculine Accusative Singular form of the ἐμαυτοῦ of myself?	ἐμαυτόν
+What is the Masculine Genitive Plural form of the ἐμαυτοῦ of myself?	ἡμῶν αὐτῶν
+What is the Masculine Dative Plural form of the ἐμαυτοῦ of myself?	ἡμῖν αὐτοῖς
+What is the Masculine Accusative Plural form of the ἐμαυτοῦ of myself?	ἡμᾶς αὐτούς
+What is the Feminine Genitive Singular form of the ἐμαυτοῦ of myself?	ἐμαυτῆς
+What is the Feminine Dative Singular form of the ἐμαυτοῦ of myself?	ἐμαυτῇ
+What is the Feminine Accusative Singular form of the ἐμαυτοῦ of myself?	ἐμαυτήν
+What is the Feminine Genitive Plural form of the ἐμαυτοῦ of myself?	ἡμῶν αὐτῶν
+What is the Feminine Dative Plural form of the ἐμαυτοῦ of myself?	ἡμῖν αὐταῖς
+What is the Feminine Accusative Plural form of the ἐμαυτοῦ of myself?	ἡμᾶς αὐτάς
+What is the Masculine Genitive Singular form of the σεαυτοῦ of yourself?	σεαυτοῦ
+What is the Masculine Dative Singular form of the σεαυτοῦ of yourself?	σεαυτῷ
+What is the Masculine Accusative Singular form of the σεαυτοῦ of yourself?	σεαυτόν
+What is the Masculine Genitive Plural form of the σεαυτοῦ of yourself?	ὑμῶν αὐτῶν
+What is the Masculine Dative Plural form of the σεαυτοῦ of yourself?	ὑμῖν αὐτοῖς
+What is the Masculine Accusative Plural form of the σεαυτοῦ of yourself?	ὑμᾶς αὐτούς
+What is the Feminine Genitive Singular form of the σεαυτοῦ of yourself?	σεαυτῆς
+What is the Feminine Dative Singular form of the σεαυτοῦ of yourself?	σεαυτῇ
+What is the Feminine Accusative Singular form of the σεαυτοῦ of yourself?	σεαυτήν
+What is the Feminine Genitive Plural form of the σεαυτοῦ of yourself?	ὑμῶν αὐτῶν
+What is the Feminine Dative Plural form of the σεαυτοῦ of yourself?	ὑμῖν αὐταῖς
+What is the Feminine Accusative Plural form of the σεαυτοῦ of yourself?	ὑμᾶς αὐτάς
+What is the Masculine Genitive Singular form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτοῦ
+What is the Masculine Dative Singular form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτῷ
+What is the Masculine Accusative Singular form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτόν
+What is the Masculine Genitive Plural form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτῶν
+What is the Masculine Dative Plural form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτοῖς
+What is the Masculine Accusative Plural form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτούς
+What is the Feminine Genitive Singular form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτῆς
+What is the Feminine Dative Singular form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτῇ
+What is the Feminine Accusative Singular form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτήν
+What is the Feminine Genitive Plural form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτῶν
+What is the Feminine Dative Plural form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυταῖς
+What is the Feminine Accusative Plural form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτάς
+What is the Neuter Genitive Singular form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτοῦ
+What is the Neuter Dative Singular form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτῷ or 
+What is the Neuter Accusative Singular form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτό
+What is the Neuter Genitive Plural form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτῶν
+What is the Neuter Dative Plural form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτοῖς or 
+What is the Neuter Accusative Plural form of the ἑαυτοῦ ἑαυτῆς ἑαυτοῦ of himself herself itself?	ἑαυτά
+What is the Masculine Dative and Genitive Dual form of the ἀλλήλων of one another?	ἀλλήλοιν
+What is the Masculine Accusative Dual form of the ἀλλήλων of one another?	ἀλλήλω
+What is the Masculine Genitive Plural form of the ἀλλήλων of one another?	ἀλλήλων
+What is the Masculine Dative Plural form of the ἀλλήλων of one another?	ἀλλήλοις
+What is the Masculine Accusative Plural form of the ἀλλήλων of one another?	ἀλλήλους

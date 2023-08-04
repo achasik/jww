@@ -1,0 +1,56 @@
+tags:JWW_FGB26_Grammar
+What is the Nominative Singular form of the νύξ ἡ.  Night?	νύξ
+What is the Genitive Singular form of the νύξ ἡ.  Night?	νυκτ-ός
+What is the Dative Singular form of the νύξ ἡ.  Night?	νυκτ-ί
+What is the Accusative Singular form of the νύξ ἡ.  Night?	νύκτ-α
+What is the Vocative Singular form of the νύξ ἡ.  Night?	νύξ
+What is the Nominative Accusative and Vocative Dual form of the νύξ ἡ.  Night?	νύκτ-ε
+What is the Genitive and Dative Dual form of the νύξ ἡ.  Night?	νυκτ-οῖν
+What is the Nominative and Vocative Plural form of the νύξ ἡ.  Night?	νύκτ-ες
+What is the Genitive Plural form of the νύξ ἡ.  Night?	νυκτ-ῶν
+What is the Dative Plural form of the νύξ ἡ.  Night?	νυξί
+What is the Accusative Plural form of the νύξ ἡ.  Night?	νύκτ-ας
+What is the Nominative Singular form of the ἀσπίς ἡ.  Shield?	ἀσπίς
+What is the Genitive Singular form of the ἀσπίς ἡ.  Shield?	ἀσπίδ-ος
+What is the Dative Singular form of the ἀσπίς ἡ.  Shield?	ἀσπίδ-ι
+What is the Accusative Singular form of the ἀσπίς ἡ.  Shield?	ἀσπίδ-α
+What is the Vocative Singular form of the ἀσπίς ἡ.  Shield?	ἀσπί
+What is the Nominative Accusative and Vocative Dual form of the ἀσπίς ἡ.  Shield?	ἀσπίδ-ε
+What is the Genitive and Dative Dual form of the ἀσπίς ἡ.  Shield?	ἀσπίδ-οιν
+What is the Nominative and Vocative Plural form of the ἀσπίς ἡ.  Shield?	ἀσπίδ-ες
+What is the Genitive Plural form of the ἀσπίς ἡ.  Shield?	ἀσπίδ-ων
+What is the Dative Plural form of the ἀσπίς ἡ.  Shield?	ἀσπί-σι
+What is the Accusative Plural form of the ἀσπίς ἡ.  Shield?	ἀσπίδ-ας
+What is the Nominative Singular form of the ὄρνῑς ὁ ἡ.  Bird?	ὄρνῑς
+What is the Genitive Singular form of the ὄρνῑς ὁ ἡ.  Bird?	ὄρνῑθ-ος
+What is the Dative Singular form of the ὄρνῑς ὁ ἡ.  Bird?	ὄρνῑθ-ι
+What is the Accusative Singular form of the ὄρνῑς ὁ ἡ.  Bird?	ὄρνῑν
+What is the Vocative Singular form of the ὄρνῑς ὁ ἡ.  Bird?	ὄρνῑς
+What is the Nominative Accusative and Vocative Dual form of the ὄρνῑς ὁ ἡ.  Bird?	ὄρνῑθ-ε
+What is the Genitive and Dative Dual form of the ὄρνῑς ὁ ἡ.  Bird?	ὀρνίθ-οιν
+What is the Nominative and Vocative Plural form of the ὄρνῑς ὁ ἡ.  Bird?	ὄρνῑθ-ες
+What is the Genitive Plural form of the ὄρνῑς ὁ ἡ.  Bird?	ὀρνίθ-ων
+What is the Dative Plural form of the ὄρνῑς ὁ ἡ.  Bird?	ὄρνῑσι
+What is the Accusative Plural form of the ὄρνῑς ὁ ἡ.  Bird?	ὄρνῑθ-ας
+What is the Nominative Singular form of the γέρων ὁ. Old Man?	γέρων
+What is the Genitive Singular form of the γέρων ὁ. Old Man?	γέροντ-ος
+What is the Dative Singular form of the γέρων ὁ. Old Man?	γέροντ-ι
+What is the Accusative Singular form of the γέρων ὁ. Old Man?	γέροντ-α
+What is the Vocative Singular form of the γέρων ὁ. Old Man?	γέρον
+What is the Nominative Accusative and Vocative Dual form of the γέρων ὁ. Old Man?	γέροντ-ε
+What is the Genitive and Dative Dual form of the γέρων ὁ. Old Man?	γερόντ-οιν
+What is the Nominative and Vocative Plural form of the γέρων ὁ. Old Man?	γέροντ-ες
+What is the Genitive Plural form of the γέρων ὁ. Old Man?	γερόντ-ων
+What is the Dative Plural form of the γέρων ὁ. Old Man?	γέρουσι
+What is the Accusative Plural form of the γέρων ὁ. Old Man?	γέροντ-ας
+What is the Nominative Singular form of the ἅρμα τό Chariot?	ἅρμα
+What is the Genitive Singular form of the ἅρμα τό Chariot?	ἅρματ-ος
+What is the Dative Singular form of the ἅρμα τό Chariot?	ἅρματ-ι
+What is the Accusative Singular form of the ἅρμα τό Chariot?	ἅρμα
+What is the Vocative Singular form of the ἅρμα τό Chariot?	ἅρμα
+What is the Nominative Accusative and Vocative Dual form of the ἅρμα τό Chariot?	ἅρματ-ε
+What is the Genitive and Dative Dual form of the ἅρμα τό Chariot?	ἁρμάτ-οιν
+What is the Nominative and Vocative Plural form of the ἅρμα τό Chariot?	ἅρματ-α
+What is the Genitive Plural form of the ἅρμα τό Chariot?	ἁρμάτ-ων
+What is the Dative Plural form of the ἅρμα τό Chariot?	ἅρμασι
+What is the Accusative Plural form of the ἅρμα τό Chariot?	ἅρματ-α

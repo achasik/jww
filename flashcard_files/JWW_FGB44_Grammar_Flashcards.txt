@@ -1,0 +1,19 @@
+tags:JWW_FGB44_Grammar
+What is the Second Person Singular form of the Personal Ending of the Middle and Passive Imperative?	-σο
+What is the Third Person Singular form of the Personal Ending of the Middle and Passive Imperative?	-σθω
+What is the Second Person Dual form of the Personal Ending of the Middle and Passive Imperative?	-σθον
+What is the Third Person Dual form of the Personal Ending of the Middle and Passive Imperative?	-σθων
+What is the Second Person Plural form of the Personal Ending of the Middle and Passive Imperative?	-σθε
+What is the Third Person Plural form of the Personal Ending of the Middle and Passive Imperative?	-σθων
+What is the Second Person Singular form of the Present Middle and Passive Imperative of λύω?	λύου
+What is the Third Person Singular form of the Present Middle and Passive Imperative of λύω?	λῡέ-σθω
+What is the Second Person Dual form of the Present Middle and Passive Imperative of λύω?	λύε-σθον
+What is the Third Person Dual form of the Present Middle and Passive Imperative of λύω?	λῡέ-σθων
+What is the Second Person Plural form of the Present Middle and Passive Imperative of λύω?	λύε-σθε
+What is the Third Person Plural form of the Present Middle and Passive Imperative of λύω?	λῡέ-σθων
+What is the Second Person Singular form of the Aorist Middle and Passive Imperative of λύω?	λῦσαι
+What is the Third Person Singular form of the Aorist Middle and Passive Imperative of λύω?	λῡσά-σθω
+What is the Second Person Dual form of the Aorist Middle and Passive Imperative of λύω?	λύσα-σθον
+What is the Third Person Dual form of the Aorist Middle and Passive Imperative of λύω?	λῡσά-σθων
+What is the Second Person Plural form of the Aorist Middle and Passive Imperative of λύω?	λύσα-σθε
+What is the Third Person Plural form of the Aorist Middle and Passive Imperative of λύω?	λῡσά-σθων

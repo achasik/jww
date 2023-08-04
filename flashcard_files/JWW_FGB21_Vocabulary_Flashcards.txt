@@ -1,0 +1,19 @@
+tags:JWW_FGB21_Vocabulary
+What does γράφω γράψω ἔγραψα γέγραφα γέγραμμαι ἐγράφην mean?	write.
+What does δή mean?	intensive postpositive particle now indeed accordingly so then.
+What does εἴκοσι mean?	indeclinable twenty.
+What does ἐντεῦθεν mean?	adv. thence from this place.
+What does ἑπτά mean?	indeclinable seven.
+What does ἥκω ἥξω mean?	come be or have come.
+What does παρασάγγης ον ὁ mean?	parasang a Persian road measure.
+What does πιέζω (πιεδ) πιέσω ἐπίεσα ἐπιέσθην mean?	press hard.: pass. be hard pressed.
+What does ὑπό mean?	prep.: with gen. under from under of agency by through; with dat. under beneath; with acc. under down under.
+What is the Greek word for write?	γράφω γράψω ἔγραψα γέγραφα γέγραμμαι ἐγράφην
+What is the Greek word for intensive postpositive particle now indeed accordingly so then?	δή
+What is the Greek word for indeclinable twenty?	εἴκοσι
+What is the Greek word for adv. thence from this place?	ἐντεῦθεν
+What is the Greek word for indeclinable seven?	ἑπτά
+What is the Greek word for come be or have come?	ἥκω ἥξω
+What is the Greek word for parasang a Persian road measure?	παρασάγγης ον ὁ
+What is the Greek word for press hard.: pass. be hard pressed?	πιέζω (πιεδ) πιέσω ἐπίεσα ἐπιέσθην
+What is the Greek word for prep.: with gen. under from under of agency by through; with dat. under beneath; with acc. under down under?	ὑπό

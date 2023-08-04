@@ -1,0 +1,58 @@
+tags:JWW_FGB35_Grammar
+What is the First Person Singular form of the Present Active Subjunctive of τῑμάω?	(τῑμάω) τῑμῶ
+What is the Second Person Singular form of the Present Active Subjunctive of τῑμάω?	(τῑμάῃς) τῑμᾷς
+What is the Third Person Singular form of the Present Active Subjunctive of τῑμάω?	(τῑμάῃ) τῑμᾷ
+What is the Second Person Dual form of the Present Active Subjunctive of τῑμάω?	(τῑμάητον) τῑμᾶτον
+What is the Third Person Dual form of the Present Active Subjunctive of τῑμάω?	(τῑμάητον) τῑμᾶτον
+What is the First Person Plural form of the Present Active Subjunctive of τῑμάω?	(τῑμάωμεν) τῑμῶμεν
+What is the Second Person Plural form of the Present Active Subjunctive of τῑμάω?	(τῑμάητε) τῑμᾶτε
+What is the Third Person Plural form of the Present Active Subjunctive of τῑμάω?	(τῑμάωσι) τῑμῶσι
+What is the First Person Singular form of the Present Middle Subjunctive of τῑμάω?	(τῑμάωμαι) τῑμῶμαι
+What is the Second Person Singular form of the Present Middle Subjunctive of τῑμάω?	(τῑμάῃ) τῑμᾷ
+What is the Third Person Singular form of the Present Middle Subjunctive of τῑμάω?	(τῑμάηται) τῑμᾶται
+What is the Second Person Dual form of the Present Middle Subjunctive of τῑμάω?	(τῑμάησθον) τῑμᾶσθον
+What is the Third Person Dual form of the Present Middle Subjunctive of τῑμάω?	(τῑμάησθον) τῑμᾶσθον
+What is the First Person Plural form of the Present Middle Subjunctive of τῑμάω?	(τῑμαώμεθα) τῑμώμεθα
+What is the Second Person Plural form of the Present Middle Subjunctive of τῑμάω?	(τῑμάησθε) τῑμᾶσθε
+What is the Third Person Plural form of the Present Middle Subjunctive of τῑμάω?	(τῑμάωνται) τῑμῶνται
+What is the First Person Singular form of the Present Active Subjunctive of ποιέω?	(ποιέω) ποιῶ
+What is the Second Person Singular form of the Present Active Subjunctive of ποιέω?	(ποιέῃς) ποιῇς
+What is the Third Person Singular form of the Present Active Subjunctive of ποιέω?	(ποιέῃ) ποιῇ
+What is the Second Person Dual form of the Present Active Subjunctive of ποιέω?	(ποιέητον) ποιῆτον
+What is the Third Person Dual form of the Present Active Subjunctive of ποιέω?	(ποιέητον) ποιῆτον
+What is the First Person Plural form of the Present Active Subjunctive of ποιέω?	(ποιέωμεν) ποιῶμεν
+What is the Second Person Plural form of the Present Active Subjunctive of ποιέω?	(ποιέητε) ποιῆτε
+What is the Third Person Plural form of the Present Active Subjunctive of ποιέω?	(ποιέωσι) ποιῶσι
+What is the First Person Singular form of the Present Middle Subjunctive of ποιέω?	(ποιέωμαι) ποιῶμαι
+What is the Second Person Singular form of the Present Middle Subjunctive of ποιέω?	(ποιέῃ) ποιῇ
+What is the Third Person Singular form of the Present Middle Subjunctive of ποιέω?	(ποιέηται) ποιῆται
+What is the Second Person Dual form of the Present Middle Subjunctive of ποιέω?	(ποιέησθον) ποιῆσθον
+What is the Third Person Dual form of the Present Middle Subjunctive of ποιέω?	(ποιέησθον) ποιῆσθον
+What is the First Person Plural form of the Present Middle Subjunctive of ποιέω?	(ποιεώμεθα) ποιώμεθα
+What is the Second Person Plural form of the Present Middle Subjunctive of ποιέω?	(ποιέησθε) ποιῆσθε
+What is the Third Person Plural form of the Present Middle Subjunctive of ποιέω?	(ποιέωνται) ποιῶνται
+What is the First Person Singular form of the Present Active Subjunctive of δηλόω?	(δηλόω) δηλῶ
+What is the Second Person Singular form of the Present Active Subjunctive of δηλόω?	(δηλόῃς) δηλοῖς
+What is the Third Person Singular form of the Present Active Subjunctive of δηλόω?	(δηλόῃ) δηλοῖ
+What is the Second Person Dual form of the Present Active Subjunctive of δηλόω?	(δηλόητον) δηλῶτον
+What is the Third Person Dual form of the Present Active Subjunctive of δηλόω?	(δηλόητον) δηλῶτον
+What is the First Person Plural form of the Present Active Subjunctive of δηλόω?	(δηλόωμεν) δηλῶμεν
+What is the Second Person Plural form of the Present Active Subjunctive of δηλόω?	(δηλόητε) δηλῶτε
+What is the Third Person Plural form of the Present Active Subjunctive of δηλόω?	(δηλόωσι) δηλῶσι
+What is the First Person Singular form of the Present Middle Subjunctive of δηλόω?	(δηλόωμαι) δηλῶμαι
+What is the Second Person Singular form of the Present Middle Subjunctive of δηλόω?	(δηλόῃ) δηλοῖ
+What is the Third Person Singular form of the Present Middle Subjunctive of δηλόω?	(δηλόηται) δηλῶται
+What is the Second Person Dual form of the Present Middle Subjunctive of δηλόω?	(δηλόησθον) δηλῶσθον
+What is the Third Person Dual form of the Present Middle Subjunctive of δηλόω?	(δηλόησθον) δηλῶσθον
+What is the First Person Plural form of the Present Middle Subjunctive of δηλόω?	(δηλοώμεθα) δηλώμεθα
+What is the Second Person Plural form of the Present Middle Subjunctive of δηλόω?	(δηλόησθε) δηλῶσθε
+What is the Third Person Plural form of the Present Middle Subjunctive of δηλόω?	(δηλόωνται) δηλῶνται
+What is the contraction of α + ω?	ω
+What is the contraction of α + η?	ᾱ
+What is the contraction of α + ῃ?	ᾳ
+What is the contraction of ε + ω?	ω
+What is the contraction of ε + η?	η
+What is the contraction of ε + ῃ?	ῃ
+What is the contraction of ο + ω?	ω
+What is the contraction of ο + η?	ω
+What is the contraction of ο + ῃ?	οι

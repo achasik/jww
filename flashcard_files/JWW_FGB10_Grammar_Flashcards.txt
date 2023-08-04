@@ -1,0 +1,33 @@
+tags:JWW_FGB10_Grammar
+What is the First Person Singular form of the Future Active Indicative of λύω?	λύσω
+What is the Second Person Singular form of the Future Active Indicative of λύω?	λύσεις
+What is the Third Person Singular form of the Future Active Indicative of λύω?	λύσει
+What is the Second Person Dual form of the Future Active Indicative of λύω?	λύσετον
+What is the Third Person Dual form of the Future Active Indicative of λύω?	λύσετον
+What is the First Person Plural form of the Future Active Indicative of λύω?	λύσομεν
+What is the Second Person Plural form of the Future Active Indicative of λύω?	λύσετε
+What is the Third Person Plural form of the Future Active Indicative of λύω?	λύσουσι
+What is the First Person Singular form of the First Aorist Active Indicative of λύω?	ἕλῡσα
+What is the Second Person Singular form of the First Aorist Active Indicative of λύω?	ἔλῡσας
+What is the Third Person Singular form of the First Aorist Active Indicative of λύω?	ἔλῡσε
+What is the Second Person Dual form of the First Aorist Active Indicative of λύω?	ἐλύσατον
+What is the Third Person Dual form of the First Aorist Active Indicative of λύω?	ἐλῡσάτην
+What is the First Person Plural form of the First Aorist Active Indicative of λύω?	ἐλύσαμεν
+What is the Second Person Plural form of the First Aorist Active Indicative of λύω?	ἐλύσατε
+What is the Third Person Plural form of the First Aorist Active Indicative of λύω?	ἔλῡσαν
+What is the First Person Singular form of the Future Active Indicative of πέμπω?	πέμψω
+What is the Second Person Singular form of the Future Active Indicative of πέμπω?	πέμψεις
+What is the Third Person Singular form of the Future Active Indicative of πέμπω?	πέμψει
+What is the Second Person Dual form of the Future Active Indicative of πέμπω?	πέμψετον
+What is the Third Person Dual form of the Future Active Indicative of πέμπω?	πέμψετον
+What is the First Person Plural form of the Future Active Indicative of πέμπω?	πέμψομεν
+What is the Second Person Plural form of the Future Active Indicative of πέμπω?	πέμψετε
+What is the Third Person Plural form of the Future Active Indicative of πέμπω?	πέμψουσι
+What is the First Person Singular form of the First Aorist Active Indicative of πέμπω?	ἔπεμψα
+What is the Second Person Singular form of the First Aorist Active Indicative of πέμπω?	ἔπεμψας
+What is the Third Person Singular form of the First Aorist Active Indicative of πέμπω?	ἔπεμψε
+What is the Second Person Dual form of the First Aorist Active Indicative of πέμπω?	ἐπέμψατον
+What is the Third Person Dual form of the First Aorist Active Indicative of πέμπω?	ἐπεμψάτην
+What is the First Person Plural form of the First Aorist Active Indicative of πέμπω?	ἐπέμψαμεν
+What is the Second Person Plural form of the First Aorist Active Indicative of πέμπω?	ἐπέμψατε
+What is the Third Person Plural form of the First Aorist Active Indicative of πέμπω?	ἔπεμψαν

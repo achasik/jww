@@ -1,0 +1,21 @@
+tags:JWW_FGB36_Vocabulary
+What does ἀγών ῶνος ὁ (cf. ἄγω) mean?	gathering assembly contest games; ἀγῶνα ποιεῖν hold games.
+What does ἀνήρ ἀνδρός ὁ mean?	man.
+What does Ἕλλην ηνος ὁ (cf. Ἑλληνικός Ἑλλάς) mean?	a Greek.
+What does ἡγεμών ὁνος ὁ (cf. ἡγέομαι) mean?	leader guide.
+What does μήν μηνός ὁ mean?	month.
+What does μήτηρ μητρός ἡ mean?	mother.
+What does οἴκαδε (cf. οἰκίᾱ) mean?	adv. home homeward.
+What does πατήρ πατρός ὁ mean?	father.
+What does ῥήτωρ ορος ὁ mean?	speaker orator.
+What does ψηφίζομαι (ψηφιδ) ψηφιοῦμαι mean?	etc. mid. dep. vote decide.
+What is the Greek word for gathering assembly contest games; ἀγῶνα ποιεῖν hold games?	ἀγών ῶνος ὁ (cf. ἄγω)
+What is the Greek word for man?	ἀνήρ ἀνδρός ὁ
+What is the Greek word for a Greek?	Ἕλλην ηνος ὁ (cf. Ἑλληνικός Ἑλλάς)
+What is the Greek word for leader guide?	ἡγεμών ὁνος ὁ (cf. ἡγέομαι)
+What is the Greek word for month?	μήν μηνός ὁ
+What is the Greek word for mother?	μήτηρ μητρός ἡ
+What is the Greek word for adv. home homeward?	οἴκαδε (cf. οἰκίᾱ)
+What is the Greek word for father?	πατήρ πατρός ὁ
+What is the Greek word for speaker orator?	ῥήτωρ ορος ὁ
+What is the Greek word for etc. mid. dep. vote decide?	ψηφίζομαι (ψηφιδ) ψηφιοῦμαι

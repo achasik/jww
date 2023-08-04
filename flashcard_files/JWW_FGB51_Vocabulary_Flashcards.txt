@@ -1,0 +1,25 @@
+tags:JWW_FGB51_Vocabulary
+What does ἀκρόπολις εως ἡ (ἄκρος + πόλις) mean?	upper city citadel acropolis.
+What does ἄστυ εως τό mean?	town.
+What does δόρυ ατος τό mean?	spear shaft spear.
+What does δύναμις εως ἡ mean?	ability power troops.
+What does ἐξέτασις εως ἡ mean?	review.
+What does ἰχθύς ύος ὁ mean?	fish.
+What does λόγχη ης ἡ mean?	spear point spear.
+What does πεντεκαίδεκα mean?	indecl. fifteen.
+What does πῆχυς εως ὁ mean?	forearm cubit.
+What does πόλις εως ἡ mean?	city state.
+What does Σάρδεις εων αἱ mean?	Sardis.
+What does τάξις εως ἡ mean?	(cf. τάττω) arrangement order array division.
+What is the Greek word for upper city citadel acropolis?	ἀκρόπολις εως ἡ (ἄκρος + πόλις)
+What is the Greek word for town?	ἄστυ εως τό
+What is the Greek word for spear shaft spear?	δόρυ ατος τό
+What is the Greek word for ability power troops?	δύναμις εως ἡ
+What is the Greek word for review?	ἐξέτασις εως ἡ
+What is the Greek word for fish?	ἰχθύς ύος ὁ
+What is the Greek word for spear point spear?	λόγχη ης ἡ
+What is the Greek word for indecl. fifteen?	πεντεκαίδεκα
+What is the Greek word for forearm cubit?	πῆχυς εως ὁ
+What is the Greek word for city state?	πόλις εως ἡ
+What is the Greek word for Sardis?	Σάρδεις εων αἱ
+What is the Greek word for (cf. τάττω) arrangement order array division?	τάξις εως ἡ

@@ -1,0 +1,121 @@
+tags:JWW_FGB27_Grammar
+What is the Nominative Singular form of the Masculine form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεις
+What is the Genitive Singular form of the Masculine form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεντος
+What is the Dative Singular form of the Masculine form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεντι
+What is the Accusative Singular form of the Masculine form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεντα
+What is the Vocative Singular form of the Masculine form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεν
+What is the Nominative Accusative and Vocative Dual form of the Masculine form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεντε
+What is the Genitive and Dative Dual form of the Masculine form of the χαρίεις (χαριεντ) 'Pleasing'?	χαριέντοιν
+What is the Nominative and Vocative Plural form of the Masculine form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεντες
+What is the Genitive Plural form of the Masculine form of the χαρίεις (χαριεντ) 'Pleasing'?	χαριέντων
+What is the Dative Plural form of the Masculine form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεσι
+What is the Accusative Plural form of the Masculine form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεντας
+What is the Nominative Singular form of the Feminine form of the form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεσσα
+What is the Genitive Singular form of the Feminine form of the form of the χαρίεις (χαριεντ) 'Pleasing'?	χαριέσσης
+What is the Dative Singular form of the Feminine form of the form of the χαρίεις (χαριεντ) 'Pleasing'?	χαριέσσῃ
+What is the Accusative Singular form of the Feminine form of the form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεσσαν
+What is the Vocative Singular form of the Feminine form of the form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεσσα
+What is the Nominative Accusative and Vocative Dual form of the Feminine form of the form of the χαρίεις (χαριεντ) 'Pleasing'?	χαριέσσᾱ
+What is the Genitive and Dative Dual form of the Feminine form of the form of the χαρίεις (χαριεντ) 'Pleasing'?	χαριέσσαιν
+What is the Nominative and Vocative Plural form of the Feminine form of the form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεσσαι
+What is the Genitive Plural form of the Feminine form of the form of the χαρίεις (χαριεντ) 'Pleasing'?	χαριεσσῶν
+What is the Dative Plural form of the Feminine form of the form of the χαρίεις (χαριεντ) 'Pleasing'?	χαριέσσαις
+What is the Accusative Plural form of the Feminine form of the form of the χαρίεις (χαριεντ) 'Pleasing'?	χαριέσσᾱς
+What is the Nominative Singular form of the Neuter form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεν
+What is the Genitive Singular form of the Neuter form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεντος
+What is the Dative Singular form of the Neuter form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεντι
+What is the Accusative Singular form of the Neuter form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεν
+What is the Vocative Singular form of the Neuter form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεν
+What is the Nominative Accusative and Vocative Dual form of the Neuter form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεντε
+What is the Genitive and Dative Dual form of the Neuter form of the χαρίεις (χαριεντ) 'Pleasing'?	χαριέντοιν
+What is the Nominative and Vocative Plural form of the Neuter form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεντα
+What is the Genitive Plural form of the Neuter form of the χαρίεις (χαριεντ) 'Pleasing'?	χαριέντων
+What is the Dative Plural form of the Neuter form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεσι
+What is the Accusative Plural form of the Neuter form of the χαρίεις (χαριεντ) 'Pleasing'?	χαρίεντα
+What is the Nominative Singular form of the Masculine form of the πᾶς (παντ) 'All'?	πᾶς
+What is the Genitive Singular form of the Masculine form of the πᾶς (παντ) 'All'?	παντός
+What is the Dative Singular form of the Masculine form of the πᾶς (παντ) 'All'?	παντί
+What is the Accusative Singular form of the Masculine form of the πᾶς (παντ) 'All'?	πάντα
+What is the Nominative and Vocative Plural form of the Masculine form of the πᾶς (παντ) 'All'?	πάντες
+What is the Genitive Plural form of the Masculine form of the πᾶς (παντ) 'All'?	πάντων
+What is the Dative Plural form of the Masculine form of the πᾶς (παντ) 'All'?	πᾶσι
+What is the Accusative Plural form of the Masculine form of the πᾶς (παντ) 'All'?	πάντας
+What is the Nominative Singular form of the Feminine form of the πᾶς (παντ) 'All'?	πᾶσα
+What is the Genitive Singular form of the Feminine form of the πᾶς (παντ) 'All'?	πάσης
+What is the Dative Singular form of the Feminine form of the πᾶς (παντ) 'All'?	πάσῃ
+What is the Accusative Singular form of the Feminine form of the πᾶς (παντ) 'All'?	πᾶσαν
+What is the Nominative and Vocative Plural form of the Feminine form of the πᾶς (παντ) 'All'?	πᾶσαι
+What is the Genitive Plural form of the Feminine form of the πᾶς (παντ) 'All'?	πᾱσῶν
+What is the Dative Plural form of the Feminine form of the πᾶς (παντ) 'All'?	πάσαις
+What is the Accusative Plural form of the Feminine form of the πᾶς (παντ) 'All'?	πάσᾱς
+What is the Nominative Singular form of the Neuter form of the πᾶς (παντ) 'All'?	πᾶν
+What is the Genitive Singular form of the Neuter form of the πᾶς (παντ) 'All'?	παντός
+What is the Dative Singular form of the Neuter form of the πᾶς (παντ) 'All'?	παντί
+What is the Accusative Singular form of the Neuter form of the πᾶς (παντ) 'All'?	πᾶν
+What is the Nominative and Vocative Plural form of the Neuter form of the πᾶς (παντ) 'All'?	πάντα
+What is the Genitive Plural form of the Neuter form of the πᾶς (παντ) 'All'?	πάντων
+What is the Dative Plural form of the Neuter form of the πᾶς (παντ) 'All'?	πᾶσι
+What is the Accusative Plural form of the Neuter form of the πᾶς (παντ) 'All'?	πάντα
+What is the Nominative Singular form of the Masculine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκών
+What is the Genitive Singular form of the Masculine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντος
+What is the Dative Singular form of the Masculine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντι
+What is the Accusative Singular form of the Masculine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντα
+What is the Vocative Singular form of the Masculine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκών
+What is the Nominative Accusative and Vocative Dual form of the Masculine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντε
+What is the Genitive and Dative Dual form of the Masculine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντοιν
+What is the Nominative and Vocative Plural form of the Masculine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντες
+What is the Genitive Plural form of the Masculine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντων
+What is the Dative Plural form of the Masculine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκοῦσι
+What is the Accusative Plural form of the Masculine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντας
+What is the Nominative Singular form of the Feminine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκοῦσα
+What is the Genitive Singular form of the Feminine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκούσης
+What is the Dative Singular form of the Feminine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκούσῃ
+What is the Accusative Singular form of the Feminine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκοῦσαν
+What is the Vocative Singular form of the Feminine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκοῦσα
+What is the Nominative Accusative and Vocative Dual form of the Feminine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκούσᾱ
+What is the Genitive and Dative Dual form of the Feminine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκούσαιν
+What is the Nominative and Vocative Plural form of the Feminine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκοῦσαι
+What is the Genitive Plural form of the Feminine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκουσῶν
+What is the Dative Plural form of the Feminine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκούσαις
+What is the Accusative Plural form of the Feminine form of the ἑκών (ἑκοντ) 'Willing'?	ἑκούσᾱς
+What is the Nominative Singular form of the Neuter form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόν
+What is the Genitive Singular form of the Neuter form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντος
+What is the Dative Singular form of the Neuter form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντι
+What is the Accusative Singular form of the Neuter form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόν
+What is the Vocative Singular form of the Neuter form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόν
+What is the Nominative Accusative and Vocative Dual form of the Neuter form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντε
+What is the Genitive and Dative Dual form of the Neuter form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντοιν
+What is the Nominative and Vocative Plural form of the Neuter form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντα
+What is the Genitive Plural form of the Neuter form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντων
+What is the Dative Plural form of the Neuter form of the ἑκών (ἑκοντ) 'Willing'?	ἑκοῦσι
+What is the Accusative Plural form of the Neuter form of the ἑκών (ἑκοντ) 'Willing'?	ἑκόντα
+What is the Nominative and Vocative Singular form of the Masculine form of the λύων (λῡοντ) 'Loosing'?	λύων
+What is the Genitive Singular form of the Masculine form of the λύων (λῡοντ) 'Loosing'?	λύοντος
+What is the Dative Singular form of the Masculine form of the λύων (λῡοντ) 'Loosing'?	λύοντι
+What is the Accusative Singular form of the Masculine form of the λύων (λῡοντ) 'Loosing'?	λύοντα
+What is the Nominative Accusative and Vocative Dual form of the Masculine form of the λύων (λῡοντ) 'Loosing'?	λύοντε
+What is the Genitive and Dative Dual form of the Masculine form of the λύων (λῡοντ) 'Loosing'?	λῡόντοιν
+What is the Nominative and Vocative Plural form of the Masculine form of the λύων (λῡοντ) 'Loosing'?	λύοντες
+What is the Genitive Plural form of the Masculine form of the λύων (λῡοντ) 'Loosing'?	λῡόντων
+What is the Dative Plural form of the Masculine form of the λύων (λῡοντ) 'Loosing'?	λύουσι
+What is the Accusative Plural form of the Masculine form of the λύων (λῡοντ) 'Loosing'?	λύοντας
+What is the Nominative and Vocative Singular form of the Feminine form of the λύων (λῡοντ) 'Loosing'?	λύουσα
+What is the Genitive Singular form of the Feminine form of the λύων (λῡοντ) 'Loosing'?	λῡούσης
+What is the Dative Singular form of the Feminine form of the λύων (λῡοντ) 'Loosing'?	λῡούσῃ
+What is the Accusative Singular form of the Feminine form of the λύων (λῡοντ) 'Loosing'?	λύουσαν
+What is the Nominative Accusative and Vocative Dual form of the Feminine form of the λύων (λῡοντ) 'Loosing'?	λῡούσᾱ
+What is the Genitive and Dative Dual form of the Feminine form of the λύων (λῡοντ) 'Loosing'?	λῡούσαιν
+What is the Nominative and Vocative Plural form of the Feminine form of the λύων (λῡοντ) 'Loosing'?	λύουσαι
+What is the Genitive Plural form of the Feminine form of the λύων (λῡοντ) 'Loosing'?	λῡουσῶν
+What is the Dative Plural form of the Feminine form of the λύων (λῡοντ) 'Loosing'?	λῡοὑσαις
+What is the Accusative Plural form of the Feminine form of the λύων (λῡοντ) 'Loosing'?	λῡούσᾱς
+What is the Nominative and Vocative Singular form of the Neuter form of the λύων (λῡοντ) 'Loosing'?	λῦον
+What is the Genitive Singular form of the Neuter form of the λύων (λῡοντ) 'Loosing'?	λύοντος
+What is the Dative Singular form of the Neuter form of the λύων (λῡοντ) 'Loosing'?	λύοντι
+What is the Accusative Singular form of the Neuter form of the λύων (λῡοντ) 'Loosing'?	λῦον
+What is the Nominative Accusative and Vocative Dual form of the Neuter form of the λύων (λῡοντ) 'Loosing'?	λύοντε
+What is the Genitive and Dative Dual form of the Neuter form of the λύων (λῡοντ) 'Loosing'?	λῡόντοιν
+What is the Nominative and Vocative Plural form of the Neuter form of the λύων (λῡοντ) 'Loosing'?	λύοντα
+What is the Genitive Plural form of the Neuter form of the λύων (λῡοντ) 'Loosing'?	λῡόντων
+What is the Dative Plural form of the Neuter form of the λύων (λῡοντ) 'Loosing'?	λύουσι
+What is the Accusative Plural form of the Neuter form of the λύων (λῡοντ) 'Loosing'?	λύοντα

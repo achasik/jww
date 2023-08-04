@@ -1,0 +1,118 @@
+tags:JWW_FGB30_Grammar
+What is the Masculine Nominative Singular form of the χρῡσοῦς GOLDEN?	(χρύσεος) χρῡσοῦς
+What is the Masculine Genitive Singular form of the χρῡσοῦς GOLDEN?	(χρῡσέου) χρῡσοῦ
+What is the Masculine Dative Singular form of the χρῡσοῦς GOLDEN?	(χρῡσέῳ) χρῡσῷ
+What is the Masculine Accusative Singular form of the χρῡσοῦς GOLDEN?	(χρύσεον) χρῡσοῦν
+What is the Masculine Nominative and Accusative Dual form of the χρῡσοῦς GOLDEN?	(χρῡσέω) χρῡσώ
+What is the Masculine Genitive and Dative Dual form of the χρῡσοῦς GOLDEN?	(χρῡσέοιν) χρῡσοῖν
+What is the Masculine Nominative Plural form of the χρῡσοῦς GOLDEN?	(χρύσεοι) χρῡσοῖ
+What is the Masculine Genitive Plural form of the χρῡσοῦς GOLDEN?	(χρῡσέων) χρῡσῶν
+What is the Masculine Dative Plural form of the χρῡσοῦς GOLDEN?	(χρῡσέοις) χρῡσοῖς
+What is the Masculine Accusative Plural form of the χρῡσοῦς GOLDEN?	(χρῡσέους) χρῡσοῦς
+What is the Feminine Nominative Singular form of the χρῡσοῦς GOLDEN?	(χρῡσέᾱ) χρῡσῆ
+What is the Feminine Genitive Singular form of the χρῡσοῦς GOLDEN?	(χρῡσέᾱς) χρῡσῆς
+What is the Feminine Dative Singular form of the χρῡσοῦς GOLDEN?	(χρῡσέᾳ) χρῡσῇ
+What is the Feminine Accusative Singular form of the χρῡσοῦς GOLDEN?	(χρῡσέᾱν) χρῡσῆν
+What is the Feminine Nominative and Accusative Dual form of the χρῡσοῦς GOLDEN?	(χρῡσέᾱ) χρῡσᾶ
+What is the Feminine Genitive and Dative Dual form of the χρῡσοῦς GOLDEN?	(χρῡσέαιν) χρῡσαῖν
+What is the Feminine Nominative Plural form of the χρῡσοῦς GOLDEN?	(χρύσεαι) χρῡσαῖ
+What is the Feminine Genitive Plural form of the χρῡσοῦς GOLDEN?	(χρῡσέων) χρῡσῶν
+What is the Feminine Dative Plural form of the χρῡσοῦς GOLDEN?	(χρῡσέαις) χρῡσαῖς
+What is the Feminine Accusative Plural form of the χρῡσοῦς GOLDEN?	(χρῡσέᾱς) χρῡσᾶς
+What is the Neuter Nominative Singular form of the χρῡσοῦς GOLDEN?	(χρύσεον) χρῡσοῦν
+What is the Neuter Genitive Singular form of the χρῡσοῦς GOLDEN?	(χρῡσέον) χρῡσοῦ
+What is the Neuter Dative Singular form of the χρῡσοῦς GOLDEN?	(χρῡσέῳ) χρῡσῷ
+What is the Neuter Accusative Singular form of the χρῡσοῦς GOLDEN?	(χρόσεον) χρῡσοῦν
+What is the Neuter Nominative and Accusative Dual form of the χρῡσοῦς GOLDEN?	(χρῡσέω) χρῡσώ
+What is the Neuter Genitive and Dative Dual form of the χρῡσοῦς GOLDEN?	(χρῡσέοιν) χρῡσοῖν
+What is the Neuter Nominative Plural form of the χρῡσοῦς GOLDEN?	(χρύσεα) χρῡσᾶ
+What is the Neuter Genitive Plural form of the χρῡσοῦς GOLDEN?	(χρῡσέων) χρῡσῶν
+What is the Neuter Dative Plural form of the χρῡσοῦς GOLDEN?	(χρῡσέοις) χρῡσοῖς
+What is the Neuter Accusative Plural form of the χρῡσοῦς GOLDEN?	(χρύσεα) χρῡσᾶ
+What is the Masculine Nominative Singular form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόος) ἁπλοῦς
+What is the Masculine Genitive Singular form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόου) ἁπλοῦ
+What is the Masculine Dative Singular form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόῳ) ἁπλῷ
+What is the Masculine Accusative Singular form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόον) ἁπλοῦν
+What is the Masculine Nominative and Accusative Dual form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόω) ἁπλώ
+What is the Masculine Genitive and Dative Dual form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόοιν) ἁπλοῖν
+What is the Masculine Nominative Plural form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόοι) ἁπλοῖ
+What is the Masculine Genitive Plural form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόων) ἁπλῶν
+What is the Masculine Dative Plural form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόοις) ἁπλοῖς
+What is the Masculine Accusative Plural form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόους) ἁπλοῦς
+What is the Feminine Nominative Singular form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόη) ἁπλῆ
+What is the Feminine Genitive Singular form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόης) ἁπλῆς
+What is the Feminine Dative Singular form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόῃ) ἁπλῇ
+What is the Feminine Accusative Singular form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόην) ἁπλῆν
+What is the Feminine Nominative and Accusative Dual form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόᾱ) ἁπλᾶ
+What is the Feminine Genitive and Dative Dual form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόαιν) ἁπλαῖν
+What is the Feminine Nominative Plural form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόαι) ἁπλαῖ
+What is the Feminine Genitive Plural form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόων) ἁπλῶν
+What is the Feminine Dative Plural form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόαις) ἁπλαῖς
+What is the Feminine Accusative Plural form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόᾱς) ἁπλᾶς
+What is the Neuter Nominative Singular form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόον) ἁπλοῦν
+What is the Neuter Genitive Singular form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόου) ἁπλοῦ
+What is the Neuter Dative Singular form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόῳ) ἁπλῷ
+What is the Neuter Accusative Singular form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόον) ἁπλοῦν
+What is the Neuter Nominative and Accusative Dual form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόω) ἁπλώ
+What is the Neuter Genitive and Dative Dual form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόοιν) ἁπλοῖν
+What is the Neuter Nominative Plural form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόα) ἁπλᾶ
+What is the Neuter Genitive Plural form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόων) ἁπλῶν
+What is the Neuter Dative Plural form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόις) ἁπλοῖς
+What is the Neuter Accusative Plural form of the ἀπλοῦς SIMPLE  SINCERE?	(ἁπλόα) ἁπλᾶ
+What is the Masculine Nominative Singular form of the ἀργυροῦς OF  SILVER?	(ἀργύρεος) ἀργυροῦς
+What is the Masculine Genitive Singular form of the ἀργυροῦς OF  SILVER?	(ἀργυρέου) ἀργυροῦ
+What is the Masculine Dative Singular form of the ἀργυροῦς OF  SILVER?	(ἀργυρέῳ) ἀργυρῷ
+What is the Masculine Accusative Singular form of the ἀργυροῦς OF  SILVER?	(ἀργύρεον) ἀργυροῦν
+What is the Masculine Nominative and Accusative Dual form of the ἀργυροῦς OF  SILVER?	(ἀργυρέω) ἀργυρώ
+What is the Masculine Genitive and Dative Dual form of the ἀργυροῦς OF  SILVER?	(ἀργυρέοιν) ἀργυροῖν
+What is the Masculine Nominative Plural form of the ἀργυροῦς OF  SILVER?	(ἀργύρεοι) ἀργυροῖ
+What is the Masculine Genitive Plural form of the ἀργυροῦς OF  SILVER?	(ἀργυρέων) ἀργυρῶν
+What is the Masculine Dative Plural form of the ἀργυροῦς OF  SILVER?	(ἀργυρέοις) ἀργυροῖς
+What is the Masculine Accusative Plural form of the ἀργυροῦς OF  SILVER?	(ἀργυρέους) ἀργυροῦς
+What is the Feminine Nominative Singular form of the ἀργυροῦς OF  SILVER?	(ἀργυρέᾱ) ἀργυρᾶ
+What is the Feminine Genitive Singular form of the ἀργυροῦς OF  SILVER?	(ἀργυρέᾱς) ἀργυρᾶς
+What is the Feminine Dative Singular form of the ἀργυροῦς OF  SILVER?	(ἀργυρέᾳ) ἀργυρᾷ
+What is the Feminine Accusative Singular form of the ἀργυροῦς OF  SILVER?	(ἀργυρέᾱν) ἀργυρᾶν
+What is the Feminine Nominative and Accusative Dual form of the ἀργυροῦς OF  SILVER?	(ἀργυρέᾱ) ἀργυρᾶ
+What is the Feminine Genitive and Dative Dual form of the ἀργυροῦς OF  SILVER?	(ἀργυρέαιν) ἀργυραῖν
+What is the Feminine Nominative Plural form of the ἀργυροῦς OF  SILVER?	(ἀργύρεαι) ἀργυραῖ
+What is the Feminine Genitive Plural form of the ἀργυροῦς OF  SILVER?	(ἀργυρέων) ἀργυρῶν
+What is the Feminine Dative Plural form of the ἀργυροῦς OF  SILVER?	(ἀργυρέαις) ἀργυραῖς
+What is the Feminine Accusative Plural form of the ἀργυροῦς OF  SILVER?	(ἀργυρέᾱς) ἀργυρᾶς
+What is the Neuter Nominative Singular form of the ἀργυροῦς OF  SILVER?	(ἀργύρεον) ἀργυροῦν
+What is the Neuter Genitive Singular form of the ἀργυροῦς OF  SILVER?	(ἀργυρέου) ἀργυροῦ
+What is the Neuter Dative Singular form of the ἀργυροῦς OF  SILVER?	(ἀργυρέῳ) ἀργυρῷ
+What is the Neuter Accusative Singular form of the ἀργυροῦς OF  SILVER?	(ἀργύρεον) ἀργυροῦν
+What is the Neuter Nominative and Accusative Dual form of the ἀργυροῦς OF  SILVER?	(ἀργυρέω) ἀργυρώ
+What is the Neuter Genitive and Dative Dual form of the ἀργυροῦς OF  SILVER?	(ἀργυρέοιν) ἀργυροῑν
+What is the Neuter Nominative Plural form of the ἀργυροῦς OF  SILVER?	(ἀργύρεα) ἀργυρᾶ
+What is the Neuter Genitive Plural form of the ἀργυροῦς OF  SILVER?	(ἀργυρέων) ἀργυρῶν
+What is the Neuter Dative Plural form of the ἀργυροῦς OF  SILVER?	(ἀργυρέοις) ἀργυροῖς
+What is the Neuter Accusative Plural form of the ἀργυροῦς OF  SILVER?	(ἀργύρεα) ἀργυρᾶ
+What is the Nominative Singular form of the νοῦς ὁ MIND?	(νόος) νοῦς
+What is the Genitive Singular form of the νοῦς ὁ MIND?	(νόου) νοῦ
+What is the Dative Singular form of the νοῦς ὁ MIND?	(νόῳ) νῷ
+What is the Accusative Singular form of the νοῦς ὁ MIND?	(νόον) νοῦν
+What is the Vocative Singular form of the νοῦς ὁ MIND?	(νόε) νοῦ
+What is the Nominative Accusative and Vocative Dual form of the νοῦς ὁ MIND?	(νόω) νώ
+What is the Genitive and Dative Dual form of the νοῦς ὁ MIND?	(νόοιν) νοῖν
+What is the Nominative and Vocative Plural form of the νοῦς ὁ MIND?	(νόοι) νοῖ
+What is the Genitive Plural form of the νοῦς ὁ MIND?	(νόων) νῶν
+What is the Dative Plural form of the νοῦς ὁ MIND?	(νόοις) νοῖς
+What is the Accusative Plural form of the νοῦς ὁ MIND?	(νόους) νοῦς
+What is the Nominative Singular form of the μνᾶ ἡ MINA?	(μνάᾱ) μνᾶ
+What is the Genitive Singular form of the μνᾶ ἡ MINA?	(μνάᾱς) μνᾶς
+What is the Dative Singular form of the μνᾶ ἡ MINA?	(μνάᾳ) μνᾷ
+What is the Accusative Singular form of the μνᾶ ἡ MINA?	(μνάᾱν) μνᾶν
+What is the Vocative Singular form of the μνᾶ ἡ MINA?	(μνάᾱ) μνᾶ
+What is the Nominative Accusative and Vocative Dual form of the μνᾶ ἡ MINA?	(μνάᾱ) μνᾶ
+What is the Genitive and Dative Dual form of the μνᾶ ἡ MINA?	(μνάαιν) μναῖν
+What is the Nominative and Vocative Plural form of the μνᾶ ἡ MINA?	(μνάαι) μναῖ
+What is the Genitive Plural form of the μνᾶ ἡ MINA?	(μναῶν) μνῶν
+What is the Dative Plural form of the μνᾶ ἡ MINA?	(μνάαις) μναῖς
+What is the Accusative Plural form of the μνᾶ ἡ MINA?	(μνάᾱς) μνᾶς
+What is the Nominative Singular form of the γῆ ἡ EARTH?	(γέᾱ) γῆ
+What is the Genitive Singular form of the γῆ ἡ EARTH?	(γέᾱς) γῆς
+What is the Dative Singular form of the γῆ ἡ EARTH?	(γέᾳ) γῇ
+What is the Accusative Singular form of the γῆ ἡ EARTH?	(γέᾱν) γῆν
+What is the Vocative Singular form of the γῆ ἡ EARTH?	(γέᾱ) γῆ

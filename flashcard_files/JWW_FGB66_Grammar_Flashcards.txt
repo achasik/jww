@@ -1,0 +1,31 @@
+tags:JWW_FGB66_Grammar
+What is the Nominative Singular form of the Masculine Declension of εἷς μία ἕν?	εἷς
+What is the Genitive Singular form of the Masculine Declension of εἷς μία ἕν?	ἑνός
+What is the Dative Singular form of the Masculine Declension of εἷς μία ἕν?	ἑνί
+What is the Accusative Singular form of the Masculine Declension of εἷς μία ἕν?	ἕνα
+What is the Nominative Singular form of the Feminine Declension of εἷς μία ἕν?	μία
+What is the Genitive Singular form of the Feminine Declension of εἷς μία ἕν?	μιᾶς
+What is the Dative Singular form of the Feminine Declension of εἷς μία ἕν?	μιᾷ
+What is the Accusative Singular form of the Feminine Declension of εἷς μία ἕν?	μίαν
+What is the Nominative Singular form of the Neuter Declension of εἷς μία ἕν?	ἕν
+What is the Genitive Singular form of the Neuter Declension of εἷς μία ἕν?	ἑνός
+What is the Dative Singular form of the Neuter Declension of εἷς μία ἕν?	ἑνί
+What is the Accusative Singular form of the Neuter Declension of εἷς μία ἕν?	ἕν
+What is the Nominative and Accusative Dual form of the Declension of δύο?	δύο
+What is the Genitive and Dative Dual form of the Declension of δύο?	δυοῖν
+What is the Nominative Plural form of the Masculine and Feminine Declension of τρεῖς τρία?	τρεῖς
+What is the Genitive Plural form of the Masculine and Feminine Declension of τρεῖς τρία?	τριῶν
+What is the Dative Plural form of the Masculine and Feminine Declension of τρεῖς τρία?	τρισἰ
+What is the Accusative Plural form of the Masculine and Feminine Declension of τρεῖς τρία?	τρεῖς
+What is the Nominative Plural form of the Neuter Declension of τρεῖς τρία?	τρία
+What is the Genitive Plural form of the Neuter Declension of τρεῖς τρία?	τριῶν
+What is the Dative Plural form of the Neuter Declension of τρεῖς τρία?	τρισἰ
+What is the Accusative Plural form of the Neuter Declension of τρεῖς τρία?	τρία
+What is the Nominative Plural form of the Neuter Declension of τέτταρες τέτταρα?	τέτταρες
+What is the Genitive Plural form of the Neuter Declension of τέτταρες τέτταρα?	τεττάρων
+What is the Dative Plural form of the Neuter Declension of τέτταρες τέτταρα?	τέτταρσι
+What is the Accusative Plural form of the Neuter Declension of τέτταρες τέτταρα?	τέτταρας
+What is the Nominative Plural form of the Neuter Declension of τέτταρες τέτταρα?	τέτταρα
+What is the Genitive Plural form of the Neuter Declension of τέτταρες τέτταρα?	τεττάρων
+What is the Dative Plural form of the Neuter Declension of τέτταρες τέτταρα?	τέτταρσι
+What is the Accusative Plural form of the Neuter Declension of τέτταρες τέτταρα?	τέτταρα

@@ -1,0 +1,47 @@
+tags:JWW_FGB66_Vocabulary
+What is the Greek word for 1?	εἷς μία ἕν
+What is the Greek word for 2?	δύο
+What is the Greek word for 3?	τρεῖς τρία
+What is the Greek word for 4?	τέτταρες τέτταρα
+What is the Greek word for 5?	πέντε
+What is the Greek word for 6?	ἕξ
+What is the Greek word for 7?	ἑπτά
+What is the Greek word for 8?	ὀκτώ
+What is the Greek word for 9?	ἐννέα
+What is the Greek word for 10?	δέκα
+What is the Greek word for 11?	ἕνδεκα
+What is the Greek word for 12?	δώδεκα
+What is the translation of εἷς μία ἕν (one)?	1
+What is the translation of δύο (two) ?	2
+What is the translation of τρεῖς τρία?	3
+What is the translation of τέτταρες τέτταρα?	4
+What is the translation of πέντε?	5
+What is the translation of ἕξ?	6
+What is the translation of ἑπτά?	7
+What is the translation of ὀκτώ?	8
+What is the translation of ἐννέα?	9
+What is the translation of δέκα?	10
+What is the translation of ἕνδεκα?	11
+What is the translation of δώδεκα?	12
+What does ἀπο-τέμνω mean?	cut off intercept.
+What does ἐγ-κέφαλος ου ὁ (cf. κεφαλή) mean?	brain; of the palm tree crown cabbage.
+What does ἐξ-οπλισίᾱ ᾱς ἡ (cf. ὁπλιζω) mean?	state of being armed; ἐν τῇ ἐξοπλισίᾳ under arms.
+What does ἐσθίω (ἐσθι ἐδ φαγ) ἔδομαι ἔφαγον ἐδήδοκα ἐδήδεσμαι ἠδέσθην mean?	eat live on.
+What does κεφαλή ῆς ἡ mean?	head.
+What does Κρής Κρητός ὁ mean?	a Cretan.
+What does ὁράω (ὁρα ἰδ ὀπ) ὄψομαι εἶδον ἑόρᾱκα and ἑώρᾱκα ἑώρᾱμαι and ὦμμαι ὤφθην mean?	see in its widest sense behold look observe perceive.
+What does ὀφείλω (ὀφελ) ὀφειλήσω ὠφείλησα and ὤφελον ὠφείληκα ὠφειλήθην mean?	owe; pass. be due.
+What does ποῦ mean?	interr. adv. where?
+What does προσ-έρχομαι mean?	come on or up approach.
+What does τέμνω (τεμ) τεμῶ ἔτεμον and ἔταμον τέτμηκα τέτμημαι ἐτμήθην mean?	cut.
+What is the Greek word for cut off intercept?	ἀπο-τέμνω
+What is the Greek word for brain; of the palm tree crown cabbage?	ἐγ-κέφαλος ου ὁ (cf. κεφαλή)
+What is the Greek word for state of being armed; ἐν τῇ ἐξοπλισίᾳ under arms?	ἐξ-οπλισίᾱ ᾱς ἡ (cf. ὁπλιζω)
+What is the Greek word for eat live on?	ἐσθίω (ἐσθι ἐδ φαγ) ἔδομαι ἔφαγον ἐδήδοκα ἐδήδεσμαι ἠδέσθην
+What is the Greek word for head?	κεφαλή ῆς ἡ
+What is the Greek word for a Cretan?	Κρής Κρητός ὁ
+What is the Greek word for see in its widest sense behold look observe perceive?	ὁράω (ὁρα ἰδ ὀπ) ὄψομαι εἶδον ἑόρᾱκα and ἑώρᾱκα ἑώρᾱμαι and ὦμμαι ὤφθην
+What is the Greek word for owe; pass. be due?	ὀφείλω (ὀφελ) ὀφειλήσω ὠφείλησα and ὤφελον ὠφείληκα ὠφειλήθην
+What is the Greek word for interr. adv. where??	ποῦ
+What is the Greek word for come on or up approach?	προσ-έρχομαι
+What is the Greek word for cut?	τέμνω (τεμ) τεμῶ ἔτεμον and ἔταμον τέτμηκα τέτμημαι ἐτμήθην

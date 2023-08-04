@@ -1,0 +1,33 @@
+tags:JWW_FGB28_Grammar
+What is the First Person Singular form of the Present Active Indicative of τῑμάω?	(τῑμάω) τῑμῶ
+What is the Second Person Singular form of the Present Active Indicative of τῑμάω?	(τῑμάεις) τῑμᾷς
+What is the Third Person Singular form of the Present Active Indicative of τῑμάω?	(τῑμάει) τῑμᾷ
+What is the Second Person Dual form of the Present Active Indicative of τῑμάω?	(τῑμάετον) τῑμᾶτον
+What is the Third Person Dual form of the Present Active Indicative of τῑμάω?	(τῑμάετον) τῑμᾶτον
+What is the First Person Plural form of the Present Active Indicative of τῑμάω?	(τῑμάομεν) τῑμῶμεν
+What is the Second Person Plural form of the Present Active Indicative of τῑμάω?	(τῑμάετε) τῑμᾶτε
+What is the Third Person Plural form of the Present Active Indicative of τῑμάω?	(τῑμάουσι) τῑμῶσι
+What is the First Person Singular form of the Present Middle and Passive Indicative of τῑμάω?	(τῑμάομαι) τῑμῶμαι
+What is the Second Person Singular form of the Present Middle and Passive Indicative of τῑμάω?	(τῑμάει) τῑμᾷ
+What is the Third Person Singular form of the Present Middle and Passive Indicative of τῑμάω?	(τῑμάεται) τῑμᾶται
+What is the Second Person Dual form of the Present Middle and Passive Indicative of τῑμάω?	(τῑμάεσθον) τῑμᾶσθον
+What is the Third Person Dual form of the Present Middle and Passive Indicative of τῑμάω?	(τῑμάεσθον) τῑμᾶσθον
+What is the First Person Plural form of the Present Middle and Passive Indicative of τῑμάω?	(τῑμαόμεθα) τῑμώμεθα
+What is the Second Person Plural form of the Present Middle and Passive Indicative of τῑμάω?	(τῑμάεσθε) τῑμᾶσθε
+What is the Third Person Plural form of the Present Middle and Passive Indicative of τῑμάω?	(τῑμάονται) τῑμῶνται
+What is the First Person Singular form of the Imperfect Active Indicative of τῑμάω?	(ἐτίμαον) ἐτίμων
+What is the Second Person Singular form of the Imperfect Active Indicative of τῑμάω?	(ἐτίμαες) ἐτίμᾱς
+What is the Third Person Singular form of the Imperfect Active Indicative of τῑμάω?	(ἐτίμαε) ἐτίμᾱ
+What is the Second Person Dual form of the Imperfect Active Indicative of τῑμάω?	(ἐτῑμάετον) ἐτῑμᾶτον
+What is the Third Person Dual form of the Imperfect Active Indicative of τῑμάω?	(ἐτῑμαέτην) ἐτῑμάτην
+What is the First Person Plural form of the Imperfect Active Indicative of τῑμάω?	(ἐτῑμάομεν) ἐτῑμῶμεν
+What is the Second Person Plural form of the Imperfect Active Indicative of τῑμάω?	(ἐτῑμάετε) ἐτῑμᾶτε
+What is the Third Person Plural form of the Imperfect Active Indicative of τῑμάω?	(ἐτίμαον) ἐτίμων
+What is the First Person Singular form of the Imperfect Middle and Passive Indicative of τῑμάω?	(ἐτῑμαόμην) ἐτῑμώμην
+What is the Second Person Singular form of the Imperfect Middle and Passive Indicative of τῑμάω?	(ἐτῑμάου) ἐτῑμῶ
+What is the Third Person Singular form of the Imperfect Middle and Passive Indicative of τῑμάω?	(ἐτῑμάετο) ἐτῑμᾶτο
+What is the Second Person Dual form of the Imperfect Middle and Passive Indicative of τῑμάω?	(ἐτῑμάεσθον) ἐτῑμᾶσθον
+What is the Third Person Dual form of the Imperfect Middle and Passive Indicative of τῑμάω?	(ἐτῑμαέσθην) ἐτῑμάσθην
+What is the First Person Plural form of the Imperfect Middle and Passive Indicative of τῑμάω?	(ἐτῑμαόμεθα) ἐτῑμώμεθα
+What is the Second Person Plural form of the Imperfect Middle and Passive Indicative of τῑμάω?	(ἐτῑμάεσθε) ἐτῑμᾶσθε
+What is the Third Person Plural form of the Imperfect Middle and Passive Indicative of τῑμάω?	(ἐτῑμάοντο) ἐτῑμῶντο

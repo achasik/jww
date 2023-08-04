@@ -1,0 +1,23 @@
+tags:JWW_FGB12_Vocabulary
+What is the best translation of δι-αρπάζω δι-αρπάσω δι-ήρπασα διήρπακα?	plunder completely sack.
+What is the best translation of θύω θύσω ἔθῡσα τέθυκα?	sacrifice.
+What is the best translation of στρατεύω στρατεύσω ἐστράτευσα ἐστράτευκα (cf. στρατιά στρατιώτης)?	make an expedition.
+What is the best translation of δᾱρεικός οῦ ὁ?	daric (a gold coin).
+What is the best translation of θεός οῦ ὁ ἡ?	god goddess.
+What is the best translation of Κλέαρχος ου ὁ?	Clearchus.
+What is the best translation of ὅρκος ου ὁ?	oath.
+What is the best translation of φόβος ου (cf. φοβερός) ὁ?	fear.
+What is the best translation of γάρ?	conj. for (a postpositive).
+What is the best translation of διά?	prep.: with gen. through; with acc. on account of.
+What is the best translation of πρός?	prep.: with gen. over against; with dat. at; with acc. to against towards.
+What is the Greek word for plunder completely sack?	δι-αρπάζω δι-αρπάσω δι-ήρπασα διήρπακα
+What is the Greek word for sacrifice?	θύω θύσω ἔθῡσα τέθυκα
+What is the Greek word for make an expedition?	στρατεύω στρατεύσω ἐστράτευσα ἐστράτευκα (cf. στρατιά στρατιώτης)
+What is the Greek word for daric (a gold coin)?	δᾱρεικός οῦ ὁ
+What is the Greek word for god goddess?	θεός οῦ ὁ ἡ
+What is the Greek word for Clearchus?	Κλέαρχος ου ὁ
+What is the Greek word for oath?	ὅρκος ου ὁ
+What is the Greek word for fear?	φόβος ου (cf. φοβερός) ὁ
+What is the Greek word for conj. for (a postpositive)?	γάρ
+What is the Greek word for prep.: with gen. through; with acc. on account of?	διά
+What is the Greek word for prep.: with gen. over against; with dat. at; with acc. to against towards?	πρός

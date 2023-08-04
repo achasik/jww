@@ -1,0 +1,5 @@
+tags:JWW_FGB24_Grammar
+Which prepositions take only the dative?	ἐν (in) and σύν (with).
+Which prepositions take only the accusative?	ἀνά (up) and εἰς (into).
+Which prepositions take either the genitive or the accusative?	ἀμφί (about) διά (through on account of) κατά (down) μετά (in company with after) and ὑπέρ (over).
+Which prepositions take either the genitive the dative or the accusative?	ἐπί (on upon) παρά (alongside of beside) περί (round about) πρός (over against at to) and ὑπό (under).

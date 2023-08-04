@@ -1,0 +1,25 @@
+tags:JWW_FGB54_Vocabulary
+What does αὐτόθι (cf. αὐτός) mean?	adv. here there.
+What does βαθύς εῖα ύ mean?	deep.
+What does ἐγγύς mean?	adv. near at hand.
+What does ἡδύς εῖα ύ (cf. ἥδομαι) mean?	sweet pleasant.
+What does ἥμισυς εια υ mean?	half.
+What does κρήνη ης ἡ mean?	well.
+What does μέγας μεγάλη μέγα mean?	great large.
+What does ὄπισθεν mean?	adv. behind in the rear.
+What does πολύς πολλή πολύ mean?	much many; πολύ as adv. much far.
+What does σκηνέω σκηνήσω ἐσκήνησα (cf. σκηνή) mean?	be in camp.
+What does τάφρος ου ἡ mean?	ditch trench.
+What does ὕδωρ ὕδατος τό mean?	water.
+What is the Greek word for adv. here there?	αὐτόθι (cf. αὐτός)
+What is the Greek word for deep?	βαθύς εῖα ύ
+What is the Greek word for adv. near at hand?	ἐγγύς
+What is the Greek word for sweet pleasant?	ἡδύς εῖα ύ (cf. ἥδομαι)
+What is the Greek word for half?	ἥμισυς εια υ
+What is the Greek word for well?	κρήνη ης ἡ
+What is the Greek word for great large?	μέγας μεγάλη μέγα
+What is the Greek word for adv. behind in the rear?	ὄπισθεν
+What is the Greek word for much many; πολύ as adv. much far?	πολύς πολλή πολύ
+What is the Greek word for be in camp?	σκηνέω σκηνήσω ἐσκήνησα (cf. σκηνή)
+What is the Greek word for ditch trench?	τάφρος ου ἡ
+What is the Greek word for water?	ὕδωρ ὕδατος τό

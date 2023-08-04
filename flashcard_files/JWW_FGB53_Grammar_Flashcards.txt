@@ -1,0 +1,97 @@
+tags:JWW_FGB53_Grammar
+What is the Nominative Singular Vocative Singular form of the Masculine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυόμενος
+What is the Genitive Singular form of the Masculine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένου
+What is the Dative Singular form of the Masculine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένῳ
+What is the Accusative Singular form of the Masculine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυόμενον
+What is the Nominative and Vocative Plural form of the Masculine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυόμενοι
+What is the Genitive Plural form of the Masculine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένων
+What is the Dative Plural form of the Masculine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένοις
+What is the Accusative Plural form of the Masculine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένους
+What is the Nominative Singular Vocative Singular form of the Feminine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένη
+What is the Genitive Singular form of the Feminine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένης
+What is the Dative Singular form of the Feminine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένῃ
+What is the Accusative Singular form of the Feminine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένην
+What is the Nominative and Vocative Plural form of the Feminine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυόμεναι
+What is the Genitive Plural form of the Feminine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομενῶν
+What is the Dative Plural form of the Feminine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομέναις
+What is the Accusative Plural form of the Feminine Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένας
+What is the Nominative Singular Vocative Singular form of the Neuter Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυόμενον
+What is the Genitive Singular form of the Neuter Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένου
+What is the Dative Singular form of the Neuter Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένῳ
+What is the Accusative Singular form of the Neuter Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυόμενον
+What is the Nominative and Vocative Plural form of the Neuter Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυόμενα
+What is the Genitive Plural form of the Neuter Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένων
+What is the Dative Plural form of the Neuter Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυομένοις
+What is the Accusative Plural form of the Neuter Present Middle and Passive Participle of λύω (λῡό-μενος -η -ον)?	λυόμενα
+What is the Nominative Singular Vocative Singular form of the Masculine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσάμενος
+What is the Genitive Singular form of the Masculine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμένου
+What is the Dative Singular form of the Masculine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμένῳ
+What is the Accusative Singular form of the Masculine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσάμενον
+What is the Nominative and Vocative Plural form of the Masculine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσάμενοι
+What is the Genitive Plural form of the Masculine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμενῶν
+What is the Dative Plural form of the Masculine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμένοις
+What is the Accusative Plural form of the Masculine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμένους
+What is the Nominative Singular Vocative Singular form of the Feminine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμένη
+What is the Genitive Singular form of the Feminine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμένης
+What is the Dative Singular form of the Feminine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμένῃ
+What is the Accusative Singular form of the Feminine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμένην
+What is the Nominative and Vocative Plural form of the Feminine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσάμεναι
+What is the Genitive Plural form of the Feminine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμενῶν
+What is the Dative Plural form of the Feminine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμέναις
+What is the Accusative Plural form of the Feminine Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμένας
+What is the Nominative Singular Vocative Singular form of the Neuter Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσάμενον
+What is the Genitive Singular form of the Neuter Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμένου
+What is the Dative Singular form of the Neuter Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμένῳ
+What is the Accusative Singular form of the Neuter Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσάμενον
+What is the Nominative and Vocative Plural form of the Neuter Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσάμενα
+What is the Genitive Plural form of the Neuter Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμενῶν
+What is the Dative Plural form of the Neuter Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσαμένοις
+What is the Accusative Plural form of the Neuter Aorist Middle Participle of λύω (λῡσά-μενος -η -ον)?	λυσάμενα
+What is the Nominative Singular Vocative Singular form of the Masculine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθείς
+What is the Genitive Singular form of the Masculine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέντος
+What is the Dative Singular form of the Masculine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέντῳ
+What is the Accusative Singular form of the Masculine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέντα
+What is the Nominative and Vocative Plural form of the Masculine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέντες
+What is the Genitive Plural form of the Masculine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέντων
+What is the Dative Plural form of the Masculine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέσι
+What is the Accusative Plural form of the Masculine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέντας
+What is the Nominative Singular Vocative Singular form of the Feminine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθεῖσα
+What is the Genitive Singular form of the Feminine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθείσης
+What is the Dative Singular form of the Feminine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθείσῃ
+What is the Accusative Singular form of the Feminine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθεῖσαν
+What is the Nominative and Vocative Plural form of the Feminine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθεῖσαι
+What is the Genitive Plural form of the Feminine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθεισῶν
+What is the Dative Plural form of the Feminine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθείσαις
+What is the Accusative Plural form of the Feminine Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθείσας
+What is the Nominative Singular Vocative Singular form of the Neuter Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέν
+What is the Genitive Singular form of the Neuter Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέντος
+What is the Dative Singular form of the Neuter Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέντῳ
+What is the Accusative Singular form of the Neuter Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέν
+What is the Nominative and Vocative Plural form of the Neuter Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέντα
+What is the Genitive Plural form of the Neuter Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέντων
+What is the Dative Plural form of the Neuter Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέσι
+What is the Accusative Plural form of the Neuter Aorist Passive Participle of λύω (λυθείς -εῖσα -έν)?	λυθέντα
+What is the Nominative Singular Vocative Singular form of the Masculine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένος
+What is the Genitive Singular form of the Masculine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένου
+What is the Dative Singular form of the Masculine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένῳ
+What is the Accusative Singular form of the Masculine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένον
+What is the Nominative and Vocative Plural form of the Masculine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένοι
+What is the Genitive Plural form of the Masculine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένων
+What is the Dative Plural form of the Masculine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένοις
+What is the Accusative Plural form of the Masculine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένους
+What is the Nominative Singular Vocative Singular form of the Feminine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένη
+What is the Genitive Singular form of the Feminine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένης
+What is the Dative Singular form of the Feminine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένῃ
+What is the Accusative Singular form of the Feminine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένην
+What is the Nominative and Vocative Plural form of the Feminine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμέναι
+What is the Genitive Plural form of the Feminine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμενῶν
+What is the Dative Plural form of the Feminine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμέναις
+What is the Accusative Plural form of the Feminine Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένας
+What is the Nominative Singular Vocative Singular form of the Neuter Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένον
+What is the Genitive Singular form of the Neuter Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένου
+What is the Dative Singular form of the Neuter Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένῳ
+What is the Accusative Singular form of the Neuter Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένον
+What is the Nominative and Vocative Plural form of the Neuter Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένα
+What is the Genitive Plural form of the Neuter Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένων
+What is the Dative Plural form of the Neuter Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένοις
+What is the Accusative Plural form of the Neuter Perfect Middle and Passive Participle of λύω (λελυμένος -η -ον)?	λελυμένα

@@ -1,0 +1,23 @@
+tags:JWW_FGB11_Vocabulary
+What is the best translation of Εὐφράτης ου ὁ?	the Euphrates.
+What is the best translation of νεᾶνίᾶς ου ὀ?	young man.
+What is the best translation of ὁπλΐτης ου ὁ (cf.ὅπλον)?	heavy- armed foot soldier hoplite.
+What is the best translation of πελταστής οῦ ὁ?	targeteer (named his shield πέλτη).
+What is the best translation of Πέροσης ου ὁ?	a Persian.
+What is the best translation of στατιώτης ου (cf. στρατά) ὁ?	soldier.
+What is the best translation of τοξότης ου ὁ?	bowman (named from his bow τόξον).
+What is the best translation of δεξιός ά όν?	right (as opposed to left).
+What is the best translation of τριᾶκόστιοι αι α?	300
+What is the best translation of οὔτε. . . οὔτε?	adv. neither. . . nor.
+What is the best translation of σύν?	with dat. with in company with Lat. cum.
+What is the Greek word for the Euphrates?	Εὐφράτης ου ὁ
+What is the Greek word for young man?	νεᾶνίᾶς ου ὀ
+What is the Greek word for heavy- armed foot soldier hoplite?	ὁπλΐτης ου ὁ (cf.ὅπλον)
+What is the Greek word for targeteer (named his shield πέλτη)?	πελταστής οῦ ὁ
+What is the Greek word for a Persian?	Πέροσης ου ὁ
+What is the Greek word for soldier?	στατιώτης ου (cf. στρατά) ὁ
+What is the Greek word for bowman (named from his bow τόξον)?	τοξότης ου ὁ
+What is the Greek word for right (as opposed to left)?	δεξιός ά όν
+What is the Greek word for 300?	τριᾶκόστιοι αι α
+What is the Greek word for adv. neither. . . nor?	οὔτε. . . οὔτε
+What is the Greek word for with dat. with in company with Lat. cum?	σύν

@@ -1,0 +1,18 @@
+tags:JWW_FGB8_Vocabulary
+What is the best translation of ἀγαθός ἀγαθή ἀγαθόν?	good.
+What is the best translation of μακρός μακρά μακρόν?	long.
+What is the best translation of Ἑλληνικός Ἑλληνική Ἑλληνικόν?	Greek.
+What is the best translation of μῑκρός μῑκρά μῑκρόν?	little.
+What is the best translation of κακός κακή κακόν?	bad cowardly.
+What is the best translation of στενός στενή στενόν?	narrow.
+What is the best translation of καλός καλή καλόν?	beautiful.
+What is the best translation of φοβερός φοβερά φοβερόν?	frightful.
+What is the best translation of ἄνθρωπος ου ὁ ἡ?	man human being.
+What is the best translation of ἵππος ου ὁ?	horse.
+What is the best translation of λόγος ου ὁ?	word speech.
+What is the best translation of πόλεμος ου ὁ?	war.
+What is the best translation of σύμμαχος ου ὁ?	ally.
+What is the best translation of δῶρον ου τό?	gift.
+What is the best translation of πεδίον ου τό?	plain.
+What is the best translation of χωρίον ου τό (cf. χώρᾱ)?	small place place spot.
+What is the best translation of καὶ . . . καί?	both . . . and.

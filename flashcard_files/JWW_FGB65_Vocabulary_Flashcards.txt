@@ -1,0 +1,23 @@
+tags:JWW_FGB65_Vocabulary
+What does αἱρέω (αἱρε ἑλ) αἱρήσω εἷλον ᾕρηκα ᾕρημαι ᾑρέθην mean?	take seize capture; mid. take for oneself choose prefer elect side with.
+What does ἀπο-θνῄσκω mean?	die off die be killed fall in battle.
+What does εἶπον (εἰπ ἐρ ῥε) ἐρῶ εἴρηκα εἴρημαι ἐρρήθην mean?	say speak tell order.
+What does ἐμ-πίπτω mean?	fall upon.
+What does θνῄσκω (θαν) θανοῦμαι ἔθανον ἔθανον τέθνηκα (cf. θάνατος) mean?	die; perf. be dead.
+What does πάσχω (παθ πενθ) πείσομαι ἔπαθον πέπονθα mean?	experience suffer; εὖ παθεῖν be well treated.
+What does πίπτω (πετ πτο) πεσοῦμαι ἔπεσον πέπτωκα mean?	fall.
+What does προ-τρέχω mean?	run forward or ahead.
+What does πυνθάνομαι (πυθ) πεύσομαι ἐπυθόμην πέπυσμαι mean?	inquire learn by inquiry ascertain find out.
+What does τρέχω (τρεχ δραμ) δραμοῦμαι ἔδραμον δεδράμηκα δεδράμημαι mean?	run.
+What does ὤνιος ᾱ ον mean?	purchasable; τὰ ὤνια wares goods.
+What is the Greek word for take seize capture; mid. take for oneself choose prefer elect side with?	αἱρέω (αἱρε ἑλ) αἱρήσω εἷλον ᾕρηκα ᾕρημαι ᾑρέθην
+What is the Greek word for die off die be killed fall in battle?	ἀπο-θνῄσκω
+What is the Greek word for say speak tell order?	εἶπον (εἰπ ἐρ ῥε) ἐρῶ εἴρηκα εἴρημαι ἐρρήθην
+What is the Greek word for fall upon?	ἐμ-πίπτω
+What is the Greek word for die; perf. be dead?	θνῄσκω (θαν) θανοῦμαι ἔθανον ἔθανον τέθνηκα (cf. θάνατος)
+What is the Greek word for experience suffer; εὖ παθεῖν be well treated?	πάσχω (παθ πενθ) πείσομαι ἔπαθον πέπονθα
+What is the Greek word for fall?	πίπτω (πετ πτο) πεσοῦμαι ἔπεσον πέπτωκα
+What is the Greek word for run forward or ahead?	προ-τρέχω
+What is the Greek word for inquire learn by inquiry ascertain find out?	πυνθάνομαι (πυθ) πεύσομαι ἐπυθόμην πέπυσμαι
+What is the Greek word for run?	τρέχω (τρεχ δραμ) δραμοῦμαι ἔδραμον δεδράμηκα δεδράμημαι
+What is the Greek word for purchasable; τὰ ὤνια wares goods?	ὤνιος ᾱ ον

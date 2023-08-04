@@ -1,0 +1,51 @@
+tags:JWW_FGB78_Grammar
+What is the First Person Singular form of the Perfect Active Indicative of ἵστημι SET?	ἔ-στα-κα
+What is the Second Person Singular form of the Perfect Active Indicative of ἵστημι SET?	ἔ-στα-κας
+What is the Third Person Singular form of the Perfect Active Indicative of ἵστημι SET?	ἔ-στα-κε
+What is the First Person Plural form of the Perfect Active Indicative of ἵστημι SET?	ἔ-στα-μεν
+What is the Second Person Plural form of the Perfect Active Indicative of ἵστημι SET?	ἔ-στα-τε
+What is the Third Person Plural form of the Perfect Active Indicative of ἵστημι SET?	ἔ-στα-σι(ν)
+What is the First Person Singular form of the Perfect Active Subjunctive of ἵστημι SET?	ἑ-στῶ
+What is the Second Person Singular form of the Perfect Active Subjunctive of ἵστημι SET?	ἑ-στῇς
+What is the Third Person Singular form of the Perfect Active Subjunctive of ἵστημι SET?	ἑ-στῇ
+What is the First Person Plural form of the Perfect Active Subjunctive of ἵστημι SET?	ἑ-στῶ-μεν
+What is the Second Person Plural form of the Perfect Active Subjunctive of ἵστημι SET?	ἑ-στῆ-τε
+What is the Third Person Plural form of the Perfect Active Subjunctive of ἵστημι SET?	ἑ-στῶ-σι(ν)
+What is the First Person Singular form of the Perfect Active Optative of ἵστημι SET?	ἑ-σταίη-ν
+What is the Second Person Singular form of the Perfect Active Optative of ἵστημι SET?	ἑ-σταίη-ς
+What is the Third Person Singular form of the Perfect Active Optative of ἵστημι SET?	ἑ-σταίη
+What is the First Person Plural form of the Perfect Active Optative of ἵστημι SET?	ἑ-σταῖ-μεν
+What is the Second Person Plural form of the Perfect Active Optative of ἵστημι SET?	ἑ-σταῖ-τε
+What is the Third Person Plural form of the Perfect Active Optative of ἵστημι SET?	ἑ-σταῖε-ν
+What is the First Person Singular form of the Perfect Active Indicative of οἶδα KNOW?	οἶδα
+What is the Second Person Singular form of the Perfect Active Indicative of οἶδα KNOW?	οἶσθα
+What is the Third Person Singular form of the Perfect Active Indicative of οἶδα KNOW?	οἶδε
+What is the Second Person Dual form of the Perfect Active Indicative of οἶδα KNOW?	ἴστον
+What is the Third Person Dual form of the Perfect Active Indicative of οἶδα KNOW?	ἴστον
+What is the First Person Plural form of the Perfect Active Indicative of οἶδα KNOW?	ἴσμεν
+What is the Second Person Plural form of the Perfect Active Indicative of οἶδα KNOW?	ἴστε
+What is the Third Person Plural form of the Perfect Active Indicative of οἶδα KNOW?	ἴσᾱσι
+What is the First Person Singular form of the Pluperfect Active Indicative of οἶδα KNOW?	ᾔδη or ᾔδειν
+What is the Second Person Singular form of the Pluperfect Active Indicative of οἶδα KNOW?	ᾔδησθα or ᾔδεισθα
+What is the Third Person Singular form of the Pluperfect Active Indicative of οἶδα KNOW?	ᾔδει or ᾔδειν
+What is the Second Person Dual form of the Pluperfect Active Indicative of οἶδα KNOW?	ᾖστον
+What is the Third Person Dual form of the Pluperfect Active Indicative of οἶδα KNOW?	ᾔστην
+What is the First Person Plural form of the Pluperfect Active Indicative of οἶδα KNOW?	ᾖσμεν
+What is the Second Person Plural form of the Pluperfect Active Indicative of οἶδα KNOW?	ᾖστε
+What is the Third Person Plural form of the Pluperfect Active Indicative of οἶδα KNOW?	ᾖσαν or ᾔδεσαν
+What is the First Person Singular form of the Perfect Active Subjunctive of οἶδα KNOW?	εἰδῶ
+What is the Second Person Singular form of the Perfect Active Subjunctive of οἶδα KNOW?	εἰδῇς
+What is the Third Person Singular form of the Perfect Active Subjunctive of οἶδα KNOW?	εἰδῇ
+What is the Second Person Dual form of the Perfect Active Subjunctive of οἶδα KNOW?	εἰδῆτον
+What is the Third Person Dual form of the Perfect Active Subjunctive of οἶδα KNOW?	εἰδῆτον
+What is the First Person Plural form of the Perfect Active Subjunctive of οἶδα KNOW?	εἰδῶμεν
+What is the Second Person Plural form of the Perfect Active Subjunctive of οἶδα KNOW?	εἰδῆτε
+What is the Third Person Plural form of the Perfect Active Subjunctive of οἶδα KNOW?	εἰδῶσι
+What is the First Person Singular form of the Perfect Active Optative of οἶδα KNOW?	εἰδείην
+What is the Second Person Singular form of the Perfect Active Optative of οἶδα KNOW?	εἰδείης
+What is the Third Person Singular form of the Perfect Active Optative of οἶδα KNOW?	εἰδείη
+What is the Second Person Dual form of the Perfect Active Optative of οἶδα KNOW?	εἰδεῖτον
+What is the Third Person Dual form of the Perfect Active Optative of οἶδα KNOW?	εἰδείτην
+What is the First Person Plural form of the Perfect Active Optative of οἶδα KNOW?	εἰδεῖμεν or εἰδείημεν
+What is the Second Person Plural form of the Perfect Active Optative of οἶδα KNOW?	εἰδεῖτε or εἰδείητε
+What is the Third Person Plural form of the Perfect Active Optative of οἶδα KNOW?	εἰδεῖεν or εἰδείησαν

@@ -1,0 +1,25 @@
+tags:JWW_FGB19_Grammar
+What is the First Person Singular Present Indicative Middle form of the verb λύω?	λύο-μαι
+What is the Second Person Singular Present Indicative Middle form of the verb λύω?	λύει
+What is the Third Person Singular Present Indicative Middle form of the verb λύω?	λύε-ται
+What is the Second Person Dual Present Indicative Middle form of the verb λύω?	λύε-σθον
+What is the Third Person Dual Present Indicative Middle form of the verb λύω?	λύε-σθον
+What is the First Person Plural Present Indicative Middle form of the verb λύω?	λῡό-μεθα
+What is the Second Person Plural Present Indicative Middle form of the verb λύω?	λύε-σθε
+What is the Third Person Plural Present Indicative Middle form of the verb λύω?	λύο-νται
+What is the First Person Singular form of the Imperfect Indicative Middle of λύω?	ἐ-λῡό-μην
+What is the Second Person Singular form of the Imperfect Indicative Middle of λύω?	ἐ-λύου
+What is the Third Person Singular form of the Imperfect Indicative Middle of λύω?	ἐ-λύε-το
+What is the Second Person Dual form of the Imperfect Indicative Middle of λύω?	ἐ-λύε-σθον
+What is the Third Person Dual form of the Imperfect Indicative Middle of λύω?	ἐ-λῡέ-σθην
+What is the First Person Plural form of the Imperfect Indicative Middle of λύω?	ἐ-λῡό-μεθα
+What is the Second Person Plural form of the Imperfect Indicative Middle of λύω?	ἐ-λύε-σθε
+What is the Third Person Plural form of the Imperfect Indicative Middle of λύω?	ἐ-λύο-ντο
+What is the First Person Singular form of the Future Indicative Middle of λύω?	λύσο-μαι
+What is the Second Person Singular form of the Future Indicative Middle of λύω?	λύσει
+What is the Third Person Singular form of the Future Indicative Middle of λύω?	λύσε-ται
+What is the Second Person Dual form of the Future Indicative Middle of λύω?	λύσε-σθον
+What is the Third Person Dual form of the Future Indicative Middle of λύω?	λύσε-σθον
+What is the First Person Plural form of the Future Indicative Middle of λύω?	λῡσό-μεθα
+What is the Second Person Plural form of the Future Indicative Middle of λύω?	λύσε-σθε
+What is the Third Person Plural form of the Future Indicative Middle of λύω?	λύσο-νται

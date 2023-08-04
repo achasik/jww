@@ -1,0 +1,27 @@
+tags:JWW_FGB50_Vocabulary
+What does αὐτίκα mean?	adv. immediately forthwith.
+What does γένος ους τό mean?	family race.
+What does γίγνομαι (γεν) γενήσομαι ἐγενόμην γέγονα γεγένημαι (cf. γένος) mean?	be born become prove oneself to be.
+What does δῆλος η ον (cf. δηλόω) mean?	plain evident manifest.
+What does ἤ mean?	conj. or; ἢ . . . ἤ either . . . or.
+What does ὁμολογέω ὁμολογήσω etc. mean?	 confess.
+What does ὀργίζομαι (ὀργιδ) ὀργιοῦμαι etc. (cf. ὀργή) mean?	be angry.
+What does πρίν mean?	conj. before until.
+What does πρόθῦμος ον mean?	ready eager.
+What does προσ-ήκω mean?	have come to be related to.
+What does στρατόπεδον ου τό mean?	camp.
+What does ταχέως (cf. τάχα) mean?	adv. quickly.
+What does φημί (φα) φήσω ἔφησα mean?	say declare state affirm.
+What is the Greek word for adv. immediately forthwith?	αὐτίκα
+What is the Greek word for family race?	γένος ους τό
+What is the Greek word for be born become prove oneself to be?	γίγνομαι (γεν) γενήσομαι ἐγενόμην γέγονα γεγένημαι (cf. γένος)
+What is the Greek word for plain evident manifest?	δῆλος η ον (cf. δηλόω)
+What is the Greek word for conj. or; ἢ . . . ἤ either . . . or?	ἤ
+What is the Greek word for  confess?	ὁμολογέω ὁμολογήσω etc.
+What is the Greek word for be angry?	ὀργίζομαι (ὀργιδ) ὀργιοῦμαι etc. (cf. ὀργή)
+What is the Greek word for conj. before until?	πρίν
+What is the Greek word for ready eager?	πρόθῦμος ον
+What is the Greek word for have come to be related to?	προσ-ήκω
+What is the Greek word for camp?	στρατόπεδον ου τό
+What is the Greek word for adv. quickly?	ταχέως (cf. τάχα)
+What is the Greek word for say declare state affirm?	φημί (φα) φήσω ἔφησα

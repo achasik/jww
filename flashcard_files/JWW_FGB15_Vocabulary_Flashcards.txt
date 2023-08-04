@@ -1,0 +1,25 @@
+tags:JWW_FGB15_Vocabulary
+What does ἄγγελος ου ὁ mean?	messenger scout.
+What does ἀντί mean?	prep. with gen. instead of.
+What does ἀπό mean?	prep. with gen. off from from.
+What does ἀτῑμάζω (ἀτιμαδ) ἀτῑάσω ἠτίμασα ἠτίμακα mean?	dishonor disgrace.
+What does δίκη ης ἡ mean?	justice punishment.
+What does ἐπεί mean?	conj. when since.
+What does ἐπιστολή ῆς ἡ mean?	letter.
+What does θηρεύω θηρεύσω ἐθήρευσα τεθήρευκα (<em>cf.</em> θηρίον) mean?	hunt wild beasts hunt catch.
+What does ὄλεθρος ου ὁ mean?	destruction loss.
+What does οὕτως mean?	(before a vowel) οὕτω (before a consonant) adv. thus so.
+What does πάλιν mean?	adv. back again.
+What does φίλος ου ὁ (<em>cf.</em> φίλιος) mean?	friend.
+What is the Greek word for messenger scout?	ἄγγελος ου ὁ
+What is the Greek word for prep. with gen. instead of?	ἀντί
+What is the Greek word for prep. with gen. off from from?	ἀπό
+What is the Greek word for dishonor disgrace?	ἀτῑμάζω (ἀτιμαδ) ἀτῑάσω ἠτίμασα ἠτίμακα
+What is the Greek word for justice punishment?	δίκη ης ἡ
+What is the Greek word for conj. when since?	ἐπεί
+What is the Greek word for letter?	ἐπιστολή ῆς ἡ
+What is the Greek word for hunt wild beasts hunt catch?	θηρεύω θηρεύσω ἐθήρευσα τεθήρευκα (<em>cf.</em> θηρίον)
+What is the Greek word for destruction loss?	ὄλεθρος ου ὁ
+What is the Greek word for (before a vowel) οὕτω (before a consonant) adv. thus so?	οὕτως
+What is the Greek word for adv. back again?	πάλιν
+What is the Greek word for friend?	φίλος ου ὁ (<em>cf.</em> φίλιος)

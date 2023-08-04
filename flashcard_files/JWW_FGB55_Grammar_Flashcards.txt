@@ -1,0 +1,45 @@
+tags:JWW_FGB55_Grammar
+What is the Nominative Singular form of the βασιλεύς ὁ - king ?	βασιλεύ-ς
+What is the Genitive Singular form of the βασιλεύς ὁ - king ?	βασιλέ-ως
+What is the Dative Singular form of the βασιλεύς ὁ - king ?	(βασιλέ-ϊ) βασιλεῖ
+What is the Accusative Singular form of the βασιλεύς ὁ - king ?	βασιλέ-ᾱ
+What is the Vocative Singular form of the βασιλεύς ὁ - king ?	βασιλεῦ
+What is the Nominative Accusative and Vocative Dual form of the βασιλεύς ὁ - king ?	βασιλέ-ε
+What is the Genitive and Dative Dual form of the βασιλεύς ὁ - king ?	βασιλέ-οιν
+What is the Nominative and Vocative Plural form of the βασιλεύς ὁ - king ?	(βασιλέ-ες) βασιλεῖς
+What is the Genitive Plural form of the βασιλεύς ὁ - king ?	βασιλέ-ων
+What is the Dative Plural form of the βασιλεύς ὁ - king ?	βασιλεῦ-σι
+What is the Accusative Plural form of the βασιλεύς ὁ - king ?	βασιλέ-ᾱς
+What is the Nominative Singular form of the βοῦς ὁ ἡ - ox cow?	βοῦ-ς
+What is the Genitive Singular form of the βοῦς ὁ ἡ - ox cow?	βο-ός
+What is the Dative Singular form of the βοῦς ὁ ἡ - ox cow?	βο-ΐ
+What is the Accusative Singular form of the βοῦς ὁ ἡ - ox cow?	βοῦ-ν
+What is the Vocative Singular form of the βοῦς ὁ ἡ - ox cow?	βοῦ
+What is the Nominative Accusative and Vocative Dual form of the βοῦς ὁ ἡ - ox cow?	βό-ε
+What is the Genitive and Dative Dual form of the βοῦς ὁ ἡ - ox cow?	βο-οῖν
+What is the Nominative and Vocative Plural form of the βοῦς ὁ ἡ - ox cow?	βό-ες
+What is the Genitive Plural form of the βοῦς ὁ ἡ - ox cow?	βο-ῶν
+What is the Dative Plural form of the βοῦς ὁ ἡ - ox cow?	βου-σί
+What is the Accusative Plural form of the βοῦς ὁ ἡ - ox cow?	βοῦ-ς
+What is the Nominative Singular form of the γραῦς ἡ old woman?	γραῦ-ς
+What is the Genitive Singular form of the γραῦς ἡ old woman?	γρᾱ-ός
+What is the Dative Singular form of the γραῦς ἡ old woman?	γρᾱ-ΐ
+What is the Accusative Singular form of the γραῦς ἡ old woman?	γραῦ-ν
+What is the Vocative Singular form of the γραῦς ἡ old woman?	γραῦ
+What is the Nominative Accusative and Vocative Dual form of the γραῦς ἡ old woman?	γρᾶ-ε
+What is the Genitive and Dative Dual form of the γραῦς ἡ old woman?	γρᾱ-οῖν
+What is the Nominative and Vocative Plural form of the γραῦς ἡ old woman?	γρᾶ-ες
+What is the Genitive Plural form of the γραῦς ἡ old woman?	γρᾱ-ῶν
+What is the Dative Plural form of the γραῦς ἡ old woman?	γραυ-σί
+What is the Accusative Plural form of the γραῦς ἡ old woman?	γραῦ-ς
+What is the Nominative Singular form of the ναῦς ἡ - ship?	ναῦ-ς
+What is the Genitive Singular form of the ναῦς ἡ - ship?	νε-ώς
+What is the Dative Singular form of the ναῦς ἡ - ship?	νη-ΐ
+What is the Accusative Singular form of the ναῦς ἡ - ship?	ναῦ-ν
+What is the Vocative Singular form of the ναῦς ἡ - ship?	ναῦ
+What is the Nominative Accusative and Vocative Dual form of the ναῦς ἡ - ship?	νῆ-ε
+What is the Genitive and Dative Dual form of the ναῦς ἡ - ship?	νε-οῖν
+What is the Nominative and Vocative Plural form of the ναῦς ἡ - ship?	νῆ-ες
+What is the Genitive Plural form of the ναῦς ἡ - ship?	νε-ῶν
+What is the Dative Plural form of the ναῦς ἡ - ship?	ναυ-σί
+What is the Accusative Plural form of the ναῦς ἡ - ship?	ναῦ-ς

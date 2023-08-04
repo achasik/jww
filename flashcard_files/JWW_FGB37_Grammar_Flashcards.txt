@@ -1,0 +1,41 @@
+tags:JWW_FGB37_Grammar
+What is the Masculine and Feminine Nominative Singular form of the τίς τίς τί who? which? what??	τίς
+What is the Masculine and Feminine Genitive Singular form of the τίς τίς τί who? which? what??	τίνος τοῦ
+What is the Masculine and Feminine Dative Singular form of the τίς τίς τί who? which? what??	τίνι τῷ
+What is the Masculine and Feminine Accusative Singular form of the τίς τίς τί who? which? what??	τίνα
+What is the Masculine and Feminine Nominative and Accusative Dual form of the τίς τίς τί who? which? what??	τίνε
+What is the Masculine and Feminine Genitive and Dative Dual form of the τίς τίς τί who? which? what??	τίνοιν
+What is the Masculine and Feminine Nominative Plural form of the τίς τίς τί who? which? what??	τίνες
+What is the Masculine and Feminine Genitive Plural form of the τίς τίς τί who? which? what??	τίνων
+What is the Masculine and Feminine Dative Plural form of the τίς τίς τί who? which? what??	τίσι
+What is the Masculine and Feminine Accusative Plural form of the τίς τίς τί who? which? what??	τίνας
+What is the Neuter Nominative Singular form of the τίς τίς τί who? which? what??	τί
+What is the Neuter Genitive Singular form of the τίς τίς τί who? which? what??	τίνος τοῦ
+What is the Neuter Dative Singular form of the τίς τίς τί who? which? what??	τίνι τῷ
+What is the Neuter Accusative Singular form of the τίς τίς τί who? which? what??	τί
+What is the Neuter Nominative and Accusative Dual form of the τίς τίς τί who? which? what??	τίνε
+What is the Neuter Genitive and Dative Dual form of the τίς τίς τί who? which? what??	τινοιν
+What is the Neuter Nominative Plural form of the τίς τίς τί who? which? what??	τίνα
+What is the Neuter Genitive Plural form of the τίς τίς τί who? which? what??	τίνων
+What is the Neuter Dative Plural form of the τίς τίς τί who? which? what??	τίσι
+What is the Neuter Accusative Plural form of the τίς τίς τί who? which? what??	τίνα
+What is the Masculine and Feminine Nominative Singular form of the τὶς τὶς τὶ some any?	τὶς
+What is the Masculine and Feminine Genitive Singular form of the τὶς τὶς τὶ some any?	τινός του
+What is the Masculine and Feminine Dative Singular form of the τὶς τὶς τὶ some any?	τινί τῳ
+What is the Masculine and Feminine Accusative Singular form of the τὶς τὶς τὶ some any?	τινά
+What is the Masculine and Feminine Nominative and Accusative Dual form of the τὶς τὶς τὶ some any?	τινέ
+What is the Masculine and Feminine Genitive and Dative Dual form of the τὶς τὶς τὶ some any?	τινοῖν
+What is the Masculine and Feminine Nominative Plural form of the τὶς τὶς τὶ some any?	τινές
+What is the Masculine and Feminine Genitive Plural form of the τὶς τὶς τὶ some any?	τινῶν
+What is the Masculine and Feminine Dative Plural form of the τὶς τὶς τὶ some any?	τισί
+What is the Masculine and Feminine Accusative Plural form of the τὶς τὶς τὶ some any?	τινάς
+What is the Neuter Nominative Singular form of the τὶς τὶς τὶ some any?	τὶ
+What is the Neuter Genitive Singular form of the τὶς τὶς τὶ some any?	τινός του
+What is the Neuter Dative Singular form of the τὶς τὶς τὶ some any?	τινί τῳ
+What is the Neuter Accusative Singular form of the τὶς τὶς τὶ some any?	τὶ
+What is the Neuter Nominative and Accusative Dual form of the τὶς τὶς τὶ some any?	τινέ
+What is the Neuter Genitive and Dative Dual form of the τὶς τὶς τὶ some any?	τινοῖν
+What is the Neuter Nominative Plural form of the τὶς τὶς τὶ some any?	τινά
+What is the Neuter Genitive Plural form of the τὶς τὶς τὶ some any?	τινῶν
+What is the Neuter Dative Plural form of the τὶς τὶς τὶ some any?	τισί
+What is the Neuter Accusative Plural form of the τὶς τὶς τὶ some any?	τινά

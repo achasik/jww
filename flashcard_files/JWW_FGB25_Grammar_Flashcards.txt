@@ -1,0 +1,59 @@
+tags:JWW_FGB25_Grammar
+What is the Nominative form of the Masculine And Feminine Singular Consonant Declension Endings?	-ς or—
+What is the Genitive form of the Masculine And Feminine Singular Consonant Declension Endings?	-ος
+What is the Dative form of the Masculine And Feminine Singular Consonant Declension Endings?	-ι
+What is the Accusative form of the Masculine And Feminine Singular Consonant Declension Endings?	-α or -ν
+What is the Vocative form of the Masculine And Feminine Singular Consonant Declension Endings?	-ς or —
+What is the Nominative form of the Masculine And Feminine Plural Consonant Declension Endings?	-ες
+What is the Genitive form of the Masculine And Feminine Plural Consonant Declension Endings?	-ων
+What is the Dative form of the Masculine And Feminine Plural Consonant Declension Endings?	-σι
+What is the Accusative form of the Masculine And Feminine Plural Consonant Declension Endings?	-ας or -νς
+What is the Vocative form of the Masculine And Feminine Plural Consonant Declension Endings?	-ες
+What is the Nominative Accusative and Vocative form of the Neuter Plural Consonant Declension Endings?	—
+What is the Genitive form of the Neuter Plural Consonant Declension Endings?	-ος
+What is the Dative form of the Neuter Plural Consonant Declension Endings?	-ι
+What is the Nominative form of the Neuter Plural Consonant Declension Endings?	-α
+What is the Genitive form of the Neuter Plural Consonant Declension Endings?	-ων
+What is the Dative form of the Neuter Plural Consonant Declension Endings?	-σι
+What is the Accusative form of the Neuter Plural Consonant Declension Endings?	-α
+What is the Vocative form of the Neuter Plural Consonant Declension Endings?	-α
+What is the Nominative and Vocative Singular form of the κλώψ ὁ (Thief)?	κλώψ
+What is the Genitive Singular form of the κλώψ ὁ (Thief)?	κλωπ-ός
+What is the Dative Singular form of the κλώψ ὁ (Thief)?	κλωπ-ί
+What is the Accusative Singular form of the κλώψ ὁ (Thief)?	κλῶπ-α
+What is the Nominative Accusative and Vocative Dual form of the κλώψ ὁ (Thief)?	κλῶπ-ε
+What is the Genitive and Dative Dual form of the κλώψ ὁ (Thief)?	κλωπ-οῖν
+What is the Nominative and Vocative Plural form of the κλώψ ὁ (Thief)?	κλῶπ-ες
+What is the Genitive Plural form of the κλώψ ὁ (Thief)?	κλωπ-ῶν
+What is the Dative Plural form of the κλώψ ὁ (Thief)?	κλωψί
+What is the Accusative Plural form of the κλώψ ὁ (Thief)?	κλῶπ-ας
+What is the Nominative and Vocative Singular form of the φύλαξ ὁ (Guard)?	φύλαξ
+What is the Genitive Singular form of the φύλαξ ὁ (Guard)?	φύλακ-ος
+What is the Dative Singular form of the φύλαξ ὁ (Guard)?	φύλακ-ι
+What is the Accusative Singular form of the φύλαξ ὁ (Guard)?	φύλακ-α
+What is the Nominative Accusative and Vocative Dual form of the φύλαξ ὁ (Guard)?	φύλακ-ε
+What is the Genitive and Dative Dual form of the φύλαξ ὁ (Guard)?	φυλάκ-οιν
+What is the Nominative and Vocative Plural form of the φύλαξ ὁ (Guard)?	φύλακ-ες
+What is the Genitive Plural form of the φύλαξ ὁ (Guard)?	φυλάκ-ων
+What is the Dative Plural form of the φύλαξ ὁ (Guard)?	φύλαξι
+What is the Accusative Plural form of the φύλαξ ὁ (Guard)?	φύλακ-ας
+What is the Nominative and Vocative Singular form of the φάλαγξ ἡ (Phalanx)?	φάλαγξ
+What is the Genitive Singular form of the φάλαγξ ἡ (Phalanx)?	φάλαγγ-ος
+What is the Dative Singular form of the φάλαγξ ἡ (Phalanx)?	φάλαγγ-ι
+What is the Accusative Singular form of the φάλαγξ ἡ (Phalanx)?	φάλαγγ-α
+What is the Nominative Accusative and Vocative Dual form of the φάλαγξ ἡ (Phalanx)?	φάλαγγ-ε
+What is the Genitive and Dative Dual form of the φάλαγξ ἡ (Phalanx)?	φαλάγγ-οιν
+What is the Nominative and Vocative Plural form of the φάλαγξ ἡ (Phalanx)?	φάλαγγ-ες
+What is the Genitive Plural form of the φάλαγξ ἡ (Phalanx)?	φαλάγγ-ων
+What is the Dative Plural form of the φάλαγξ ἡ (Phalanx)?	φάλαγξι
+What is the Accusative Plural form of the φάλαγξ ἡ (Phalanx)?	φάλαγγ-ας
+What is the Nominative and Vocative Singular form of the διῶρυξ ἡ (Canal)?	διῶρυξ
+What is the Genitive Singular form of the διῶρυξ ἡ (Canal)?	διώρυχ-ος
+What is the Dative Singular form of the διῶρυξ ἡ (Canal)?	διώρυχ-ι
+What is the Accusative Singular form of the διῶρυξ ἡ (Canal)?	διώρυχ-α
+What is the Nominative Accusative and Vocative Dual form of the διῶρυξ ἡ (Canal)?	διώρυχ-ε
+What is the Genitive and Dative Dual form of the διῶρυξ ἡ (Canal)?	διωρύχ-οιν
+What is the Nominative and Vocative Plural form of the διῶρυξ ἡ (Canal)?	διώρυχ-ες
+What is the Genitive Plural form of the διῶρυξ ἡ (Canal)?	διωρύχ-ων
+What is the Dative Plural form of the διῶρυξ ἡ (Canal)?	διώρυξι
+What is the Accusative Plural form of the διῶρυξ ἡ (Canal)?	διώρυχ-ας

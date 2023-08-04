@@ -1,0 +1,21 @@
+tags:JWW_FGB10_Vocabulary
+What is the best translation of ἀθροίζω (verb stem ἀθροιδ) ἀθροίσω ἤθροισα?	collect gather together muster.
+What is the best translation of διώκω διώξω ἐδίωξα?	pursue.
+What is the best translation of ἐπι-βουλεύω ἐπι-βουλεύσω ἐπ-εβούλευσα?	plot against.
+What is the best translation of κελεύω κλεύσω ἐκέλευσα?	command.
+What is the best translation of ἀδελφός οῦ ὁ?	brother.
+What is the best translation of βάρβαρος ου ὀ?	barbarian.
+What is the best translation of μισθός οῦ ὁ?	pay.
+What is the best translation of πολέμιος ᾱ ον (cf. πόλεμος)?	hostile.
+What is the best translation of οἱ πολέμιοι?	the enemy.
+What is the best translation of τότε?	adv. then at that time.
+What is the Greek word for collect gather together muster?	ἀθροίζω (verb stem ἀθροιδ) ἀθροίσω ἤθροισα
+What is the Greek word for pursue?	διώκω διώξω ἐδίωξα
+What is the Greek word for plot against?	ἐπι-βουλεύω ἐπι-βουλεύσω ἐπ-εβούλευσα
+What is the Greek word for command?	κελεύω κλεύσω ἐκέλευσα
+What is the Greek word for brother?	ἀδελφός οῦ ὁ
+What is the Greek word for barbarian?	βάρβαρος ου ὀ
+What is the Greek word for pay?	μισθός οῦ ὁ
+What is the Greek word for hostile?	πολέμιος ᾱ ον (cf. πόλεμος)
+What is the Greek word for the enemy?	οἱ πολέμιοι
+What is the Greek word for adv. then at that time?	τότε

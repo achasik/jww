@@ -1,0 +1,33 @@
+tags:JWW_FGB34_Grammar
+What is the First Person Singular form of the Present Middle Subjunctive of λύω?	λύω-μαι
+What is the Second Person Singular form of the Present Middle Subjunctive of λύω?	λύῃ
+What is the Third Person Singular form of the Present Middle Subjunctive of λύω?	λύη-ται
+What is the Second Person Dual form of the Present Middle Subjunctive of λύω?	λύη-σθον
+What is the Third Person Dual form of the Present Middle Subjunctive of λύω?	λύη-σθον
+What is the First Person Plural form of the Present Middle Subjunctive of λύω?	λῡώ-μεν
+What is the Second Person Plural form of the Present Middle Subjunctive of λύω?	λύη-σθε
+What is the Third Person Plural form of the Present Middle Subjunctive of λύω?	λύω-νται
+What is the First Person Singular form of the Aorist Middle Subjunctive of λύω?	λύσω-μαι
+What is the Second Person Singular form of the Aorist Middle Subjunctive of λύω?	λύσῃ
+What is the Third Person Singular form of the Aorist Middle Subjunctive of λύω?	λύση-ται
+What is the Second Person Dual form of the Aorist Middle Subjunctive of λύω?	λύση-σθον
+What is the Third Person Dual form of the Aorist Middle Subjunctive of λύω?	λύση-σθον
+What is the First Person Plural form of the Aorist Middle Subjunctive of λύω?	λῡσώ-μεθα
+What is the Second Person Plural form of the Aorist Middle Subjunctive of λύω?	λύση-σθε
+What is the Third Person Plural form of the Aorist Middle Subjunctive of λύω?	λύσω-νται
+What is the First Person Singular form of the Perfect Middle Subjunctive of λύω?	λελυ-μένος ὦ
+What is the Second Person Singular form of the Perfect Middle Subjunctive of λύω?	λελυ-μένος ᾖς
+What is the Third Person Singular form of the Perfect Middle Subjunctive of λύω?	λελυ-μένος ᾗ
+What is the Second Person Dual form of the Perfect Middle Subjunctive of λύω?	λελυ-μένω ᾖτον
+What is the Third Person Dual form of the Perfect Middle Subjunctive of λύω?	λελυ-μένω ἦτον
+What is the First Person Plural form of the Perfect Middle Subjunctive of λύω?	λελυ-μένοι ὦμεν
+What is the Second Person Plural form of the Perfect Middle Subjunctive of λύω?	λελυ-μένοι ἦτε
+What is the Third Person Plural form of the Perfect Middle Subjunctive of λύω?	λελυ-μένοι ὦσι
+What is the First Person Singular form of the Aorist Passive Subjunctive of λύω?	λυθῶ
+What is the Second Person Singular form of the Aorist Passive Subjunctive of λύω?	λυθῇς
+What is the Third Person Singular form of the Aorist Passive Subjunctive of λύω?	λυθῇ
+What is the Second Person Dual form of the Aorist Passive Subjunctive of λύω?	λυθῆ-τον
+What is the Third Person Dual form of the Aorist Passive Subjunctive of λύω?	λυθῆ-τον
+What is the First Person Plural form of the Aorist Passive Subjunctive of λύω?	λυθῶ-μεν
+What is the Second Person Plural form of the Aorist Passive Subjunctive of λύω?	λυθῆ-τε
+What is the Third Person Plural form of the Aorist Passive Subjunctive of λύω?	λυθῶσι

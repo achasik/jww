@@ -1,0 +1,21 @@
+tags:JWW_FGB38_Vocabulary
+What does διαβατός ή όν mean?	fordable passable.
+What does δίκαιος ᾱ ον (cf. δίκη) mean?	just right.
+What does δικαίως (cf. δίκαιος) mean?	adv. justly rightly.
+What does δοκέω δόξω ἔδοξα δέδογμαι ἐδόχθην mean?	seem seem best or good think; δοκεῖ etc. impers. it seems it seems best.
+What does ἐπι-σῑτίζομαι (σῑτιδ) ἐπι-σῑτιοῦμαι ἐπ-εσῑτισάμην (cf. σῖτος) mean?	furnish oneself with provisions collect or procure supplies forage.
+What does κλείω κλείσω ἔκλεισα κέκλειμαι and κέκλεισμαι ἐκλείσθην mean?	shut close.
+What does πεζῇ (cf.. πεζός) mean?	adv. on foot.
+What does πεζός ή όν mean?	on foot; οἱ πεζοί the infantry.
+What does ῥᾳδίως mean?	adv. easily.
+What does σῖτος ου ὁ mean?	grain food supplies.
+What is the Greek word for fordable passable?	διαβατός ή όν
+What is the Greek word for just right?	δίκαιος ᾱ ον (cf. δίκη)
+What is the Greek word for adv. justly rightly?	δικαίως (cf. δίκαιος)
+What is the Greek word for seem seem best or good think; δοκεῖ etc. impers. it seems it seems best?	δοκέω δόξω ἔδοξα δέδογμαι ἐδόχθην
+What is the Greek word for furnish oneself with provisions collect or procure supplies forage?	ἐπι-σῑτίζομαι (σῑτιδ) ἐπι-σῑτιοῦμαι ἐπ-εσῑτισάμην (cf. σῖτος)
+What is the Greek word for shut close?	κλείω κλείσω ἔκλεισα κέκλειμαι and κέκλεισμαι ἐκλείσθην
+What is the Greek word for adv. on foot?	πεζῇ (cf.. πεζός)
+What is the Greek word for on foot; οἱ πεζοί the infantry?	πεζός ή όν
+What is the Greek word for adv. easily?	ῥᾳδίως
+What is the Greek word for grain food supplies?	σῖτος ου ὁ

@@ -1,0 +1,81 @@
+tags:JWW_FGB69_Grammar
+What is the First Person Singular form of the Perfect Middle/Passive Active Indicative of λύω loose?	λέλυ-μαι
+What is the Second Person Singular form of the Perfect Middle/Passive Active Indicative of λύω loose?	λέλυ-σαι
+What is the Third Person Singular form of the Perfect Middle/Passive Active Indicative of λύω loose?	λέλυ-ται
+What is the Second Person Dual form of the Perfect Middle/Passive Active Indicative of λύω loose?	λέλυ-σθον
+What is the Third Person Dual form of the Perfect Middle/Passive Active Indicative of λύω loose?	λέλυ-σθον
+What is the First Person Plural form of the Perfect Middle/Passive Active Indicative of λύω loose?	λελύ-μεθα
+What is the Second Person Plural form of the Perfect Middle/Passive Active Indicative of λύω loose?	λέλυ-σθε
+What is the Third Person Plural form of the Perfect Middle/Passive Active Indicative of λύω loose?	λέλυ-νται
+What is the First Person Singular form of the Pluperfect Middle/Passive Active Indicative of λύω loose?	ἐ-λελύ-μην
+What is the Second Person Singular form of the Pluperfect Middle/Passive Active Indicative of λύω loose?	ἐ-λέλυ-σο
+What is the Third Person Singular form of the Pluperfect Middle/Passive Active Indicative of λύω loose?	ἐ-λέλυ-το
+What is the Second Person Dual form of the Pluperfect Middle/Passive Active Indicative of λύω loose?	ἐ-λέλυ-σθον
+What is the Third Person Dual form of the Pluperfect Middle/Passive Active Indicative of λύω loose?	ἐ-λελύ-σθην
+What is the First Person Plural form of the Pluperfect Middle/Passive Active Indicative of λύω loose?	ἐ-λελύ-μεθα
+What is the Second Person Plural form of the Pluperfect Middle/Passive Active Indicative of λύω loose?	ἐ-λέλυ-σθε
+What is the Third Person Plural form of the Pluperfect Middle/Passive Active Indicative of λύω loose?	ἐ-λέλυ-ντο
+What is the First Person Singular form of the Perfect Middle/Passive Active Subjunctive of λύω loose?	λελυ-μένος ὦ
+What is the Second Person Singular form of the Perfect Middle/Passive Active Subjunctive of λύω loose?	λελυ-μένος ᾖς
+What is the Third Person Singular form of the Perfect Middle/Passive Active Subjunctive of λύω loose?	λελυ-μένος ᾗ
+What is the Second Person Dual form of the Perfect Middle/Passive Active Subjunctive of λύω loose?	λελυ-μένω ᾖτον
+What is the Third Person Dual form of the Perfect Middle/Passive Active Subjunctive of λύω loose?	λελυ-μένω ἦτον
+What is the First Person Plural form of the Perfect Middle/Passive Active Subjunctive of λύω loose?	λελυ-μένοι ὦμεν
+What is the Second Person Plural form of the Perfect Middle/Passive Active Subjunctive of λύω loose?	λελυ-μένοι ἦτε
+What is the Third Person Plural form of the Perfect Middle/Passive Active Subjunctive of λύω loose?	λελυ-μένοι ὦσι
+What is the First Person Singular form of the Perfect Middle/Passive Active Optative of λύω loose?	λελυ-μένος εἵην
+What is the Second Person Singular form of the Perfect Middle/Passive Active Optative of λύω loose?	λελυ-μένος εἵης
+What is the Third Person Singular form of the Perfect Middle/Passive Active Optative of λύω loose?	λελυ-μένος εἵη
+What is the Second Person Dual form of the Perfect Middle/Passive Active Optative of λύω loose?	λελυ-μένω εἶτον or εἴητον
+What is the Third Person Dual form of the Perfect Middle/Passive Active Optative of λύω loose?	λελυ-μένω εἴτην or εἰήτην
+What is the First Person Plural form of the Perfect Middle/Passive Active Optative of λύω loose?	λελυ-μένοι εἶμεν or εἴημεν
+What is the Second Person Plural form of the Perfect Middle/Passive Active Optative of λύω loose?	λελυ-μένοι εἷτε or εἴητε
+What is the Third Person Plural form of the Perfect Middle/Passive Active Optative of λύω loose?	λελυ-μένοι εἶεν or εἴησαν
+What is the First Person Singular form of the Perfect Middle/Passive Indicative of λείπω (λιπ) leave?	(λελειπ-μαι) λέλειμ-μαι
+What is the Second Person Singular form of the Perfect Middle/Passive Indicative of λείπω (λιπ) leave?	(λελειπ-σαι) λέλειψαι
+What is the Third Person Singular form of the Perfect Middle/Passive Indicative of λείπω (λιπ) leave?	(λελειπ-ται) λέλειπ-ται
+What is the Second Person Dual form of the Perfect Middle/Passive Indicative of λείπω (λιπ) leave?	(λελειπ-σθον) λέλειφ-θον
+What is the Third Person Dual form of the Perfect Middle/Passive Indicative of λείπω (λιπ) leave?	(λελειπ-σθον) λέλειφ-θον
+What is the First Person Plural form of the Perfect Middle/Passive Indicative of λείπω (λιπ) leave?	(λελειπ-μεθα) λελείμ-μεθα
+What is the Second Person Plural form of the Perfect Middle/Passive Indicative of λείπω (λιπ) leave?	(λελειπ-σθε) λέλειφ-θε
+What is the Third Person Plural form of the Perfect Middle/Passive Indicative of λείπω (λιπ) leave?	(λελειπ-μενοι) λελειμ-μένοι εἰσί
+What is the First Person Singular form of the Pluperfect Middle/Passive Indicative of λείπω (λιπ) leave?	(ἐ-λελειπ-μην) ἐ-λελείμ-μην
+What is the Second Person Singular form of the Pluperfect Middle/Passive Indicative of λείπω (λιπ) leave?	(ἐ-λελειπ-σο) ἐ-λέλειψο
+What is the Third Person Singular form of the Pluperfect Middle/Passive Indicative of λείπω (λιπ) leave?	(ἐ-λελειπ-το) ἐ-λέλειπ-το
+What is the Second Person Dual form of the Pluperfect Middle/Passive Indicative of λείπω (λιπ) leave?	(ἐ-λελειπ-σθον) ἐ-λέλειφ-θον
+What is the Third Person Dual form of the Pluperfect Middle/Passive Indicative of λείπω (λιπ) leave?	(ἐ-λελειπ-σθον) ἐ-λελείφ-θην
+What is the First Person Plural form of the Pluperfect Middle/Passive Indicative of λείπω (λιπ) leave?	(ἐ-λελειπ-μεθα) ἐ-λελείμ-μεθα
+What is the Second Person Plural form of the Pluperfect Middle/Passive Indicative of λείπω (λιπ) leave?	(ἐ-λελειπ-σθε) ἐ-λέλειφ-θε
+What is the Third Person Plural form of the Pluperfect Middle/Passive Indicative of λείπω (λιπ) leave?	(λελειπ-μενοι) λελειμ-μένοι ἦσαν
+What is the First Person Singular form of the Perfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-μαι) ἦγ-μαι
+What is the Second Person Singular form of the Perfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-σαι) ἦξαι
+What is the Third Person Singular form of the Perfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-ται) ἦχ-ται
+What is the Second Person Dual form of the Perfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-σθον) ἦχ-θον
+What is the Third Person Dual form of the Perfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-σθον) ἦχ-θον
+What is the First Person Plural form of the Perfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-μεθα) ἤγ-μεθα
+What is the Second Person Plural form of the Perfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-σθε) ἦχ-θε
+What is the Third Person Plural form of the Perfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-μενοι) ἠγ-μένοι εἰσί
+What is the First Person Singular form of the Pluperfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-μην) ἤγ-μην
+What is the Second Person Singular form of the Pluperfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-σο) ἦξο
+What is the Third Person Singular form of the Pluperfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-το) ἦκ-το
+What is the Second Person Dual form of the Pluperfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-σθον) ἦχ-θον
+What is the Third Person Dual form of the Pluperfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-σθην) ἤχ-θην
+What is the First Person Plural form of the Pluperfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-μεθα) ἤγ-μεθα
+What is the Second Person Plural form of the Pluperfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-σθε) ἦχ-θε
+What is the Third Person Plural form of the Pluperfect Middle/Passive Indicative of ἄγω (ἀγ) lead?	(ἠγ-μενοι) ἠγ-μένοι ἦσαν
+What is the First Person Singular form of the Perfect Middle/Passive Indicative of πείθω (πιθ) lead?	(πεπειθ-μαι) πέπεισ-μαι
+What is the Second Person Singular form of the Perfect Middle/Passive Indicative of πείθω (πιθ) lead?	(πεπειθ-σαι) πέπει-σαι
+What is the Third Person Singular form of the Perfect Middle/Passive Indicative of πείθω (πιθ) lead?	(πεπειθ-ται) πέπεισ-ται
+What is the Second Person Dual form of the Perfect Middle/Passive Indicative of πείθω (πιθ) lead?	(πεπειθ-σθον) πέπει-σθον
+What is the Third Person Dual form of the Perfect Middle/Passive Indicative of πείθω (πιθ) lead?	(πεπειθ-σθον) πέπει-σθον
+What is the First Person Plural form of the Perfect Middle/Passive Indicative of πείθω (πιθ) lead?	(πεπειθ-μεθα) πεπείσ-μεθα
+What is the Second Person Plural form of the Perfect Middle/Passive Indicative of πείθω (πιθ) lead?	(πεπειθ-σθε) πέπει-σθε
+What is the Third Person Plural form of the Perfect Middle/Passive Indicative of πείθω (πιθ) lead?	(πεπειθ-μενοι) πεπεισ-μένοι εἰσί
+What is the First Person Singular form of the Pluperfect Middle/Passive Indicative of πείθω (πιθ) lead?	(ἐ-πεπειθ-μην) ἐ-πεπείσ-μην
+What is the Second Person Singular form of the Pluperfect Middle/Passive Indicative of πείθω (πιθ) lead?	(ἐ-πεπειθ-σο) ἐ-πέπει-σο
+What is the Third Person Singular form of the Pluperfect Middle/Passive Indicative of πείθω (πιθ) lead?	(ἐ-πεπειθ-το) ἐ-πέπεισ-το
+What is the Second Person Dual form of the Pluperfect Middle/Passive Indicative of πείθω (πιθ) lead?	(ἐ-πεπειθ-σθον) ἐ-πέπει-σθον
+What is the Third Person Dual form of the Pluperfect Middle/Passive Indicative of πείθω (πιθ) lead?	(ἐ-πεπειθ-σθην) ἐ-πεπεί-σθην
+What is the First Person Plural form of the Pluperfect Middle/Passive Indicative of πείθω (πιθ) lead?	(ἐ-πεπειθ-μεθα) ἐ-πεπείσ-μεθα
+What is the Second Person Plural form of the Pluperfect Middle/Passive Indicative of πείθω (πιθ) lead?	(ἐ-πεπειθ-σθε) ἐ-πέπει-σθε
+What is the Third Person Plural form of the Pluperfect Middle/Passive Indicative of πείθω (πιθ) lead?	(ἐ-πεπειθ-μενοι) πεπεισ-μένοι ἦσαν

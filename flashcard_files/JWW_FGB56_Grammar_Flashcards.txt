@@ -1,0 +1,49 @@
+tags:JWW_FGB56_Grammar
+What is the Nominative Singular form of the Masculine Relative Pronoun?	ὅς
+What is the Genitive Singular form of the Masculine Relative Pronoun?	οὗ
+What is the Dative Singular form of the Masculine Relative Pronoun?	ᾧ
+What is the Accusative Singular form of the Masculine Relative Pronoun?	ὅν
+What is the Nominative Plural form of the Masculine Relative Pronoun?	οἵ
+What is the Genitive Plural form of the Masculine Relative Pronoun?	ὧν
+What is the Dative Plural form of the Masculine Relative Pronoun?	οἷς
+What is the Accusative Plural form of the Masculine Relative Pronoun?	οὕς
+What is the Nominative Singular form of the Feminine Relative Pronoun?	ἤ
+What is the Genitive Singular form of the Feminine Relative Pronoun?	ἧς
+What is the Dative Singular form of the Feminine Relative Pronoun?	ᾗ
+What is the Accusative Singular form of the Feminine Relative Pronoun?	ἥν
+What is the Nominative Plural form of the Feminine Relative Pronoun?	αἵ
+What is the Genitive Plural form of the Feminine Relative Pronoun?	ὧν
+What is the Dative Plural form of the Feminine Relative Pronoun?	αἷς
+What is the Accusative Plural form of the Feminine Relative Pronoun?	ἅς
+What is the Nominative Singular form of the Neuter Relative Pronoun?	ὄ
+What is the Genitive Singular form of the Neuter Relative Pronoun?	οὗ
+What is the Dative Singular form of the Neuter Relative Pronoun?	ᾧ
+What is the Accusative Singular form of the Neuter Relative Pronoun?	ὅ
+What is the Nominative Plural form of the Neuter Relative Pronoun?	ἅ
+What is the Genitive Plural form of the Neuter Relative Pronoun?	ὧν
+What is the Dative Plural form of the Neuter Relative Pronoun?	οἷς
+What is the Accusative Plural form of the Neuter Relative Pronoun?	ἅ
+What is the Nominative Singular form of the Masculine Indefinite Relative Pronoun?	ὄστις
+What is the Genitive Singular form of the Masculine Indefinite Relative Pronoun?	οὗτινος ὅτου
+What is the Dative Singular form of the Masculine Indefinite Relative Pronoun?	ᾧτινι ὅτῳ
+What is the Accusative Singular form of the Masculine Indefinite Relative Pronoun?	ὅντινα
+What is the Nominative Plural form of the Masculine Indefinite Relative Pronoun?	οἵτινες
+What is the Genitive Plural form of the Masculine Indefinite Relative Pronoun?	ὧντινων ὄτων
+What is the Dative Plural form of the Masculine Indefinite Relative Pronoun?	οἷστισι ὅτοις
+What is the Accusative Plural form of the Masculine Indefinite Relative Pronoun?	οὕστινας
+What is the Nominative Singular form of the Feminine Indefinite Relative Pronoun?	ἤτις
+What is the Genitive Singular form of the Feminine Indefinite Relative Pronoun?	ἧστινος
+What is the Dative Singular form of the Feminine Indefinite Relative Pronoun?	ᾗτινι
+What is the Accusative Singular form of the Feminine Indefinite Relative Pronoun?	ἥντινα
+What is the Nominative Plural form of the Feminine Indefinite Relative Pronoun?	αἵτινες
+What is the Genitive Plural form of the Feminine Indefinite Relative Pronoun?	ὧντινων
+What is the Dative Plural form of the Feminine Indefinite Relative Pronoun?	αἷστισι
+What is the Accusative Plural form of the Feminine Indefinite Relative Pronoun?	ἅστινας
+What is the Nominative Singular form of the Neuter Indefinite Relative Pronoun?	ὅτι
+What is the Genitive Singular form of the Neuter Indefinite Relative Pronoun?	οὗτινος ὅτου
+What is the Dative Singular form of the Neuter Indefinite Relative Pronoun?	ᾧτινι ὅτῳ
+What is the Accusative Singular form of the Neuter Indefinite Relative Pronoun?	ὅ τι
+What is the Nominative Plural form of the Neuter Indefinite Relative Pronoun?	ἅτινα ἅττα
+What is the Genitive Plural form of the Neuter Indefinite Relative Pronoun?	ὧντινων ὄτων
+What is the Dative Plural form of the Neuter Indefinite Relative Pronoun?	οἷστισι ὅτοις
+What is the Accusative Plural form of the Neuter Indefinite Relative Pronoun?	ἅτινα ἅττα

@@ -1,0 +1,21 @@
+tags:JWW_FGB17_Vocabulary
+What does Ἀρίστιπποςου ὁ mean?	Aristippus.
+What does αὐτός ή ό  mean?	pron. self same him her it.
+What does ἐκεῖνος η ο  mean?	pron. that.
+What does ἐπιβουλή ῆς ἡ (cf. ἐπιβουλεύω) mean?	plot scheme design.
+What does Θετταλός οῦ ὸ  mean?	a Thessalian.
+What does μετά mean?	prep.: with gen. with in company with; with acc. behind after.
+What does ξένος ον ὁ mean?	stranger “guest friend” guest host.
+What does ὅδε ἥδε τόδε (cf. ὦδε) mean?	pron. this the following.
+What does οὗτος αὕτη τοῦτο (cf. οὕτως) mean?	pron. this.
+What does τέ mean?	conj. and (enclitic and postpositive); τε . . . καί both . . . and.
+What is the Greek word for Aristippus?	Ἀρίστιπποςου ὁ
+What is the Greek word for pron. self same him her it?	αὐτός ή ό 
+What is the Greek word for pron. that?	ἐκεῖνος η ο 
+What is the Greek word for plot scheme design?	ἐπιβουλή ῆς ἡ (cf. ἐπιβουλεύω)
+What is the Greek word for a Thessalian?	Θετταλός οῦ ὸ 
+What is the Greek word for prep.: with gen. with in company with; with acc. behind after?	μετά
+What is the Greek word for stranger “guest friend” guest host?	ξένος ον ὁ
+What is the Greek word for pron. this the following?	ὅδε ἥδε τόδε (cf. ὦδε)
+What is the Greek word for pron. this?	οὗτος αὕτη τοῦτο (cf. οὕτως)
+What is the Greek word for conj. and (enclitic and postpositive); τε . . . καί both . . . and?	τέ

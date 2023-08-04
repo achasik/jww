@@ -1,0 +1,21 @@
+tags:JWW_FGB60_Vocabulary
+What does ἀπορέω ἀπορήσω etc. (cf. ἄπορος) mean?	be in doubt or wnat be at a loss.
+What does ἀσφαλῶς (cf. ἀσφαλής) mean?	adv. safely securely.
+What does δέχομαι δέξομαι ἐδεξάμην δέδεγμαι mean?	receive admit.
+What does λέγω ἔλεξα εἴλοχα εἴλεγμαι ἐλέγην and ἐλέχθην mean?	collect.
+What does μέντοι mean?	adv. really in truth; conj. yet still however nevertheless.
+What does οὐπώ-ποτε (οὔ-πω + ποτέ) mean?	adv. never yet.
+What does πορείᾱ ᾱς ἡ (cf. πορεύομαι) mean?	journey.
+What does συλ-λέγω mean?	collect gather bring to gether.
+What does τρέφω θρέψω ἔθρεψα τέθραμμαι ἐτράφην and ἐθρέφθην mean?	nourish support maintain.
+What does χρή χρήσει mean?	impers. it is needful one must or ought.
+What is the Greek word for be in doubt or wnat be at a loss?	ἀπορέω ἀπορήσω etc. (cf. ἄπορος)
+What is the Greek word for adv. safely securely?	ἀσφαλῶς (cf. ἀσφαλής)
+What is the Greek word for receive admit?	δέχομαι δέξομαι ἐδεξάμην δέδεγμαι
+What is the Greek word for collect?	λέγω ἔλεξα εἴλοχα εἴλεγμαι ἐλέγην and ἐλέχθην
+What is the Greek word for adv. really in truth; conj. yet still however nevertheless?	μέντοι
+What is the Greek word for adv. never yet?	οὐπώ-ποτε (οὔ-πω + ποτέ)
+What is the Greek word for journey?	πορείᾱ ᾱς ἡ (cf. πορεύομαι)
+What is the Greek word for collect gather bring to gether?	συλ-λέγω
+What is the Greek word for nourish support maintain?	τρέφω θρέψω ἔθρεψα τέθραμμαι ἐτράφην and ἐθρέφθην
+What is the Greek word for impers. it is needful one must or ought?	χρή χρήσει

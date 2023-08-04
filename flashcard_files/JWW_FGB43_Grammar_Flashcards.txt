@@ -1,0 +1,25 @@
+tags:JWW_FGB43_Grammar
+What is the Second Person Singular form of the Personal Ending of the Active Imperative?	θι
+What is the Third Person Singular form of the Personal Ending of the Active Imperative?	τω
+What is the Second Person Dual form of the Personal Ending of the Active Imperative?	τον
+What is the Third Person Dual form of the Personal Ending of the Active Imperative?	των
+What is the Second Person Plural form of the Personal Ending of the Active Imperative?	τε
+What is the Third Person Plural form of the Personal Ending of the Active Imperative?	ντων
+What is the Second Person Singular form of the Present Active Imperative of λύω?	λῦε
+What is the Third Person Singular form of the Present Active Imperative of λύω?	λῡέ-τω
+What is the Second Person Dual form of the Present Active Imperative of λύω?	λύε-τον
+What is the Third Person Dual form of the Present Active Imperative of λύω?	λῡέ-των
+What is the Second Person Plural form of the Present Active Imperative of λύω?	λύε-τε
+What is the Third Person Plural form of the Present Active Imperative of λύω?	λῡό-ντων
+What is the Second Person Singular form of the Aorist Active Imperative of λύω?	λῦσον
+What is the Third Person Singular form of the Aorist Active Imperative of λύω?	λῡσά-τω
+What is the Second Person Dual form of the Aorist Active Imperative of λύω?	λύσα-τον
+What is the Third Person Dual form of the Aorist Active Imperative of λύω?	λῡσά-των
+What is the Second Person Plural form of the Aorist Active Imperative of λύω?	λύσα-τε
+What is the Third Person Plural form of the Aorist Active Imperative of λύω?	λῡσά-ντων
+What is the Second Person Singular form of the Present Active Imperative of εἰμί?	ἴσθι
+What is the Third Person Singular form of the Present Active Imperative of εἰμί?	ἔστω
+What is the Second Person Dual form of the Present Active Imperative of εἰμί?	ἔστον
+What is the Third Person Dual form of the Present Active Imperative of εἰμί?	ἔστων
+What is the Second Person Plural form of the Present Active Imperative of εἰμί?	ἔστε
+What is the Third Person Plural form of the Present Active Imperative of εἰμί?	ἔστων

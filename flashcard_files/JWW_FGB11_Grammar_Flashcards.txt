@@ -1,0 +1,35 @@
+tags:JWW_FGB11_Grammar
+What is the Nominative Singular form of the νεᾱνίᾱς ὁ (Young Man)?	νεᾱνίᾱς
+What is the Genitive Singular form of the νεᾱνίᾱς ὁ (Young Man)?	νεᾱνίου
+What is the Dative Singular form of the νεᾱνίᾱς ὁ (Young Man)?	νεᾱνίᾳ
+What is the Accusative Singular form of the νεᾱνίᾱς ὁ (Young Man)?	νεᾱνίᾱν
+What is the Vocative Singular form of the νεᾱνίᾱς ὁ (Young Man)?	νεᾱνίᾱ
+What is the Nominative Accusative and Vocative Dual form of the νεᾱνίᾱς ὁ (Young Man)?	νεᾱνίᾱ
+What is the Genitive and Dative Dual form of the νεᾱνίᾱς ὁ (Young Man)?	νεᾱνίαιν
+What is the Nominative and Vocative Plural form of the νεᾱνίᾱς ὁ (Young Man)?	νεᾱνίαι
+What is the Genitive Plural form of the νεᾱνίᾱς ὁ (Young Man)?	νεᾱνιῶν
+What is the Dative Plural form of the νεᾱνίᾱς ὁ (Young Man)?	νεᾱνίαις
+What is the Accusative Plural form of the νεᾱνίᾱς ὁ (Young Man)?	νεᾱνίᾱς
+What is the Nominative Singular form of the στρατιώτης ὁ (Soldier)?	στρατιώτης
+What is the Genitive Singular form of the στρατιώτης ὁ (Soldier)?	στρατιώτου
+What is the Dative Singular form of the στρατιώτης ὁ (Soldier)?	στρατιώτῃ
+What is the Accusative Singular form of the στρατιώτης ὁ (Soldier)?	στρατιώτην
+What is the Vocative Singular form of the στρατιώτης ὁ (Soldier)?	στρατιῶτα
+What is the Nominative Accusative and Vocative Dual form of the στρατιώτης ὁ (Soldier)?	στρατιώτᾱ
+What is the Genitive and Dative Dual form of the στρατιώτης ὁ (Soldier)?	στρατιώταιν
+What is the Nominative and Vocative Plural form of the στρατιώτης ὁ (Soldier)?	στρατιῶται
+What is the Genitive Plural form of the στρατιώτης ὁ (Soldier)?	στρατιωτῶν
+What is the Dative Plural form of the στρατιώτης ὁ (Soldier)?	στρατιώταις
+What is the Accusative Plural form of the στρατιώτης ὁ (Soldier)?	στρατιώτᾱς
+What is the Nominative Singular form of the πελταστής ὁ (Targeteer)?	πελταστής
+What is the Genitive Singular form of the πελταστής ὁ (Targeteer)?	πελταστοῦ
+What is the Dative Singular form of the πελταστής ὁ (Targeteer)?	πελταστῇ
+What is the Accusative Singular form of the πελταστής ὁ (Targeteer)?	πελταστήν
+What is the Vocative Singular form of the πελταστής ὁ (Targeteer)?	πελταστά
+What is the Nominative Accusative and Vocative Dual form of the πελταστής ὁ (Targeteer)?	πελταστά
+What is the Genitive and Dative Dual form of the πελταστής ὁ (Targeteer)?	πελτασταῖν
+What is the Nominative and Vocative Plural form of the πελταστής ὁ (Targeteer)?	πελτασταί
+What is the Genitive Plural form of the πελταστής ὁ (Targeteer)?	πελταστῶν
+What is the Dative Plural form of the πελταστής ὁ (Targeteer)?	πελτασταῖς
+What is the Accusative Plural form of the πελταστής ὁ (Targeteer)?	πελταστάς
+What is the Nominative Singular form of the Πέρσης ὁ (Persian)?	πελταστής

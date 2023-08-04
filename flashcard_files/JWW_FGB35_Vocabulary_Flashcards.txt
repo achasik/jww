@@ -1,0 +1,21 @@
+tags:JWW_FGB35_Vocabulary
+What does ἀ-μαχεί (ἀ neg. + μάχη) mean?	adv. without fighting.
+What does ἀργύριον ου τό (cf. ἀργυροῦς) mean?	silver money money.
+What does ἐθέλω ἐθελήσω ἠθέλησα ἠθέληκα mean?	be willing wish.
+What does ἕπομαι (σεπ) ἕψομαι ἑσπόμην mean?	follow accompany.
+What does κατ-άγω mean?	bring back restore.
+What does λοιπός ή όν (cf. λείπω) mean?	remaining; with the art. the rest.
+What does νῦν mean?	adv. now just now.
+What does παρα-καλέω mean?	call to one’s side summon.
+What does συμ-πορεύομαι mean?	accompany.
+What does φυγάς άδος ὁ (cf. φεύγω) mean?	fugitive exile.
+What is the Greek word for adv. without fighting?	ἀ-μαχεί (ἀ neg. + μάχη)
+What is the Greek word for silver money money?	ἀργύριον ου τό (cf. ἀργυροῦς)
+What is the Greek word for be willing wish?	ἐθέλω ἐθελήσω ἠθέλησα ἠθέληκα
+What is the Greek word for follow accompany?	ἕπομαι (σεπ) ἕψομαι ἑσπόμην
+What is the Greek word for bring back restore?	κατ-άγω
+What is the Greek word for remaining; with the art. the rest?	λοιπός ή όν (cf. λείπω)
+What is the Greek word for adv. now just now?	νῦν
+What is the Greek word for call to one’s side summon?	παρα-καλέω
+What is the Greek word for accompany?	συμ-πορεύομαι
+What is the Greek word for fugitive exile?	φυγάς άδος ὁ (cf. φεύγω)

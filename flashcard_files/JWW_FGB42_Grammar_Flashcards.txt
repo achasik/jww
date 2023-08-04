@@ -1,0 +1,32 @@
+tags:JWW_FGB42_Grammar
+What is the Nominative Singular form of the εὖρος τό.  Breadth?	εὖρος
+What is the Genitive Singular form of the εὖρος τό.  Breadth?	(εὔρε-ος) εὔρους
+What is the Dative Singular form of the εὖρος τό.  Breadth?	(εὔρε-ϊ) εὔρει
+What is the Accusative Singular form of the εὖρος τό.  Breadth?	εὖρος
+What is the Vocative Singular form of the εὖρος τό.  Breadth?	εὖρος
+What is the Nominative Accusative and Vocative Dual form of the εὖρος τό.  Breadth?	(εὔρε-ε) εὔρει
+What is the Genitive and Dative Dual form of the εὖρος τό.  Breadth?	(εὐρέ-οιν) εὐροῖν
+What is the Nominative and Vocative Plural form of the εὖρος τό.  Breadth?	(εὔρε-α) εὔρη
+What is the Genitive Plural form of the εὖρος τό.  Breadth?	εὐρέ-ων εὐρῶν
+What is the Dative Plural form of the εὖρος τό.  Breadth?	εὔρε-σι
+What is the Accusative Plural form of the εὖρος τό.  Breadth?	(εὔρε-α) εὔρη
+What is the Nominative Singular form of the τριήρης ὴ.  Trireme?	τριήρης
+What is the Genitive Singular form of the τριήρης ὴ.  Trireme?	(τριήρε-ος) τριήρους
+What is the Dative Singular form of the τριήρης ὴ.  Trireme?	(τριήρε-ϊ) τριήρει
+What is the Accusative Singular form of the τριήρης ὴ.  Trireme?	(τριήρε-α) τριήρη
+What is the Vocative Singular form of the τριήρης ὴ.  Trireme?	τριῆρες
+What is the Nominative Accusative and Vocative Dual form of the τριήρης ὴ.  Trireme?	(τριήρε-ε) τριήρει
+What is the Genitive and Dative Dual form of the τριήρης ὴ.  Trireme?	(τριηρέ-οιν) τριήροιν
+What is the Nominative and Vocative Plural form of the τριήρης ὴ.  Trireme?	(τριήρε-ες) τριήρεις
+What is the Genitive Plural form of the τριήρης ὴ.  Trireme?	(τριηρέ-ων) τριήρων
+What is the Dative Plural form of the τριήρης ὴ.  Trireme?	τριήρε-σι
+What is the Accusative Plural form of the τριήρης ὴ.  Trireme?	τριήρεις
+What is the Nominative Singular form of the κρέας τό. Meat?	κρέας
+What is the Genitive Singular form of the κρέας τό. Meat?	(κρέα-ος) κρέως
+What is the Dative Singular form of the κρέας τό. Meat?	(κρέα-ϊ) κρέαι
+What is the Accusative Singular form of the κρέας τό. Meat?	κρέας
+What is the Vocative Singular form of the κρέας τό. Meat?	κρέας
+What is the Nominative and Vocative Plural form of the κρέας τό. Meat?	(κρέα-α) κρέα
+What is the Genitive Plural form of the κρέας τό. Meat?	(κρεά-ων) κρεῶν
+What is the Dative Plural form of the κρέας τό. Meat?	κρέα-σι
+What is the Accusative Plural form of the κρέας τό. Meat?	(κρέα-α) κρέα

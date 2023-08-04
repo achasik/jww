@@ -1,0 +1,19 @@
+tags:JWW_FGB4_Vocabulary
+What is the best translation of καί?	conj. and also.
+What is the best translation of κακή?	adj. bad.
+What is the best translation of καλή?	adj. beautiful fine.
+What is the best translation of κραυγή ῆς ἡ?	outcry uproar.
+What is the best translation of κώμη ης ἡ?	village.
+What is the best translation of μάχη ης ἡ?	battle fight.
+What is the best translation of σκηνή ῆς ἡ?	tent.
+What is the best translation of σφενδόνη ης ἡ?	sling.
+What is the best translation of φοβερά?	adj. frightful fearful.
+What is the Greek word for conj. and also?	καί
+What is the Greek word for adj. bad?	κακή
+What is the Greek word for adj. beautiful fine?	καλή
+What is the Greek word for outcry uproar?	κραυγή ῆς ἡ
+What is the Greek word for village?	κώμη ης ἡ
+What is the Greek word for battle fight?	μάχη ης ἡ
+What is the Greek word for tent?	σκηνή ῆς ἡ
+What is the Greek word for sling?	σφενδόνη ης ἡ
+What is the Greek word for adj. frightful fearful?	φοβερά
